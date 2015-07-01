@@ -51,32 +51,47 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Build ------
 
-data: data/days-ja.json
+data: data/days-ja
 
 clean-data:
-	rm -fr local/input/files
+	rm -fr local/input-*
 
 EXTRACTOR = local/mwx/perl local/mwx/bin/extract-from-pages.pl
 EXTRACTOR_OPTS = --rules-file-name src/days.txt
 
-local/input/files:
-	mkdir -p local/input
-	perl -e 'print "1月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/1.json
-	perl -e 'print "2月$$_日\n" for 1..29' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/2.json
-	perl -e 'print "3月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/3.json
-	perl -e 'print "4月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/4.json
-	perl -e 'print "5月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/5.json
-	perl -e 'print "6月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/6.json
-	perl -e 'print "7月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/7.json
-	perl -e 'print "8月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/8.json
-	perl -e 'print "9月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/9.json
-	perl -e 'print "10月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/10.json
-	perl -e 'print "11月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/11.json
-	perl -e 'print "12月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > local/input/12.json
-	touch $@
+local/input-1.json:
+	perl -e 'print "1月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-2.json:
+	perl -e 'print "2月$$_日\n" for 1..29' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-3.json:
+	perl -e 'print "3月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-4.json:
+	perl -e 'print "4月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-5.json:
+	perl -e 'print "5月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-6.json:
+	perl -e 'print "6月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-7.json:
+	perl -e 'print "7月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-8.json:
+	perl -e 'print "8月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-9.json:
+	perl -e 'print "9月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-10.json:
+	perl -e 'print "10月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-11.json:
+	perl -e 'print "11月$$_日\n" for 1..30' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
+local/input-12.json:
+	perl -e 'print "12月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
 
-data/days-ja.json: local/input/files
-	$(PERL) bin/generate.pl > $@
+data/days-ja-%.json: local/input-%.json
+	$(PERL) bin/generate.pl $< > $@
+
+data/days-ja: \
+  data/days-ja-1.json data/days-ja-2.json data/days-ja-3.json \
+  data/days-ja-4.json data/days-ja-5.json data/days-ja-6.json \
+  data/days-ja-7.json data/days-ja-8.json data/days-ja-9.json \
+  data/days-ja-10.json data/days-ja-11.json data/days-ja-12.json
 
 ## ------ Tests ------
 

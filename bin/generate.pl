@@ -18,7 +18,7 @@ my $sections = {
   '誕生日(フィクション)' => 'fictional_birthdays',
 };
 
-for (glob $root_path->child ('local/input/*.json')) {
+for (@ARGV) {
   my $input_path = path ($_);
   my $data = json_bytes2perl $input_path->slurp;
   for my $day_key (keys %$data) {
