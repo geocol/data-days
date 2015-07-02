@@ -24664,35 +24664,178 @@
    },
    "_errors" : [
       [
-         "5月1日",
-         "誕生日(フィクション)",
+         "5月3日",
+         "記念日・年中行事",
          [
-            "string",
-            "神世紀285年 - 犬吠埼風、アニメ『結城友奈は勇者である』に登場するキャラクター"
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>憲法記念日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>",
+               [
+                  "string",
+                  " - ）"
+               ]
+            ],
+            [
+               "string",
+               "国民の祝日の一つ。1947年のこの日に日本国憲法が施行されたことを記念。"
+            ]
          ]
       ],
       [
-         "5月1日",
+         "5月3日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               [
+                  "unparsed",
+                  [
+                     "string",
+                     "ゴミの日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "） "
+                  ]
+               ],
+               " 本当にどこかで記念されている／祝われているのでしょうか……？ → 「記念日・祝日の事典」（東京堂出版）に記載あり "
+            ],
+            [
+               "string",
+               "「ご(5)み(3)」の語呂合せ。"
+            ]
+         ]
+      ],
+      [
+         "5月20日",
+         "誕生日",
+         [
+            "string",
+            "未来世紀31年 - シュバルツ・ブルーダー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター（\u002B 未来世紀60年）"
+         ]
+      ],
+      [
+         "5月20日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八十八夜\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2012年）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三国祭\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福井県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>坂井市\u003C/mw:l>三国町）本祭りの日"
          ]
       ],
       [
-         "5月12日",
-         "誕生日(フィクション)",
+         "5月20日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>酒田祭り\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>酒田市\u003C/mw:l>）本祭りの日"
+         ]
+      ],
+      [
+         "5月10日",
+         "誕生日",
          [
             "string",
-            "ギルガメス暦2318年 - ル・シャッコ、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
+            "213年/214年 - クラウディウス・ゴティクス、軍人皇帝時代のローマ皇帝（\u002B 270年）"
          ]
       ],
       [
-         "5月23日",
+         "5月10日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - レニー・ハート、ナレーター"
+         ]
+      ],
+      [
+         "5月10日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 金田まひる、声優"
+         ]
+      ],
+      [
+         "5月10日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 諸岡きゅうこ、漫画家"
+         ]
+      ],
+      [
+         "5月10日",
+         "記念日・年中行事",
+         [
+            "with-list",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>愛鳥週間\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月16日\u003C/mw:l>",
+               [
+                  "string",
+                  "まで"
+               ]
+            ],
+            [
+               "list",
+               [
+                  "with-indent",
+                  [
+                     "unparsed",
+                     [
+                        "string",
+                        "愛鳥の日（"
+                     ],
+                     "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+                     [
+                        "string",
+                        "、1947年 - 1949年）"
+                     ]
+                  ],
+                  [
+                     "string",
+                     "1947年に4月10日の「愛鳥の日」として実施されたが、まだ冬鳥が多い時期であるとして後に1か月ずらした5月10日とした。1950年からは「愛鳥週間」に移行した。"
+                  ]
+               ]
+            ]
+         ]
+      ],
+      [
+         "5月25日",
          "フィクションのできごと",
          [
             "string",
-            "19XX年 - 島村と駒子が初めて出会う。（小説『雪国』）"
+            "宇宙暦799年 - バーラトの和約（小説・アニメ『銀河英雄伝説』）"
+         ]
+      ],
+      [
+         "5月25日",
+         "できごと",
+         [
+            "string",
+            "紀元前240年（始皇帝7年） - 『史記』秦始皇本紀にハレー彗星出現の確実で最も古い記録。"
          ]
       ],
       [
@@ -24749,31 +24892,93 @@
          ]
       ],
       [
-         "5月19日",
-         "できごと",
+         "5月11日",
+         "フィクションのできごと",
          [
             "string",
-            "639年 (貞觀13年4月甲申) - 阿史那結社率とその郎党が九成宮 (陝西省麟游県) で太宗を襲撃。"
+            "U.C.0087年 - エゥーゴが地球連邦軍本部ジャブローに降下作戦を開始。同日、ジャブローを脱出。（アニメ『機動戦士Ζガンダム』）"
          ]
       ],
       [
-         "5月19日",
+         "5月11日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>アタテュルク記念と青少年とスポーツの日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Commemoration of Atatürk, Youth and Sports Day\u003C/mw:iparam>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニスガ族\u003C/mw:l>",
                [
                   "string",
-                  "（"
+                  "の日（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUR\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CAN\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "・"
+                  " ニスカ自治政府）"
+               ]
+            ],
+            [
+               "with-comment",
+               [
+                  "string",
+                  "1999年のこの日、カナダ政府、ブリティッシュコロンビア州政府、ニスガ族の間で、ニスガ族の先住民土地請求問題を解決する「ニスガ条約」が締結されたことを記念。"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北キプロス・トルコ共和国\u0022>北キプロス\u003C/mw:l>",
+               " Nisga'a「ニスガ」、Nisqa「ニスカ」 "
+            ]
+         ]
+      ],
+      [
+         "5月4日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>みどりの日\u003C/mw:l> （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、2007年 - ）"
+         ]
+      ],
+      [
+         "5月4日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国民の休日\u003C/mw:l> （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、1986年 - 2006年、火 - 土曜日のみ）"
+         ]
+      ],
+      [
+         "5月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "青年の日",
+                  "region_wref" : "FJI"
+               },
+               " [[フィジー#文化]]には「移動祝日」と書かれているが、英語版にはその旨の記述なし "
+            ],
+            [
+               "string",
+               "5月5日の解放記念日の前日。第二次世界大戦の戦没者を想う日。"
+            ]
+         ]
+      ],
+      [
+         "5月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "スター・ウォーズの日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
                   "）"
@@ -24781,50 +24986,45 @@
             ],
             [
                "string",
-               "1919年のこの日、オスマン政府より派遣されたケマル・アタテュルクがアナトリア北部の港町サムスンに上陸したことを記念。第一次大戦に敗れたトルコは連合国に分割占領されたが、各地でそれに反対する抵抗運動が起こっていた。ケマルは抵抗運動抑止のために派遣されたものであったが、その意に反して抵抗運動の指導者となった。この日はトルコ解放戦争開始の日として記念日とされている。"
+               "映画『スター・ウォーズ・シリーズ』を記念する日。劇中の台詞\u0022May the Force be with you\u0022を\u0022May 4th\u0022にかけたもの。"
             ]
          ]
       ],
       [
-         "5月19日",
+         "5月14日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界肝炎デー\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>独立記念日\u003C/mw:l>",
                [
                   "string",
                   "（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRY\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "、"
+                  "） "
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月15日\u003C/mw:l>",
                [
                   "string",
-                  " - "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2010年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
+                  "まで"
                ]
             ],
             [
                "string",
-               "世界肝炎アライアンスが制定。2010年5月に世界保健機関が7月28日を世界肝炎デーとすることを決議した。"
+               "1811年5月14日にパラグアイがスペインから独立したことを記念。"
             ]
          ]
       ],
       [
-         "5月22日",
-         "できごと",
+         "5月14日",
+         "記念日・年中行事",
          [
-            "string",
-            "紀元前334年 - アレクサンドロス3世のマケドニア王国軍がグラニコス川の戦いでペルシア軍を破る。"
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖衆来迎練供養会式\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>奈良県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>葛城市\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>當麻寺\u003C/mw:l>）"
          ]
       ],
       [
@@ -24836,27 +25036,56 @@
          ]
       ],
       [
-         "5月15日",
+         "5月23日",
+         "フィクションのできごと",
+         [
+            "string",
+            "19XX年 - 島村と駒子が初めて出会う。（小説『雪国』）"
+         ]
+      ],
+      [
+         "5月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>第二次世界大戦中に命を失った全ての人に追悼を捧げる日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、- "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月9日\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "2004年の国連総会にて制定。5月8日・9日のいずれかまたは両日に、第二次世界大戦で命を失った人々全てに追悼を捧げるよう、国連加盟国、国連諸機関、NGOおよび全ての人に対し要請している。"
+            ]
+         ]
+      ],
+      [
+         "5月28日",
+         "できごと",
+         [
+            "string",
+            "紀元前585年 - ハリスの戦い。メディア王国がリュディアに攻め込むが、偶然起こった日蝕を不吉に感じて戦争をやめ、戦場となったハリス川を国境に定める。"
+         ]
+      ],
+      [
+         "5月24日",
          "誕生日",
          [
             "string",
-            "不明 - 織田綺、漫画家"
-         ]
-      ],
-      [
-         "5月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>教師の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>、\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022MEX\u0022>\u003C/mw:include>）"
-         ]
-      ],
-      [
-         "5月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>葵祭\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>）"
+            "紀元前15年 - ゲルマニクス、ローマ帝国の軍司令官（\u002B 19年）"
          ]
       ],
       [
@@ -24947,27 +25176,143 @@
          ]
       ],
       [
-         "5月20日",
-         "誕生日",
+         "5月12日",
+         "誕生日(フィクション)",
          [
             "string",
-            "未来世紀31年 - シュバルツ・ブルーダー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター（\u002B 未来世紀60年）"
+            "ギルガメス暦2318年 - ル・シャッコ、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
          ]
       ],
       [
-         "5月20日",
-         "記念日・年中行事",
+         "5月27日",
+         "できごと",
          [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三国祭\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福井県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>坂井市\u003C/mw:l>三国町）本祭りの日"
+            "string",
+            "1703年（ユリウス暦5月16日） - ペトロパヴロフスク要塞の建設が起工、サンクトペテルブルク建都の日とされる。"
          ]
       ],
       [
-         "5月20日",
+         "5月2日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>酒田祭り\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>酒田市\u003C/mw:l>）本祭りの日"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八十八夜\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2009年・2010年・2011年・2013年）"
+         ]
+      ],
+      [
+         "5月2日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>緑茶\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）（平年のみ。閏年は"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月1日\u003C/mw:l>",
+               [
+                  "string",
+                  "。）"
+               ]
+            ],
+            [
+               "string",
+               "日本茶業中央会が制定。八十八夜にちなむものであるが、八十八夜は年によって日が変わるので、平年は5月2日、閏年は5月1日に固定して実施している。"
+            ]
+         ]
+      ],
+      [
+         "5月1日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "神世紀285年 - 犬吠埼風、アニメ『結城友奈は勇者である』に登場するキャラクター"
+         ]
+      ],
+      [
+         "5月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八十八夜\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2012年）"
+         ]
+      ],
+      [
+         "5月19日",
+         "できごと",
+         [
+            "string",
+            "639年 (貞觀13年4月甲申) - 阿史那結社率とその郎党が九成宮 (陝西省麟游県) で太宗を襲撃。"
+         ]
+      ],
+      [
+         "5月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>アタテュルク記念と青少年とスポーツの日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Commemoration of Atatürk, Youth and Sports Day\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUR\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北キプロス・トルコ共和国\u0022>北キプロス\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1919年のこの日、オスマン政府より派遣されたケマル・アタテュルクがアナトリア北部の港町サムスンに上陸したことを記念。第一次大戦に敗れたトルコは連合国に分割占領されたが、各地でそれに反対する抵抗運動が起こっていた。ケマルは抵抗運動抑止のために派遣されたものであったが、その意に反して抵抗運動の指導者となった。この日はトルコ解放戦争開始の日として記念日とされている。"
+            ]
+         ]
+      ],
+      [
+         "5月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界肝炎デー\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>",
+               [
+                  "string",
+                  " - "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2010年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "世界肝炎アライアンスが制定。2010年5月に世界保健機関が7月28日を世界肝炎デーとすることを決議した。"
+            ]
          ]
       ],
       [
@@ -25079,275 +25424,6 @@
          ]
       ],
       [
-         "5月25日",
-         "できごと",
-         [
-            "string",
-            "紀元前240年（始皇帝7年） - 『史記』秦始皇本紀にハレー彗星出現の確実で最も古い記録。"
-         ]
-      ],
-      [
-         "5月25日",
-         "フィクションのできごと",
-         [
-            "string",
-            "宇宙暦799年 - バーラトの和約（小説・アニメ『銀河英雄伝説』）"
-         ]
-      ],
-      [
-         "5月14日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>独立記念日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRY\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "） "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月15日\u003C/mw:l>",
-               [
-                  "string",
-                  "まで"
-               ]
-            ],
-            [
-               "string",
-               "1811年5月14日にパラグアイがスペインから独立したことを記念。"
-            ]
-         ]
-      ],
-      [
-         "5月14日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖衆来迎練供養会式\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>奈良県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>葛城市\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>當麻寺\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "5月11日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0087年 - エゥーゴが地球連邦軍本部ジャブローに降下作戦を開始。同日、ジャブローを脱出。（アニメ『機動戦士Ζガンダム』）"
-         ]
-      ],
-      [
-         "5月11日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニスガ族\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CAN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " ニスカ自治政府）"
-               ]
-            ],
-            [
-               "with-comment",
-               [
-                  "string",
-                  "1999年のこの日、カナダ政府、ブリティッシュコロンビア州政府、ニスガ族の間で、ニスガ族の先住民土地請求問題を解決する「ニスガ条約」が締結されたことを記念。"
-               ],
-               " Nisga'a「ニスガ」、Nisqa「ニスカ」 "
-            ]
-         ]
-      ],
-      [
-         "5月8日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>第二次世界大戦中に命を失った全ての人に追悼を捧げる日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、- "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月9日\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "2004年の国連総会にて制定。5月8日・9日のいずれかまたは両日に、第二次世界大戦で命を失った人々全てに追悼を捧げるよう、国連加盟国、国連諸機関、NGOおよび全ての人に対し要請している。"
-            ]
-         ]
-      ],
-      [
-         "5月3日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>憲法記念日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>",
-               [
-                  "string",
-                  " - ）"
-               ]
-            ],
-            [
-               "string",
-               "国民の祝日の一つ。1947年のこの日に日本国憲法が施行されたことを記念。"
-            ]
-         ]
-      ],
-      [
-         "5月3日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  [
-                     "string",
-                     "ゴミの日（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "） "
-                  ]
-               ],
-               " 本当にどこかで記念されている／祝われているのでしょうか……？ → 「記念日・祝日の事典」（東京堂出版）に記載あり "
-            ],
-            [
-               "string",
-               "「ご(5)み(3)」の語呂合せ。"
-            ]
-         ]
-      ],
-      [
-         "5月29日",
-         "できごと",
-         [
-            "string",
-            "1727年（ユリウス暦5月18日） - ピョートル2世がロシア皇帝に即位。"
-         ]
-      ],
-      [
-         "5月28日",
-         "できごと",
-         [
-            "string",
-            "紀元前585年 - ハリスの戦い。メディア王国がリュディアに攻め込むが、偶然起こった日蝕を不吉に感じて戦争をやめ、戦場となったハリス川を国境に定める。"
-         ]
-      ],
-      [
-         "5月10日",
-         "誕生日",
-         [
-            "string",
-            "213年/214年 - クラウディウス・ゴティクス、軍人皇帝時代のローマ皇帝（\u002B 270年）"
-         ]
-      ],
-      [
-         "5月10日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - レニー・ハート、ナレーター"
-         ]
-      ],
-      [
-         "5月10日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 金田まひる、声優"
-         ]
-      ],
-      [
-         "5月10日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 諸岡きゅうこ、漫画家"
-         ]
-      ],
-      [
-         "5月10日",
-         "記念日・年中行事",
-         [
-            "with-list",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>愛鳥週間\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月16日\u003C/mw:l>",
-               [
-                  "string",
-                  "まで"
-               ]
-            ],
-            [
-               "list",
-               [
-                  "with-indent",
-                  [
-                     "unparsed",
-                     [
-                        "string",
-                        "愛鳥の日（"
-                     ],
-                     "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-                     [
-                        "string",
-                        "、1947年 - 1949年）"
-                     ]
-                  ],
-                  [
-                     "string",
-                     "1947年に4月10日の「愛鳥の日」として実施されたが、まだ冬鳥が多い時期であるとして後に1か月ずらした5月10日とした。1950年からは「愛鳥週間」に移行した。"
-                  ]
-               ]
-            ]
-         ]
-      ],
-      [
          "5月26日",
          "できごと",
          [
@@ -25384,77 +25460,6 @@
          ]
       ],
       [
-         "5月24日",
-         "誕生日",
-         [
-            "string",
-            "紀元前15年 - ゲルマニクス、ローマ帝国の軍司令官（\u002B 19年）"
-         ]
-      ],
-      [
-         "5月4日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>みどりの日\u003C/mw:l> （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、2007年 - ）"
-         ]
-      ],
-      [
-         "5月4日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国民の休日\u003C/mw:l> （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、1986年 - 2006年、火 - 土曜日のみ）"
-         ]
-      ],
-      [
-         "5月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "青年の日",
-                  "region_wref" : "FJI"
-               },
-               " [[フィジー#文化]]には「移動祝日」と書かれているが、英語版にはその旨の記述なし "
-            ],
-            [
-               "string",
-               "5月5日の解放記念日の前日。第二次世界大戦の戦没者を想う日。"
-            ]
-         ]
-      ],
-      [
-         "5月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "スター・ウォーズの日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "映画『スター・ウォーズ・シリーズ』を記念する日。劇中の台詞\u0022May the Force be with you\u0022を\u0022May 4th\u0022にかけたもの。"
-            ]
-         ]
-      ],
-      [
          "5月31日",
          "できごと",
          [
@@ -25463,48 +25468,43 @@
          ]
       ],
       [
-         "5月27日",
-         "できごと",
+         "5月15日",
+         "誕生日",
          [
             "string",
-            "1703年（ユリウス暦5月16日） - ペトロパヴロフスク要塞の建設が起工、サンクトペテルブルク建都の日とされる。"
+            "不明 - 織田綺、漫画家"
          ]
       ],
       [
-         "5月2日",
+         "5月15日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八十八夜\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2009年・2010年・2011年・2013年）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>教師の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>、\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022MEX\u0022>\u003C/mw:include>）"
          ]
       ],
       [
-         "5月2日",
+         "5月15日",
          "記念日・年中行事",
          [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>緑茶\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）（平年のみ。閏年は"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>5月1日\u003C/mw:l>",
-               [
-                  "string",
-                  "。）"
-               ]
-            ],
-            [
-               "string",
-               "日本茶業中央会が制定。八十八夜にちなむものであるが、八十八夜は年によって日が変わるので、平年は5月2日、閏年は5月1日に固定して実施している。"
-            ]
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>葵祭\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "5月22日",
+         "できごと",
+         [
+            "string",
+            "紀元前334年 - アレクサンドロス3世のマケドニア王国軍がグラニコス川の戦いでペルシア軍を破る。"
+         ]
+      ],
+      [
+         "5月29日",
+         "できごと",
+         [
+            "string",
+            "1727年（ユリウス暦5月18日） - ピョートル2世がロシア皇帝に即位。"
          ]
       ]
    ]

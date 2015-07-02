@@ -1516,7 +1516,7 @@
             "year" : "2010"
          },
          {
-            "desc" : "およそ3年半ぶりに閏秒が導入。23時59分59秒と0時0分0秒 (UTC) の間に23時59分60秒が挿入された。",
+            "desc" : "閏秒が導入。6月30日23時59分59秒と7月1日0時0分0秒 (UTC) の間に23時59分60秒が挿入された。",
             "year" : "2012"
          },
          {
@@ -1526,6 +1526,10 @@
          {
             "desc" : "日本の集団的自衛権の行使容認が閣議決定される。",
             "year" : "2014"
+         },
+         {
+            "desc" : "閏秒が導入。6月30日23時59分59秒と7月1日0時0分0秒 (UTC) の間に23時59分60秒が挿入された。",
+            "year" : "2015"
          }
       ],
       "jp_towns" : [
@@ -2157,12 +2161,6 @@
             "name" : "ナイジャー・モーガン",
             "wref" : "ナイジャー・モーガン",
             "year" : "1980"
-         },
-         {
-            "desc" : "プロ野球選手",
-            "name" : "エンヘル・チャベス",
-            "wref" : "エンヘル・チャベス",
-            "year" : "1981"
          },
          {
             "desc" : "シンガーソングライター",
@@ -4941,6 +4939,10 @@
             "desc" : "漫画・アニメ『史上最強の弟子ケンイチ』に登場するキャラクター",
             "name" : "白浜ほのか",
             "wref" : "史上最強の弟子ケンイチの登場人物#白浜ほのか"
+         },
+         {
+            "desc" : "漫画・アニメ『帰宅部活動記録』に登場するキャラクター",
+            "name" : "安藤夏希"
          }
       ],
       "fictionals" : [
@@ -25746,6 +25748,12 @@
             "year" : "1981"
          },
          {
+            "desc" : "プロ野球選手",
+            "name" : "エンヘル・チャベス",
+            "wref" : "エンヘル・チャベス",
+            "year" : "1981"
+         },
+         {
             "desc" : "タレント",
             "name" : "星ひとみ",
             "wref" : "星ひとみ",
@@ -37295,6 +37303,291 @@
    },
    "_errors" : [
       [
+         "7月21日",
+         "できごと",
+         [
+            "string",
+            "紀元前356年 - ヘロストラトスがエフェソスのアルテミス神殿に放火。"
+         ]
+      ],
+      [
+         "7月21日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2003年\u003C/mw:l>以降7月の第3月曜日）"
+         ]
+      ],
+      [
+         "7月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "ポツダム宣言記念日",
+                  "region_wref" : "JPN"
+               },
+               " 極めて重要な「できごと」ではあります。が、これが本当に「モンカダ兵営襲撃記念日」や「広島原爆の日」のように実際に記念日として広く祝われたり偲ばれたりはしているのでしょうか？　一般論として、もしそうでなく、ウィキペディア（と記念日の本）上にしか存在しないのなら、「できごと」節だけの掲載にした方が良いのではないかと思います。"
+            ],
+            [
+               "string",
+               "1945年7月26日に、日本に降伏を迫る「ポツダム宣言」が発表されたことに由来。当初日本はこれを黙殺したが同年8月14日に受け入れて終戦した。"
+            ]
+         ]
+      ],
+      [
+         "7月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "盆迎え火",
+                  "region_wref" : "JPN"
+               },
+               " 企業や学校の休みや気候などの関係やで月後れの8月13日（-16日）のお盆が多くなっているようですが、どう扱ったものか？（[[8月13日]]などには記載なし） "
+            ],
+            [
+               "string",
+               "盆の初日。家門で火をたき、祖先の霊を迎える。旧暦7月13日に行われていたもので、現代では地域などにより新暦7月13日や1カ月遅らせた8月13日などに行われている。"
+            ]
+         ]
+      ],
+      [
+         "7月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "国家主権の日 (モンテネグロ)",
+                  "region_wref" : "MNE",
+                  "wref" : "国家主権の日 (モンテネグロ)"
+               },
+               " 定訳不明 "
+            ],
+            [
+               "string",
+               "1878年のこの日に締結されたベルリン条約によりモンテネグロほかのオスマン帝国からの独立が承認されたことを記念。"
+            ]
+         ]
+      ],
+      [
+         "7月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               [
+                  "unparsed",
+                  [
+                     "string",
+                     "オカルト記念日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "） "
+                  ]
+               ],
+               " 検索するとそこそこ出て来ますが、判で押したように同じ説明しかなく情報源不在…唱道者など根拠となる情報が必要？"
+            ],
+            [
+               "string",
+               "1974年7月13日に、オカルトブームの火つけ役となった映画『エクソシスト』が日本で初公開されたことに由来。"
+            ]
+         ]
+      ],
+      [
+         "7月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "イーサン・ハントの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "映画『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ミッション\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>インポッシブル]]』が1996年7月13日に日本で公開されたことを記念して、主役のイーサン・ハントの名前をとり、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本記念日協会\u003C/mw:l>により2015年に正式認定された\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022cite web\u0022>\u003Cmw:iparam name=\u0022url\u0022>\u003Cmw:xl bare=\u0022\u0022>http://www.cinematoday.jp/page/N0074401\u003C/mw:xl>\u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>7月13日が「イーサン・ハントの日」に認定\u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>シネマトゥデイ\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2015-06-26\u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2015-06-26\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "7月13日",
+         "誕生日",
+         [
+            "string",
+            "紀元前100年 - ガイウス・ユリウス・カエサル、政治家（\u002B 紀元前44年）※7月12日説もある"
+         ]
+      ],
+      [
+         "7月27日",
+         "できごと",
+         [
+            "string",
+            "1794年（フランス革命暦II年テルミドール9日） - フランス革命: テルミドールのクーデター。"
+         ]
+      ],
+      [
+         "7月27日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "政治を考える日",
+                  "region_wref" : "JPN"
+               },
+               " 『366日誕生石の本』（日本ヴォーグ社）に記載。この本以外では見られないので、この本で創作された記念日と思われる ",
+               " こういうものは外していった方がいいように思います "
+            ],
+            [
+               "string",
+               "1976年のこの日、ロッキード事件で田中角栄前首相（当時）が逮捕されたことによる。"
+            ]
+         ]
+      ],
+      [
+         "7月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "フィリピン・アメリカ友好記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PHL\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、1964年 - ）"
+               ]
+            ],
+            [
+               "string",
+               "1946年のこの日、フィリピン共和国がアメリカから独立した。当初はこの日を独立記念日としていたが、1964年から独立記念日は1898年にフィリピン革命軍の最高指導者エミリオ・アギナルド将軍がフィリピン第一共和国の独立を宣言した6月12日となり、7月4日は比米友好記念日となった。"
+            ]
+         ]
+      ],
+      [
+         "7月4日",
+         "フィクションのできごと",
+         [
+            "string",
+            "年度不明 - 2日前にアメリカ上空に現れた異星人の超大型円盤艇をアメリカ空軍などが撃墜する。（映画『インデペンデンス・デイ』）"
+         ]
+      ],
+      [
+         "7月31日",
+         "できごと",
+         [
+            "string",
+            "1588年（ユリウス暦7月21日） - イギリス艦隊とスペイン無敵艦隊の間のアルマダの海戦が始まる。"
+         ]
+      ],
+      [
+         "7月31日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "カ・ハエ・ハワイイ・デイ、ハワイ旗の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022Flag2\u0022>\u003Cmw:iparam>ハワイ州\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1990年にハワイ州知事が制定。"
+            ]
+         ]
+      ],
+      [
+         "7月31日",
+         "フィクションのできごと",
+         [
+            "string",
+            "宇宙世紀0085年 - 30バンチ事件発生。（アニメ『機動戦士Ζガンダム』）"
+         ]
+      ],
+      [
+         "7月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "全国タイ語の日",
+                  "region_wref" : "THA"
+               },
+               " 国語の日 ←という形式の方が良い？ "
+            ],
+            [
+               "string",
+               "タイ王国政府が制定している記念日。祝日ではない。"
+            ]
+         ]
+      ],
+      [
+         "7月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "アマチュア無線の日",
+                  "region_wref" : "JPN",
+                  "wref" : "アマチュア無線の日"
+               },
+               " 4/18に「世界アマチュア無線の日」というのもあります "
+            ],
+            [
+               "string",
+               "1952年のこの日、戦中に禁止されていたアマチュア無線が解禁され、全国の30人に無線局予備免許が交付されたことを記念し、1973年に日本アマチュア無線連盟が制定。アマチュア無線の健全な発達と、知識の普及を目的とする。"
+            ]
+         ]
+      ],
+      [
+         "7月29日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>白だし\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>1978年に初めて白醤油にだしを加えた調味料「白だし」を製造販売した愛知県安城市の七福醸造が制定。\u003C/dd>\u003Cdd>同社の社名「ひち(7)ふ(2)く(9)」の語呂合せ。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "7月29日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福神漬\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>漬け物メーカーの新進が制定。\u003C/dd>\u003Cdd>福神漬の名前の由来である七福神から、七(しち)二(ふ)九(く)で「しちふく」の語呂合せ。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "7月2日",
+         "できごと",
+         [
+            "string",
+            "1860年（ユリウス暦6月20日） - ロシア帝国の輸送船「マンジュール号」が金角湾に到達、湾の北岸に砦の建設を開始、ウラジオストク開基の日とされる。"
+         ]
+      ],
+      [
          "7月2日",
          "記念日・年中行事",
          [
@@ -37319,11 +37612,279 @@
          ]
       ],
       [
-         "7月2日",
+         "7月15日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>お盆\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>盂蘭盆\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）（地域により\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>月遅れ\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月15日\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月15日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>博多祇園山笠\u003C/mw:l>",
+               [
+                  "string",
+                  "・追い山（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福岡市\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>博多区\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022櫛田神社 (福岡市)\u0022>櫛田神社\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "一番山笠が午前4時59分にスタートする。"
+            ]
+         ]
+      ],
+      [
+         "7月15日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "海の日 （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月3日",
+         "フィクションのできごと",
+         [
+            "string",
+            "アストラギウス暦7213年 - 「秘密結社」によってメルキア軍の秘密研究所が存在する小惑星リドが襲撃され、PS（パーフェクト・ソルジャー）の素体が強奪される事件が発生。（アニメ『装甲騎兵ボトムズ』）"
+         ]
+      ],
+      [
+         "7月24日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "シモン・ボリバル・デー（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ECU\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022VEN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "南米の独立運動を指導したシモン・ボリバルの誕生日。"
+            ]
+         ]
+      ],
+      [
+         "7月24日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>天神祭\u003C/mw:l>宵宮（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪市\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪天満宮\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月24日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "未来世紀39年 - ドモン・カッシュ、アニメ『機動武闘伝Gガンダム』の主人公"
+         ]
+      ],
+      [
+         "7月24日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "未来世紀43年 - アレンビー・ビアズリー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
+         ]
+      ],
+      [
+         "7月24日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "生年不明‐高木藤丸、漫画・ドラマ『BLOODY MONDAY〕』の主人公"
+         ]
+      ],
+      [
+         "7月24日",
+         "誕生日",
+         [
+            "string",
+            "1820年（文政3年6月15日）浜口梧陵、実業家、社会事業家（\u002B 1885年）"
+         ]
+      ],
+      [
+         "7月25日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>天神祭\u003C/mw:l>本宮（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪天満宮\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "最高気温記念日",
+                  "region_wref" : "JPN",
+                  "wref" : "気温#最高気温"
+               },
+               " 破られても「記念日」？　そもそも本当に記念日として実在？ "
+            ],
+            [
+               "string",
+               "1933年7月25日に、山形県山形市で最高気温40.8度を記録したことに由来。長らくこれが日本の最高記温の記録となっていたが、2007年8月16日に埼玉県熊谷市と岐阜県多治見市で40.9度を観測し、74年ぶりに記録が更新された。"
+            ]
+         ]
+      ],
+      [
+         "7月25日",
+         "誕生日",
+         [
+            "string",
+            "1575年? - クリストフ・シャイナー、天文学者（\u002B 1650年）"
+         ]
+      ],
+      [
+         "7月10日",
          "できごと",
          [
             "string",
-            "1860年（ユリウス暦6月20日） - ロシア帝国の輸送船「マンジュール号」が金角湾に到達、湾の北岸に砦の建設を開始、ウラジオストク開基の日とされる。"
+            "紀元前48年 - ローマ内戦: デュッラキウムの戦い"
+         ]
+      ],
+      [
+         "7月10日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "国土建設記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、- "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2000年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1948年（昭和23年）のこの日、建設院が省に昇格して建設省となったことを記念したもの。2001年（平成13年）の中央省庁再編により、運輸省・国土庁等と合併して国土交通省となったことにより、国土交通省設置法公布の日（7月16日）の国土交通Dayに移行した。"
+            ]
+         ]
+      ],
+      [
+         "7月22日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "下駄の日",
+                  "region_wref" : "JPN"
+               },
+               " 11月11日にもあります。（[[11月11日]]ひどいなあ…）"
+            ],
+            [
+               "string",
+               "全国木製はきもの業組合連合会が制定。「七寸七分」など下駄の寸法を表すのに7がよく使われることと、雪道を下駄で歩くとその跡が「二二」に見えることから。"
+            ]
+         ]
+      ],
+      [
+         "7月18日",
+         "できごと",
+         [
+            "string",
+            "紀元前390年 - ローマ・ガリア戦争: アッリアの戦い（伝承による日付）"
+         ]
+      ],
+      [
+         "7月18日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月12日",
+         "できごと",
+         [
+            "string",
+            "1690年（ユリウス暦7月1日） - ウィリアマイト戦争: ボイン川の戦い"
+         ]
+      ],
+      [
+         "7月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "ローリング・ストーンズ記念日"
+               },
+               " 不掲載。世界級の名バンドとはいえバンドのデビューを記念日に掲載するのは疑問が残ります "
+            ],
+            [
+               "string",
+               "1962年のこの日、ローリング・ストーンズがロンドン・マーキークラブで初のライブを行ったことを記念。"
+            ]
+         ]
+      ],
+      [
+         "7月12日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 四・一八事件が終結。（小説『葉桜が来た夏』）"
+         ]
+      ],
+      [
+         "7月1日",
+         "できごと",
+         [
+            "string",
+            "紀元前776年 - 古代オリンピック第1回大会開催。"
          ]
       ],
       [
@@ -37455,90 +38016,140 @@
          ]
       ],
       [
-         "7月1日",
-         "できごと",
+         "7月7日",
+         "記念日・年中行事",
          [
-            "string",
-            "紀元前776年 - 古代オリンピック第1回大会開催。"
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>小暑\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2010年・2011年・2012年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が105度の時で、梅雨明けが近づき、暑さが本格的になるころ。"
+            ]
          ]
       ],
       [
-         "7月3日",
+         "7月7日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "宇宙暦6974年（西暦換算8967年） - ジャスティ・ウエキ・タイラー、ライトノベル『宇宙一の無責任男』の主人公"
+         ]
+      ],
+      [
+         "7月7日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "ギルガメス暦2326年（アストラギウス暦7196年） - キリコ・キュービィー、アニメ『装甲騎兵ボトムズ』の主人公"
+         ]
+      ],
+      [
+         "7月7日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "宇宙暦6974年（西暦換算8967年） - ジャスティ・ウエキ・タイラー、ライトノベル『宇宙一の無責任男』の主人公"
+         ]
+      ],
+      [
+         "7月7日",
          "フィクションのできごと",
          [
             "string",
-            "アストラギウス暦7213年 - 「秘密結社」によってメルキア軍の秘密研究所が存在する小惑星リドが襲撃され、PS（パーフェクト・ソルジャー）の素体が強奪される事件が発生。（アニメ『装甲騎兵ボトムズ』）"
+            "毎年この日の夜にだけ、織姫と彦星が天の川を渡って逢うことが許されている。（七夕の伝説〈牛郎織女〉）"
          ]
       ],
       [
-         "7月18日",
-         "記念日・年中行事",
+         "7月7日",
+         "フィクションのできごと",
          [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>）"
+            "string",
+            "昭和百年（西暦換算2025年） - 宇宙貨物船いざなみ、火星から地球への帰還途中に、地球軌道上で異常高温により爆発。東京に墜落した残骸から怪獣ネガドンが出現し、東京湾内から発進したMI-6と交戦する。（特撮映画『惑星大怪獣ネガドン』）"
          ]
       ],
       [
-         "7月18日",
+         "7月7日",
+         "フィクションのできごと",
+         [
+            "string",
+            "777年（西暦換算年不明） - イグニール、メタリカーナをはじめとする滅竜魔法の使い手であるドラゴンが一斉に姿を消す。これは本編の7年前の出来事とされている。（漫画・アニメ『FAIRY TAIL』）"
+         ]
+      ],
+      [
+         "7月6日",
          "できごと",
          [
             "string",
-            "紀元前390年 - ローマ・ガリア戦争: アッリアの戦い（伝承による日付）"
+            "紀元前371年 - レウクトラの戦い。テーバイを中心とするボイオティア同盟軍が、スパルタを中心とするペロポネソス同盟軍を破る。"
          ]
       ],
       [
-         "7月29日",
+         "7月6日",
          "記念日・年中行事",
          [
             "with-indent",
             [
-               "with-comment",
-               {
-                  "name" : "全国タイ語の日",
-                  "region_wref" : "THA"
-               },
-               " 国語の日 ←という形式の方が良い？ "
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サン・フェルミン祭\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ESP\u0022>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ナバラ州\u003C/mw:l>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00227月14日\u0022>14日\u003C/mw:l>",
+               [
+                  "string",
+                  "まで）"
+               ]
             ],
             [
                "string",
-               "タイ王国政府が制定している記念日。祝日ではない。"
+               "通称 牛追い祭り"
             ]
          ]
       ],
       [
-         "7月29日",
+         "7月6日",
          "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典範囲\u0022>\u003Cmw:iparam>\u003Cmw:l>記念日\u003C/mw:l>の日（\u003Cmw:include wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cdl>\u003Cdd>日本記念日学会が制定。「\u003Cb>サラダ記念日\u003C/b>」にちなむ。\u003C/dd>\u003C/dl>\u003C/dd>\u003C/dl>\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2015年3月\u003C/mw:iparam>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "7月6日",
+         "フィクションのできごと",
          [
             "with-indent",
             [
-               "with-comment",
-               {
-                  "name" : "アマチュア無線の日",
-                  "region_wref" : "JPN",
-                  "wref" : "アマチュア無線の日"
-               },
-               " 4/18に「世界アマチュア無線の日」というのもあります "
+               "string",
+               "14292年 - ガンバスター、地球に帰還。（アニメ『トップをねらえ!』）"
             ],
             [
-               "string",
-               "1952年のこの日、戦中に禁止されていたアマチュア無線が解禁され、全国の30人に無線局予備免許が交付されたことを記念し、1973年に日本アマチュア無線連盟が制定。アマチュア無線の健全な発達と、知識の普及を目的とする。"
+               "with-comment",
+               [
+                  "string",
+                  "※第6話で、ガンバスターの操縦席に取り付けられたカレンダーに表記されている。"
+               ],
+               " インターネット上には「7月26日である」という情報も流れているが、これはカレンダーの「7月θ6日」というデジタル表記を誤解したものと思われる。 "
             ]
-         ]
-      ],
-      [
-         "7月29日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>白だし\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>1978年に初めて白醤油にだしを加えた調味料「白だし」を製造販売した愛知県安城市の七福醸造が制定。\u003C/dd>\u003Cdd>同社の社名「ひち(7)ふ(2)く(9)」の語呂合せ。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "7月29日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福神漬\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>漬け物メーカーの新進が制定。\u003C/dd>\u003Cdd>福神漬の名前の由来である七福神から、七(しち)二(ふ)九(く)で「しちふく」の語呂合せ。\u003C/dd>\u003C/dl>"
          ]
       ],
       [
@@ -37550,69 +38161,11 @@
          ]
       ],
       [
-         "7月21日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2003年\u003C/mw:l>以降7月の第3月曜日）"
-         ]
-      ],
-      [
-         "7月21日",
+         "7月9日",
          "できごと",
          [
             "string",
-            "紀元前356年 - ヘロストラトスがエフェソスのアルテミス神殿に放火。"
-         ]
-      ],
-      [
-         "7月22日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "下駄の日",
-                  "region_wref" : "JPN"
-               },
-               " 11月11日にもあります。（[[11月11日]]ひどいなあ…）"
-            ],
-            [
-               "string",
-               "全国木製はきもの業組合連合会が制定。「七寸七分」など下駄の寸法を表すのに7がよく使われることと、雪道を下駄で歩くとその跡が「二二」に見えることから。"
-            ]
-         ]
-      ],
-      [
-         "7月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "フィリピン・アメリカ友好記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PHL\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、1964年 - ）"
-               ]
-            ],
-            [
-               "string",
-               "1946年のこの日、フィリピン共和国がアメリカから独立した。当初はこの日を独立記念日としていたが、1964年から独立記念日は1898年にフィリピン革命軍の最高指導者エミリオ・アギナルド将軍がフィリピン第一共和国の独立を宣言した6月12日となり、7月4日は比米友好記念日となった。"
-            ]
-         ]
-      ],
-      [
-         "7月4日",
-         "フィクションのできごと",
-         [
-            "string",
-            "年度不明 - 2日前にアメリカ上空に現れた異星人の超大型円盤艇をアメリカ空軍などが撃墜する。（映画『インデペンデンス・デイ』）"
+            "1762年（ユリウス暦6月28日） - エカチェリーナ2世がロシア皇帝に即位。"
          ]
       ],
       [
@@ -37645,11 +38198,36 @@
          ]
       ],
       [
-         "7月9日",
-         "できごと",
+         "7月30日",
+         "記念日・年中行事",
          [
-            "string",
-            "1762年（ユリウス暦6月28日） - エカチェリーナ2世がロシア皇帝に即位。"
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "明治天皇祭（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1913年\u003C/mw:l>",
+               [
+                  "string",
+                  " - "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1926年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1912年のこの日に亡くなった明治天皇を記念する祭日。1927年（昭和2年）からは、嘉永5年9月22日の明治天皇の誕生日を太陽暦に換算した11月3日が明治節という祭日になった。"
+            ]
          ]
       ],
       [
@@ -37725,401 +38303,35 @@
          ]
       ],
       [
-         "7月26日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "ポツダム宣言記念日",
-                  "region_wref" : "JPN"
-               },
-               " 極めて重要な「できごと」ではあります。が、これが本当に「モンカダ兵営襲撃記念日」や「広島原爆の日」のように実際に記念日として広く祝われたり偲ばれたりはしているのでしょうか？　一般論として、もしそうでなく、ウィキペディア（と記念日の本）上にしか存在しないのなら、「できごと」節だけの掲載にした方が良いのではないかと思います。"
-            ],
-            [
-               "string",
-               "1945年7月26日に、日本に降伏を迫る「ポツダム宣言」が発表されたことに由来。当初日本はこれを黙殺したが同年8月14日に受け入れて終戦した。"
-            ]
-         ]
-      ],
-      [
-         "7月24日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "シモン・ボリバル・デー（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ECU\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022VEN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "南米の独立運動を指導したシモン・ボリバルの誕生日。"
-            ]
-         ]
-      ],
-      [
-         "7月24日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>天神祭\u003C/mw:l>宵宮（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪市\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪天満宮\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月24日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "未来世紀39年 - ドモン・カッシュ、アニメ『機動武闘伝Gガンダム』の主人公"
-         ]
-      ],
-      [
-         "7月24日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "未来世紀43年 - アレンビー・ビアズリー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
-         ]
-      ],
-      [
-         "7月24日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "生年不明‐高木藤丸、漫画・ドラマ『BLOODY MONDAY〕』の主人公"
-         ]
-      ],
-      [
-         "7月24日",
-         "誕生日",
-         [
-            "string",
-            "1820年（文政3年6月15日）浜口梧陵、実業家、社会事業家（\u002B 1885年）"
-         ]
-      ],
-      [
-         "7月7日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>小暑\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2010年・2011年・2012年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が105度の時で、梅雨明けが近づき、暑さが本格的になるころ。"
-            ]
-         ]
-      ],
-      [
-         "7月7日",
-         "フィクションのできごと",
-         [
-            "string",
-            "毎年この日の夜にだけ、織姫と彦星が天の川を渡って逢うことが許されている。（七夕の伝説〈牛郎織女〉）"
-         ]
-      ],
-      [
-         "7月7日",
-         "フィクションのできごと",
-         [
-            "string",
-            "昭和百年（西暦換算2025年） - 宇宙貨物船いざなみ、火星から地球への帰還途中に、地球軌道上で異常高温により爆発。東京に墜落した残骸から怪獣ネガドンが出現し、東京湾内から発進したMI-6と交戦する。（特撮映画『惑星大怪獣ネガドン』）"
-         ]
-      ],
-      [
-         "7月7日",
-         "フィクションのできごと",
-         [
-            "string",
-            "777年（西暦換算年不明） - イグニール、メタリカーナをはじめとする滅竜魔法の使い手であるドラゴンが一斉に姿を消す。これは本編の7年前の出来事とされている。（漫画・アニメ『FAIRY TAIL』）"
-         ]
-      ],
-      [
-         "7月7日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "宇宙暦6974年（西暦換算8967年） - ジャスティ・ウエキ・タイラー、ライトノベル『宇宙一の無責任男』の主人公"
-         ]
-      ],
-      [
-         "7月7日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "ギルガメス暦2326年（アストラギウス暦7196年） - キリコ・キュービィー、アニメ『装甲騎兵ボトムズ』の主人公"
-         ]
-      ],
-      [
-         "7月7日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "宇宙暦6974年（西暦換算8967年） - ジャスティ・ウエキ・タイラー、ライトノベル『宇宙一の無責任男』の主人公"
-         ]
-      ],
-      [
-         "7月10日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "国土建設記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、- "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2000年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1948年（昭和23年）のこの日、建設院が省に昇格して建設省となったことを記念したもの。2001年（平成13年）の中央省庁再編により、運輸省・国土庁等と合併して国土交通省となったことにより、国土交通省設置法公布の日（7月16日）の国土交通Dayに移行した。"
-            ]
-         ]
-      ],
-      [
-         "7月10日",
+         "7月16日",
          "できごと",
          [
             "string",
-            "紀元前48年 - ローマ内戦: デュッラキウムの戦い"
+            "1917年（ユリウス暦7月3日） - ロシア革命: 七月事件 (:en:July Days) 。ロシア・ペトログラードでボリシェヴィキが武装デモ。7月18日（ユリウス暦7月7日）にロシア臨時政府により鎮圧。"
          ]
       ],
       [
-         "7月12日",
+         "7月16日",
          "記念日・年中行事",
          [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "ローリング・ストーンズ記念日"
-               },
-               " 不掲載。世界級の名バンドとはいえバンドのデビューを記念日に掲載するのは疑問が残ります "
-            ],
-            [
-               "string",
-               "1962年のこの日、ローリング・ストーンズがロンドン・マーキークラブで初のライブを行ったことを記念。"
-            ]
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国土交通Day\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2000年\u003C/mw:l> - ）"
          ]
       ],
       [
-         "7月12日",
+         "7月16日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月16日",
          "フィクションのできごと",
          [
             "string",
-            "200X年 - 四・一八事件が終結。（小説『葉桜が来た夏』）"
-         ]
-      ],
-      [
-         "7月12日",
-         "できごと",
-         [
-            "string",
-            "1690年（ユリウス暦7月1日） - ウィリアマイト戦争: ボイン川の戦い"
-         ]
-      ],
-      [
-         "7月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>お盆\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>盂蘭盆\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）（地域により\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>月遅れ\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月15日\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月15日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>博多祇園山笠\u003C/mw:l>",
-               [
-                  "string",
-                  "・追い山（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福岡市\u003C/mw:l>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>博多区\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022櫛田神社 (福岡市)\u0022>櫛田神社\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "一番山笠が午前4時59分にスタートする。"
-            ]
-         ]
-      ],
-      [
-         "7月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "海の日 （\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月11日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>フラマン語共同体の日\u003C/mw:iparam>\u003Cmw:iparam>nl\u003C/mw:iparam>\u003Cmw:iparam>Feestdag van Vlaanderen\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022BEL\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "の"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フラマン語共同体\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1302年この日の金拍車の戦いでの勝利を記念。"
-            ]
-         ]
-      ],
-      [
-         "7月11日",
-         "誕生日",
-         [
-            "string",
-            "1912年（ユリウス暦6月28日） - セルジュ・チェリビダッケ、指揮者（\u002B 1996年）"
-         ]
-      ],
-      [
-         "7月30日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "明治天皇祭（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1913年\u003C/mw:l>",
-               [
-                  "string",
-                  " - "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1926年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1912年のこの日に亡くなった明治天皇を記念する祭日。1927年（昭和2年）からは、嘉永5年9月22日の明治天皇の誕生日を太陽暦に換算した11月3日が明治節という祭日になった。"
-            ]
-         ]
-      ],
-      [
-         "7月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大暑\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2010年・2011年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が120度に達した時で、夏の暑さが最も厳しい時期に当たる。"
-            ]
-         ]
-      ],
-      [
-         "7月17日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>）※日付不定、7月の第3月曜日"
-         ]
-      ],
-      [
-         "7月17日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祇園祭\u003C/mw:l> 山鉾巡行（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月17日",
-         "できごと",
-         [
-            "string",
-            "1918年（ユリウス暦7月4日） - ロシア革命: ロシア・エカテリンブルクのイパチェフ館に監禁されていた元ロシア皇帝ニコライ2世とその家族らがボリシェヴィキにより銃殺される。"
+            "1982年（映画版では1988年）- AKIRAが覚醒、第三次世界大戦の引き金となる。（漫画・アニメ『AKIRA』）"
          ]
       ],
       [
@@ -38217,267 +38429,47 @@
          ]
       ],
       [
-         "7月6日",
+         "7月17日",
+         "できごと",
+         [
+            "string",
+            "1918年（ユリウス暦7月4日） - ロシア革命: ロシア・エカテリンブルクのイパチェフ館に監禁されていた元ロシア皇帝ニコライ2世とその家族らがボリシェヴィキにより銃殺される。"
+         ]
+      ],
+      [
+         "7月17日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>）※日付不定、7月の第3月曜日"
+         ]
+      ],
+      [
+         "7月17日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祇園祭\u003C/mw:l> 山鉾巡行（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "7月11日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サン・フェルミン祭\u003C/mw:l>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>フラマン語共同体の日\u003C/mw:iparam>\u003Cmw:iparam>nl\u003C/mw:iparam>\u003Cmw:iparam>Feestdag van Vlaanderen\u003C/mw:iparam>\u003C/mw:include>",
                [
                   "string",
                   "（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ESP\u0022>\u003C/mw:include>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ナバラ州\u003C/mw:l>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022BEL\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "、"
+                  "の"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00227月14日\u0022>14日\u003C/mw:l>",
-               [
-                  "string",
-                  "まで）"
-               ]
-            ],
-            [
-               "string",
-               "通称 牛追い祭り"
-            ]
-         ]
-      ],
-      [
-         "7月6日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典範囲\u0022>\u003Cmw:iparam>\u003Cmw:l>記念日\u003C/mw:l>の日（\u003Cmw:include wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cdl>\u003Cdd>日本記念日学会が制定。「\u003Cb>サラダ記念日\u003C/b>」にちなむ。\u003C/dd>\u003C/dl>\u003C/dd>\u003C/dl>\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2015年3月\u003C/mw:iparam>\u003C/mw:include>"
-         ]
-      ],
-      [
-         "7月6日",
-         "フィクションのできごと",
-         [
-            "with-indent",
-            [
-               "string",
-               "14292年 - ガンバスター、地球に帰還。（アニメ『トップをねらえ!』）"
-            ],
-            [
-               "with-comment",
-               [
-                  "string",
-                  "※第6話で、ガンバスターの操縦席に取り付けられたカレンダーに表記されている。"
-               ],
-               " インターネット上には「7月26日である」という情報も流れているが、これはカレンダーの「7月θ6日」というデジタル表記を誤解したものと思われる。 "
-            ]
-         ]
-      ],
-      [
-         "7月6日",
-         "できごと",
-         [
-            "string",
-            "紀元前371年 - レウクトラの戦い。テーバイを中心とするボイオティア同盟軍が、スパルタを中心とするペロポネソス同盟軍を破る。"
-         ]
-      ],
-      [
-         "7月27日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "政治を考える日",
-                  "region_wref" : "JPN"
-               },
-               " 『366日誕生石の本』（日本ヴォーグ社）に記載。この本以外では見られないので、この本で創作された記念日と思われる ",
-               " こういうものは外していった方がいいように思います "
-            ],
-            [
-               "string",
-               "1976年のこの日、ロッキード事件で田中角栄前首相（当時）が逮捕されたことによる。"
-            ]
-         ]
-      ],
-      [
-         "7月27日",
-         "できごと",
-         [
-            "string",
-            "1794年（フランス革命暦II年テルミドール9日） - フランス革命: テルミドールのクーデター。"
-         ]
-      ],
-      [
-         "7月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "盆迎え火",
-                  "region_wref" : "JPN"
-               },
-               " 企業や学校の休みや気候などの関係やで月後れの8月13日（-16日）のお盆が多くなっているようですが、どう扱ったものか？（[[8月13日]]などには記載なし） "
-            ],
-            [
-               "string",
-               "盆の初日。家門で火をたき、祖先の霊を迎える。旧暦7月13日に行われていたもので、現代では地域などにより新暦7月13日や1カ月遅らせた8月13日などに行われている。"
-            ]
-         ]
-      ],
-      [
-         "7月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "国家主権の日 (モンテネグロ)",
-                  "region_wref" : "MNE",
-                  "wref" : "国家主権の日 (モンテネグロ)"
-               },
-               " 定訳不明 "
-            ],
-            [
-               "string",
-               "1878年のこの日に締結されたベルリン条約によりモンテネグロほかのオスマン帝国からの独立が承認されたことを記念。"
-            ]
-         ]
-      ],
-      [
-         "7月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  [
-                     "string",
-                     "オカルト記念日（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "） "
-                  ]
-               ],
-               " 検索するとそこそこ出て来ますが、判で押したように同じ説明しかなく情報源不在…唱道者など根拠となる情報が必要？"
-            ],
-            [
-               "string",
-               "1974年7月13日に、オカルトブームの火つけ役となった映画『エクソシスト』が日本で初公開されたことに由来。"
-            ]
-         ]
-      ],
-      [
-         "7月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "イーサン・ハントの日",
-               "region_wref" : "JPN"
-            },
-            [
-               "unparsed",
-               "映画『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ミッション\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>インポッシブル]]』が1996年7月13日に日本で公開されたことを記念して、主役のイーサン・ハントの名前をとり、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本記念日協会\u003C/mw:l>により2015年に正式認定された\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022cite web\u0022>\u003Cmw:iparam name=\u0022url\u0022>\u003Cmw:xl bare=\u0022\u0022>http://www.cinematoday.jp/page/N0074401\u003C/mw:xl>\u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>7月13日が「イーサン・ハントの日」に認定\u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>シネマトゥデイ\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2015-06-26\u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2015-06-26\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "7月13日",
-         "誕生日",
-         [
-            "string",
-            "紀元前100年 - ガイウス・ユリウス・カエサル、政治家（\u002B 紀元前44年）※7月12日説もある"
-         ]
-      ],
-      [
-         "7月25日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>天神祭\u003C/mw:l>本宮（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大阪天満宮\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "最高気温記念日",
-                  "region_wref" : "JPN",
-                  "wref" : "気温#最高気温"
-               },
-               " 破られても「記念日」？　そもそも本当に記念日として実在？ "
-            ],
-            [
-               "string",
-               "1933年7月25日に、山形県山形市で最高気温40.8度を記録したことに由来。長らくこれが日本の最高記温の記録となっていたが、2007年8月16日に埼玉県熊谷市と岐阜県多治見市で40.9度を観測し、74年ぶりに記録が更新された。"
-            ]
-         ]
-      ],
-      [
-         "7月25日",
-         "誕生日",
-         [
-            "string",
-            "1575年? - クリストフ・シャイナー、天文学者（\u002B 1650年）"
-         ]
-      ],
-      [
-         "7月16日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国土交通Day\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2000年\u003C/mw:l> - ）"
-         ]
-      ],
-      [
-         "7月16日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "7月16日",
-         "フィクションのできごと",
-         [
-            "string",
-            "1982年（映画版では1988年）- AKIRAが覚醒、第三次世界大戦の引き金となる。（漫画・アニメ『AKIRA』）"
-         ]
-      ],
-      [
-         "7月16日",
-         "できごと",
-         [
-            "string",
-            "1917年（ユリウス暦7月3日） - ロシア革命: 七月事件 (:en:July Days) 。ロシア・ペトログラードでボリシェヴィキが武装デモ。7月18日（ユリウス暦7月7日）にロシア臨時政府により鎮圧。"
-         ]
-      ],
-      [
-         "7月31日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "カ・ハエ・ハワイイ・デイ、ハワイ旗の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022Flag2\u0022>\u003Cmw:iparam>ハワイ州\u003C/mw:iparam>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フラマン語共同体\u003C/mw:l>",
                [
                   "string",
                   "）"
@@ -38485,24 +38477,40 @@
             ],
             [
                "string",
-               "1990年にハワイ州知事が制定。"
+               "1302年この日の金拍車の戦いでの勝利を記念。"
             ]
          ]
       ],
       [
-         "7月31日",
-         "フィクションのできごと",
+         "7月11日",
+         "誕生日",
          [
             "string",
-            "宇宙世紀0085年 - 30バンチ事件発生。（アニメ『機動戦士Ζガンダム』）"
+            "1912年（ユリウス暦6月28日） - セルジュ・チェリビダッケ、指揮者（\u002B 1996年）"
          ]
       ],
       [
-         "7月31日",
-         "できごと",
+         "7月23日",
+         "記念日・年中行事",
          [
-            "string",
-            "1588年（ユリウス暦7月21日） - イギリス艦隊とスペイン無敵艦隊の間のアルマダの海戦が始まる。"
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大暑\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2010年・2011年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が120度に達した時で、夏の暑さが最も厳しい時期に当たる。"
+            ]
          ]
       ]
    ]
