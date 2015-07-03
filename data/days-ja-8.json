@@ -40190,54 +40190,307 @@
    },
    "_errors" : [
       [
-         "8月16日",
+         "8月15日",
+         "記念日・年中行事",
+         [
+            "list",
+            {
+               "name" : "対日戦勝記念日",
+               "region_wref" : "GBR",
+               "wref" : "対日戦勝記念日"
+            },
+            [
+               "with-indent",
+               [
+                  "unparsed",
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022光復節 (韓国)\u0022>光復節\u003C/mw:l>",
+                  [
+                     "string",
+                     "（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "）・"
+                  ],
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>解放記念日\u003C/mw:l>",
+                  [
+                     "string",
+                     "（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRK\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "）"
+                  ]
+               ],
+               [
+                  "string",
+                  "日本がポツダム宣言を受諾したことにより朝鮮が日本の統治から解放されたことから。"
+               ]
+            ]
+         ]
+      ],
+      [
+         "8月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "照和20年（西暦換算1945年） - 日本海軍援英派遣艦隊「旭日艦隊」、横須賀、呉等の各軍港から出撃（架空戦記『旭日の艦隊』）"
+         ]
+      ],
+      [
+         "8月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "照和21年（西暦換算1946年） - 英国南部沿岸にドイツ軍が上陸作戦「トド作戦」を開始、上陸に成功（架空戦記『旭日の艦隊』）"
+         ]
+      ],
+      [
+         "8月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 仮名ライダーとモドキング一味の最終決戦。日本初の有人ロケットが、抗カラーウィルスワクチンを搭載して種子島宇宙センターより打ち上げられる（漫画『空想科学大戦!』）"
+         ]
+      ],
+      [
+         "8月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0069年 - ジオン公国建国記念日（アニメ『機動戦士ガンダム』）"
+         ]
+      ],
+      [
+         "8月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0081年 - エギーユ・デラーズ率いるデラーズ・フリートが、茨の園を中心としてゲリラ活動を開始する。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
+         ]
+      ],
+      [
+         "8月24日",
+         "できごと",
+         [
+            "string",
+            "紀元前49年 - ローマ内戦: バグラダス川の戦い"
+         ]
+      ],
+      [
+         "8月24日",
+         "忌日",
+         [
+            "string",
+            "1842年（天保13年7月19日 ）- 柳亭種彦、戯作者（* 1783年）"
+         ]
+      ],
+      [
+         "8月24日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "共和国再興記念日",
-                  "region_wref" : "DOM"
+                  "name" : "ポンペイ最後の日"
                },
-               " [[es:República Dominicana#Días festivos nacionales]]にあるので多分大丈夫、だと思うのですが "
+               " 最後の日には違いありませんが、（ローマ帝国含め）どこかの国で記念日になっているのでしょうか? "
             ],
             [
                "string",
-               "1865年のこの日、ドミニカ共和国がスペインによる併合を脱し独立を回復したことを記念する祝日。"
+               "79年8月24日に、イタリアのベスビオス火山が大噴火し、ふもとのポンペイ市を埋没させたことに由来。これにより火山灰が8メートル積もり、2000人以上が死亡した。歴史小説家エドワード・ブルワー＝リットンは、これを題材に小説『ポンペイ最後の日』を書いた。"
             ]
          ]
       ],
       [
-         "8月6日",
+         "8月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "独立記念日",
+                  "region_wref" : "URU",
+                  "wref" : "独立記念日"
+               },
+               " URU?URY? "
+            ],
+            [
+               "string",
+               "1825年8月25日にウルグアイがブラジルから分離独立した。"
+            ]
+         ]
+      ],
+      [
+         "8月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "チキンラーメン誕生の日・即席ラーメン記念日",
+                  "region_wref" : "JPN"
+               },
+               " 一応即席ラーメン全体の記念日の形は取っていますが、実質上日清食品以外が言っている様子はあまりないようです "
+            ],
+            [
+               "string",
+               "1958年8月25日に、日清食品が世界初の即席ラーメンである「チキンラーメン」の発売を開始したことに由来し、日清食品が制定。"
+            ]
+         ]
+      ],
+      [
+         "8月30日",
+         "できごと",
+         [
+            "unparsed",
+            "1945年 - 第二次世界大戦・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ビサヤ諸島の戦い#ネグロス島\u0022>ビサヤ諸島の戦い\u003C/mw:l>: 日本軍陸軍\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022第102師団 (日本軍)\u0022>第102師団\u003C/mw:l>歩兵第77旅団長\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>河野毅\u003C/mw:l>陸軍中将が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ネグロス島\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西ネグロス州\u003C/mw:l>アシエンダ・サンタ・ローザで\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ陸軍\u0022>米\u003C/mw:l>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>第503歩兵連隊 (アメリカ軍)\u003C/mw:iparam>\u003Cmw:iparam name=\u0022label\u0022>第503連隊戦闘団\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>503rd Infantry Regiment (United States)\u003C/mw:iparam>\u003C/mw:include>に降伏する。\u003Cmw:xl xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 href=\u0022http://www.visayandailystar.com/2011/August/06/tightrope.htm\u0022>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>出典\u003C/small>\u003C/mw:xl>"
+         ]
+      ],
+      [
+         "8月30日",
          "記念日・年中行事",
          [
             "with-indent",
             {
-               "name" : "ハムの日",
-               "region_wref" : "JPN"
+               "name" : "国際失踪者デー",
+               "region_wref" : "World",
+               "wref" : "国際失踪者デー"
             },
             [
                "unparsed",
-               "「ハ(8)ム(6)」の語呂合せ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本ハム・ソーセージ工業協同組合\u003C/mw:l>が制定。\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典範囲\u0022>\u003Cmw:iparam>ただし、上記の通りこの日は広島原爆忌に当たるため、ハムの日に関する特別なイベントは開催されない。\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2011年8月\u003C/mw:iparam>\u003C/mw:include>\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.ham.co.jp/un2.htm にそのような記載はあるが、これは出典にはできないと思う。そもそも、本当に日本ハム・ソーセージ工業協同組合が制定したのか自体怪しいが……。同協会のサイトには記念日の記載なし \u003C/dd>"
+               "失踪しどこかに監禁されている\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 平たく言えば[[北朝鮮による日本人拉致問題]]のような\u003C/mw:comment>人々の境遇への関心を引くための記念日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>アムネスティ・インターナショナル\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>赤十字国際委員会\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際連合人権高等弁務官事務所\u003C/mw:l>などが実施している。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.icaed.org/august-30-2008/ によれば1984年制定となるが、制定時の事情などは良く分からないので記載しませんでした \u003C/dd>"
             ]
          ]
       ],
       [
-         "8月6日",
+         "8月30日",
          "記念日・年中行事",
          [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022七夕\u0022>仙台七夕\u003C/mw:l>",
+            "with-indent",
             [
-               "string",
-               "（"
+               "with-comment",
+               [
+                  "unparsed",
+                  [
+                     "string",
+                     "マッカーサー進駐記念日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "） "
+                  ]
+               ],
+               " 本当に「記念日」でしょうか？ 大きなできごとに「記念日」を付けただけの実態のない記念日が散見されるのですが… "
             ],
-            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
             [
                "string",
-               " 仙台市、8日まで）"
+               "1945年のこの日、GHQ最高司令官・ダグラス・マッカーサー元帥が厚木飛行場に到着した。"
             ]
+         ]
+      ],
+      [
+         "8月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>処暑\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、2010年・2011年・2012年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が150度の時で、暑さが収まり秋に近づく頃（地方によってはまだ残暑が厳しいこともある）"
+            ]
+         ]
+      ],
+      [
+         "8月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "奴隷貿易とその廃止を記念する国際デー",
+               "region_wref" : "World",
+               "wref" : "奴隷貿易とその廃止を記念する国際デー"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022国際連合教育科学文化機関\u0022>ユネスコ\u003C/mw:l>が制定した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際デー\u003C/mw:l>。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1791年\u003C/mw:l>8月22日の夜からこの日にかけて\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>International Day for the Remembrance of the Slave Trade and its Abolition]] \u003C/dd> 、フランス植民地の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サン＝ドマング\u003C/mw:l>（現在の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイチ\u003C/mw:l>）で、大西洋奴隷貿易廃止の重要なきっかけとなった\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイチ革命\u003C/mw:l>が始まったことを記念。"
+            ]
+         ]
+      ],
+      [
+         "8月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "ウゥルカナリア(ローマ帝国)"
+               },
+               " 滅んだ国のも入れてみます? "
+            ],
+            [
+               "with-comment",
+               [
+                  "string",
+                  "火の神ウゥルカーヌスの祭日。作物や穀物が炎上しやすい真夏、たき火に生きた魚や小動物を投げ込み神をなだめた。"
+               ],
+               " 翌24日のヴェスヴィオ火山の噴火よりも前からあったらしい "
+            ]
+         ]
+      ],
+      [
+         "8月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               [
+                  "unparsed",
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ウクレレ\u003C/mw:l>",
+                  [
+                     "string",
+                     "の日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     " ハワイ）"
+                  ]
+               ],
+               " http://www.ukulelefoundation.org/blog/archives/140 などにホノルル市長が2/13をウクレレの日と定めたと書いてあります（これに限らずハワイの記念日はかなりいいかげんなような…観光地だからかな） "
+            ],
+            [
+               "string",
+               "ウクレレが19世紀にポルトガル移民が持ち込んだ楽器が原型とされていることから、1879年にポルトガル人がハワイの移民局に移民登録を行った8月23日を記念日とした。"
+            ]
+         ]
+      ],
+      [
+         "8月23日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 宮崎羽衣、声優"
          ]
       ],
       [
@@ -40325,65 +40578,15 @@
          ]
       ],
       [
-         "8月29日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "洗礼者ヨハネの斬首の祭日(キリスト教)"
-               },
-               " ヨハネの[[聖名祝日]]は6月24日です "
-            ],
-            [
-               "string",
-               "ヨハネが斬首された日とされている。"
-            ]
-         ]
-      ],
-      [
-         "8月29日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋田県\u003C/mw:l>",
-               [
-                  "string",
-                  "の記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 秋田県）"
-               ]
-            ],
-            [
-               "string",
-               "明治4年7月14日（新暦で1871年8月29日）の廃藩置県の際に、初めて秋田県という名称が使われたことに由来。秋田県が1965年に制定。"
-            ]
-         ]
-      ],
-      [
-         "8月29日",
-         "フィクションのできごと",
-         [
-            "string",
-            "宇宙世紀0088年 - ネオ・ジオンが地球連邦政府本部ダカールを占拠。（TVアニメ『機動戦士ガンダムΖΖ』）"
-         ]
-      ],
-      [
-         "8月14日",
+         "8月27日",
          "できごと",
          [
             "string",
-            "1183年 （寿永2年7月25日） - 治承・寿永の乱: 源義仲の入京に伴い、平宗盛率いる平家一族が安徳天皇を連れて三種の神器と共に西国落ち。"
+            "紀元前479年 - ペルシャ戦争: プラタイアの戦い。"
          ]
       ],
       [
-         "8月13日",
+         "8月27日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -40391,119 +40594,44 @@
                "with-comment",
                [
                   "unparsed",
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>リンドン・ベインズ・ジョンソンの日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Lyndon Baines Johnson Day\u003C/mw:iparam>\u003C/mw:include>",
                   [
                      "string",
-                     "独立記念日（"
+                     "（"
                   ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CAF\u0022>\u003C/mw:include>",
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
                   [
                      "string",
-                     "） "
+                     " "
+                  ],
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テキサス州\u003C/mw:l>",
+                  [
+                     "string",
+                     "）"
                   ]
                ],
-               " 何故か[[August 13]]にはありませんが[[en:Public holidays in the Central African Republic]]にあるので "
+               " 各国の州の祝日は入れるかどうか微妙な線かもしれません。国家に対する州や地域の独立度にもよる? "
             ],
             [
                "string",
-               "1960年のこの日、中央アフリカがフランスより独立。"
+               "テキサス州出身の第36代アメリカ合衆国大統領リンドン・ジョンソンの1908年の誕生日を記念した州の祝日。"
             ]
          ]
       ],
       [
-         "8月13日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郡上おどり\u003C/mw:l>",
-            [
-               "string",
-               "の初日（"
-            ],
-            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-            [
-               "string",
-               " "
-            ],
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郡上市\u003C/mw:l>",
-            [
-               "string",
-               "、16日、"
-            ],
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>重要無形民俗文化財\u003C/mw:l>",
-            [
-               "string",
-               "） "
-            ]
-         ]
-      ],
-      [
-         "8月31日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "連帯と自由の日",
-               "region_wref" : "POL"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1980年\u003C/mw:l>のこの日、時の政府と労働者の間で\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>グダンスク協定\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Gdańsk Agreement\u003C/mw:iparam>\u003C/mw:include>が結ばれたことを記念する、休日とはならない祝日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> ポーランドにはこういう休みにならない祝日の制度があるそうです。「公式の記念日」と訳してもいいのかもしれませんが… cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Public holidays in Poland#National holidays]] \u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "8月31日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>野菜\u003C/mw:l>の日／ベジタブルデー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>8月31日の「831」が「やさい」と読めることから。\u003C/dd>\u003Cdd>野菜のよさを見直してもらおうと、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1983年\u003C/mw:l>9月に食料品流通改善協会や全国青果物商業協同組合連合会など9団体が制定。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "8月31日",
-         "できごと",
+         "8月27日",
+         "フィクションのできごと",
          [
             "string",
-            "紀元前549年（安寧天皇元年7月3日） - 第3代天皇・安寧天皇が即位。"
+            "地方裁判所のカフェテリアで、弁護士の神乃木荘龍が何者かに毒を盛られ、意識不明となる。（ゲーム『逆転裁判3』）"
          ]
       ],
       [
-         "8月25日",
-         "記念日・年中行事",
+         "8月1日",
+         "できごと",
          [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "独立記念日",
-                  "region_wref" : "URU",
-                  "wref" : "独立記念日"
-               },
-               " URU?URY? "
-            ],
-            [
-               "string",
-               "1825年8月25日にウルグアイがブラジルから分離独立した。"
-            ]
-         ]
-      ],
-      [
-         "8月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "チキンラーメン誕生の日・即席ラーメン記念日",
-                  "region_wref" : "JPN"
-               },
-               " 一応即席ラーメン全体の記念日の形は取っていますが、実質上日清食品以外が言っている様子はあまりないようです "
-            ],
-            [
-               "string",
-               "1958年8月25日に、日清食品が世界初の即席ラーメンである「チキンラーメン」の発売を開始したことに由来し、日清食品が制定。"
-            ]
+            "unparsed",
+            "1946年 - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022インフレーション\u0022>ハイパーインフレ\u003C/mw:l>中の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハンガリー\u003C/mw:l>で新通貨\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フォリント\u003C/mw:l>を導入。1フォリント＝40\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>穣\u003C/mw:l>(4\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022E\u0022>\u003Cmw:iparam>29\u003C/mw:iparam>\u003C/mw:include>)\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ペンゲー\u003C/mw:l>とする。"
          ]
       ],
       [
@@ -40630,18 +40758,499 @@
       ],
       [
          "8月1日",
-         "できごと",
-         [
-            "unparsed",
-            "1946年 - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022インフレーション\u0022>ハイパーインフレ\u003C/mw:l>中の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハンガリー\u003C/mw:l>で新通貨\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フォリント\u003C/mw:l>を導入。1フォリント＝40\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>穣\u003C/mw:l>(4\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022E\u0022>\u003Cmw:iparam>29\u003C/mw:iparam>\u003C/mw:include>)\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ペンゲー\u003C/mw:l>とする。"
-         ]
-      ],
-      [
-         "8月1日",
          "誕生日",
          [
             "string",
             "紀元前10年 - クラウディウス、第4代ローマ皇帝（\u002B 54年）"
+         ]
+      ],
+      [
+         "8月19日",
+         "できごと",
+         [
+            "string",
+            "紀元前43年 - オクタウィアヌス（後の初代ローマ皇帝アウグストゥス）がローマに入城。元老院に自らを執政官に選出するよう強要する。"
+         ]
+      ],
+      [
+         "8月19日",
+         "できごと",
+         [
+            "string",
+            "745年（天宝4載7月18日） - 唐の楊太真が玄宗皇帝の貴妃（楊貴妃）になる。"
+         ]
+      ],
+      [
+         "8月19日",
+         "できごと",
+         [
+            "string",
+            "1281年 （弘安4年7月27日） - 元寇: 弘安の役における鷹島沖海戦。 平戸島から太宰府目指して進軍する元軍と日本軍による海戦。"
+         ]
+      ],
+      [
+         "8月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "航空の日 (アメリカ合衆国)",
+                  "region_wref" : "USA",
+                  "wref" : "航空の日 (アメリカ合衆国)"
+               },
+               " 根拠法：http://www.law.cornell.edu/uscode/36/118.html ",
+               " USAの連邦記念日一覧：[[en:United_States_federal_observances]] "
+            ],
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ライト兄弟\u003C/mw:l>の弟、オーヴィル・ライトの\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1867年\u003C/mw:l>の誕生日を記念して\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フランクリン・ルーズベルト\u003C/mw:l>大統領が1939年に制定したアメリカ合衆国の記念日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> ライト兄弟の日（[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Wright Brothers Day]]）は別にあるらしい@[[12月17日]] \u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "8月19日",
+         "フィクションのできごと",
+         [
+            "string",
+            "2005年8月20日から見て前日に当たる8月19日に複数人のSF研究会部員がタイムトラベルしてくる。また、1906年8月19日と2030年12月25日へのタイムトラベルがそれぞれ1回行われる。（映画『サマータイムマシン・ブルース』）"
+         ]
+      ],
+      [
+         "8月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               [
+                  "unparsed",
+                  [
+                     "string",
+                     "独立記念日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CAF\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "） "
+                  ]
+               ],
+               " 何故か[[August 13]]にはありませんが[[en:Public holidays in the Central African Republic]]にあるので "
+            ],
+            [
+               "string",
+               "1960年のこの日、中央アフリカがフランスより独立。"
+            ]
+         ]
+      ],
+      [
+         "8月13日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郡上おどり\u003C/mw:l>",
+            [
+               "string",
+               "の初日（"
+            ],
+            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+            [
+               "string",
+               " "
+            ],
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郡上市\u003C/mw:l>",
+            [
+               "string",
+               "、16日、"
+            ],
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>重要無形民俗文化財\u003C/mw:l>",
+            [
+               "string",
+               "） "
+            ]
+         ]
+      ],
+      [
+         "8月5日",
+         "できごと",
+         [
+            "string",
+            "641年または642年 - マザーフィールドの戦い 。マーシア王ペンダがノーサンブリア王オスワルドを破る。"
+         ]
+      ],
+      [
+         "8月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "戦勝記念日 (クロアチア)",
+                  "region_wref" : "HRV",
+                  "wref" : "戦勝記念日 (クロアチア)"
+               },
+               " 正式名称は\u0022Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders\u0022 "
+            ],
+            [
+               "string",
+               "1995年のこの日、ボスニア・ヘルツェゴビナ紛争の嵐作戦でクロアチア軍の勝利が決定的となったことを記念した祝日。"
+            ]
+         ]
+      ],
+      [
+         "8月5日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ボゴタ\u003C/mw:l>のカーニバルの初日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022COL\u0022>\u003C/mw:include>、7日まで）"
+         ]
+      ],
+      [
+         "8月5日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形花笠まつり\u003C/mw:l>の初日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形市\u003C/mw:l>、7日まで）"
+         ]
+      ],
+      [
+         "8月16日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "共和国再興記念日",
+                  "region_wref" : "DOM"
+               },
+               " [[es:República Dominicana#Días festivos nacionales]]にあるので多分大丈夫、だと思うのですが "
+            ],
+            [
+               "string",
+               "1865年のこの日、ドミニカ共和国がスペインによる併合を脱し独立を回復したことを記念する祝日。"
+            ]
+         ]
+      ],
+      [
+         "8月31日",
+         "できごと",
+         [
+            "string",
+            "紀元前549年（安寧天皇元年7月3日） - 第3代天皇・安寧天皇が即位。"
+         ]
+      ],
+      [
+         "8月31日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "連帯と自由の日",
+               "region_wref" : "POL"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1980年\u003C/mw:l>のこの日、時の政府と労働者の間で\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>グダンスク協定\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Gdańsk Agreement\u003C/mw:iparam>\u003C/mw:include>が結ばれたことを記念する、休日とはならない祝日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> ポーランドにはこういう休みにならない祝日の制度があるそうです。「公式の記念日」と訳してもいいのかもしれませんが… cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Public holidays in Poland#National holidays]] \u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "8月31日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>野菜\u003C/mw:l>の日／ベジタブルデー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>8月31日の「831」が「やさい」と読めることから。\u003C/dd>\u003Cdd>野菜のよさを見直してもらおうと、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1983年\u003C/mw:l>9月に食料品流通改善協会や全国青果物商業協同組合連合会など9団体が制定。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "8月8日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "C.E.54年 - イザーク・ジュール、アニメ『機動戦士ガンダムSEED』シリーズに登場するキャラクター"
+         ]
+      ],
+      [
+         "8月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>立秋\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、2011年、2015年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が135度の時で、夏至と秋分の中間にあたる。暦の上ではこの日から秋になるが、実際には残暑が厳しく一年で最も暑い時期。この日を境に、暑中見舞いではなく残暑見舞いを出すようになる。"
+            ]
+         ]
+      ],
+      [
+         "8月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "農民の日",
+               "region_wref" : "TZA"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>スワヒリ語\u003C/mw:l>で8を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sv:wikt:nane|nane]]、農民をnane naneということから。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> enより。これでいいのだろうか。 \u003C/mw:comment>\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "8月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "父の日",
+               "region_wref" : "TWN",
+               "wref" : "父の日"
+            },
+            [
+               "unparsed",
+               "中国語で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>父\u003C/mw:l>を意味する「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>zh:wikt:爸爸|爸爸]]」が「八八」と同じ発音であることから。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> enより。これでいいのだろうか。 \u003C/mw:comment>\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "8月8日",
+         "フィクションのできごと",
+         [
+            "string",
+            "『魔女の宅急便』シリーズにおいて、主人公・キキの家系に伝わる「くしゃみの薬」の薬草（くすりぐさ）を刈り取る日時は、立秋であるこの日の午前6時と午後6時である。"
+         ]
+      ],
+      [
+         "8月4日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "生年不明（14歳） - 相田マナ、アニメ『ドキドキ!プリキュア』に登場するキャラクター。"
+         ]
+      ],
+      [
+         "8月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               [
+                  "unparsed",
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>ブランカ祭\u003C/mw:iparam>\u003Cmw:iparam>es\u003C/mw:iparam>\u003Cmw:iparam>Fiestas de La Blanca\u003C/mw:iparam>\u003C/mw:include>",
+                  [
+                     "string",
+                     "の初日（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ESP\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     " "
+                  ],
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ビトリア＝ガステイス\u003C/mw:l>",
+                  [
+                     "string",
+                     "、9日まで） "
+                  ]
+               ],
+               " 日本語で検索すると格闘ゲームばかり出て来ます（苦笑） "
+            ],
+            [
+               "string",
+               "ビトリア＝ガステイスの守護聖人、聖母ブランカを記念した祝典。"
+            ]
+         ]
+      ],
+      [
+         "8月6日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ハムの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "「ハ(8)ム(6)」の語呂合せ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本ハム・ソーセージ工業協同組合\u003C/mw:l>が制定。\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典範囲\u0022>\u003Cmw:iparam>ただし、上記の通りこの日は広島原爆忌に当たるため、ハムの日に関する特別なイベントは開催されない。\u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2011年8月\u003C/mw:iparam>\u003C/mw:include>\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.ham.co.jp/un2.htm にそのような記載はあるが、これは出典にはできないと思う。そもそも、本当に日本ハム・ソーセージ工業協同組合が制定したのか自体怪しいが……。同協会のサイトには記念日の記載なし \u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "8月6日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022七夕\u0022>仙台七夕\u003C/mw:l>",
+            [
+               "string",
+               "（"
+            ],
+            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+            [
+               "string",
+               " 仙台市、8日まで）"
+            ]
+         ]
+      ],
+      [
+         "8月28日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "テレビCMの日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>上記の日本テレビの本放送開始の日、日本初のテレビ\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>コマーシャルメッセージ\u003C/mw:l>も放送されたことを記念して、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本民間放送連盟\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>に制定。\u003C/dd>\u003Cdd>初のテレビCMは\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>服部時計店\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>精工舎\u003C/mw:l>）のもので、「精工舎の時計が正午をお知らせします」という内容だったが、不慣れのためフィルムを裏返しに入れてしまい、音も不明瞭なものとなってしまった。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "8月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "洗礼者ヨハネの斬首の祭日(キリスト教)"
+               },
+               " ヨハネの[[聖名祝日]]は6月24日です "
+            ],
+            [
+               "string",
+               "ヨハネが斬首された日とされている。"
+            ]
+         ]
+      ],
+      [
+         "8月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋田県\u003C/mw:l>",
+               [
+                  "string",
+                  "の記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 秋田県）"
+               ]
+            ],
+            [
+               "string",
+               "明治4年7月14日（新暦で1871年8月29日）の廃藩置県の際に、初めて秋田県という名称が使われたことに由来。秋田県が1965年に制定。"
+            ]
+         ]
+      ],
+      [
+         "8月29日",
+         "フィクションのできごと",
+         [
+            "string",
+            "宇宙世紀0088年 - ネオ・ジオンが地球連邦政府本部ダカールを占拠。（TVアニメ『機動戦士ガンダムΖΖ』）"
+         ]
+      ],
+      [
+         "8月7日",
+         "できごと",
+         [
+            "string",
+            "紀元前322年 - ラミア戦争: クランノンの戦い"
+         ]
+      ],
+      [
+         "8月7日",
+         "できごと",
+         [
+            "string",
+            "1714年（ユリウス暦7月27日） - 大北方戦争: ハンゲの海戦"
+         ]
+      ],
+      [
+         "8月9日",
+         "できごと",
+         [
+            "string",
+            "紀元前48年 - ローマ内戦: ファルサルスの会戦"
+         ]
+      ],
+      [
+         "8月12日",
+         "できごと",
+         [
+            "string",
+            "紀元前30年 - 古代エジプト・プトレマイオス朝の実質的な最後のファラオ・クレオパトラが自殺。"
+         ]
+      ],
+      [
+         "8月12日",
+         "忌日",
+         [
+            "string",
+            "紀元前30年 - クレオパトラ7世フィロパトル、プトレマイオス朝最後の女王"
+         ]
+      ],
+      [
+         "8月12日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>阿波踊り\u003C/mw:l>",
+            [
+               "string",
+               "の初日（"
+            ],
+            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+            [
+               "string",
+               " "
+            ],
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>徳島市\u003C/mw:l>",
+            [
+               "string",
+               "、15日まで） "
+            ]
+         ]
+      ],
+      [
+         "8月12日",
+         "フィクションのできごと",
+         [
+            "string",
+            "1975年（原作） - 三河屋でコカ・コーラ（アニメではスキットサイダー）が1本しか売れず。（漫画・アニメ『ドラえもん』「王かんコレクション」）"
+         ]
+      ],
+      [
+         "8月11日",
+         "できごと",
+         [
+            "string",
+            "紀元前3114年 - 長期暦（マヤ暦）の始まりの日。"
+         ]
+      ],
+      [
+         "8月11日",
+         "できごと",
+         [
+            "string",
+            "紀元前480年 - ペルシャ戦争: アルテミシオンの海戦が始まる。"
          ]
       ],
       [
@@ -40757,315 +41366,11 @@
          ]
       ],
       [
-         "8月11日",
+         "8月14日",
          "できごと",
          [
             "string",
-            "紀元前3114年 - 長期暦（マヤ暦）の始まりの日。"
-         ]
-      ],
-      [
-         "8月11日",
-         "できごと",
-         [
-            "string",
-            "紀元前480年 - ペルシャ戦争: アルテミシオンの海戦が始まる。"
-         ]
-      ],
-      [
-         "8月8日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>立秋\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、2011年、2015年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が135度の時で、夏至と秋分の中間にあたる。暦の上ではこの日から秋になるが、実際には残暑が厳しく一年で最も暑い時期。この日を境に、暑中見舞いではなく残暑見舞いを出すようになる。"
-            ]
-         ]
-      ],
-      [
-         "8月8日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "農民の日",
-               "region_wref" : "TZA"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>スワヒリ語\u003C/mw:l>で8を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>sv:wikt:nane|nane]]、農民をnane naneということから。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> enより。これでいいのだろうか。 \u003C/mw:comment>\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "8月8日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "父の日",
-               "region_wref" : "TWN",
-               "wref" : "父の日"
-            },
-            [
-               "unparsed",
-               "中国語で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>父\u003C/mw:l>を意味する「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>zh:wikt:爸爸|爸爸]]」が「八八」と同じ発音であることから。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> enより。これでいいのだろうか。 \u003C/mw:comment>\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "8月8日",
-         "フィクションのできごと",
-         [
-            "string",
-            "『魔女の宅急便』シリーズにおいて、主人公・キキの家系に伝わる「くしゃみの薬」の薬草（くすりぐさ）を刈り取る日時は、立秋であるこの日の午前6時と午後6時である。"
-         ]
-      ],
-      [
-         "8月8日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "C.E.54年 - イザーク・ジュール、アニメ『機動戦士ガンダムSEED』シリーズに登場するキャラクター"
-         ]
-      ],
-      [
-         "8月24日",
-         "忌日",
-         [
-            "string",
-            "1842年（天保13年7月19日 ）- 柳亭種彦、戯作者（* 1783年）"
-         ]
-      ],
-      [
-         "8月24日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "ポンペイ最後の日"
-               },
-               " 最後の日には違いありませんが、（ローマ帝国含め）どこかの国で記念日になっているのでしょうか? "
-            ],
-            [
-               "string",
-               "79年8月24日に、イタリアのベスビオス火山が大噴火し、ふもとのポンペイ市を埋没させたことに由来。これにより火山灰が8メートル積もり、2000人以上が死亡した。歴史小説家エドワード・ブルワー＝リットンは、これを題材に小説『ポンペイ最後の日』を書いた。"
-            ]
-         ]
-      ],
-      [
-         "8月24日",
-         "できごと",
-         [
-            "string",
-            "紀元前49年 - ローマ内戦: バグラダス川の戦い"
-         ]
-      ],
-      [
-         "8月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>処暑\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、2010年・2011年・2012年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が150度の時で、暑さが収まり秋に近づく頃（地方によってはまだ残暑が厳しいこともある）"
-            ]
-         ]
-      ],
-      [
-         "8月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "奴隷貿易とその廃止を記念する国際デー",
-               "region_wref" : "World",
-               "wref" : "奴隷貿易とその廃止を記念する国際デー"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022国際連合教育科学文化機関\u0022>ユネスコ\u003C/mw:l>が制定した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際デー\u003C/mw:l>。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1791年\u003C/mw:l>8月22日の夜からこの日にかけて\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>International Day for the Remembrance of the Slave Trade and its Abolition]] \u003C/dd> 、フランス植民地の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サン＝ドマング\u003C/mw:l>（現在の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイチ\u003C/mw:l>）で、大西洋奴隷貿易廃止の重要なきっかけとなった\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイチ革命\u003C/mw:l>が始まったことを記念。"
-            ]
-         ]
-      ],
-      [
-         "8月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "ウゥルカナリア(ローマ帝国)"
-               },
-               " 滅んだ国のも入れてみます? "
-            ],
-            [
-               "with-comment",
-               [
-                  "string",
-                  "火の神ウゥルカーヌスの祭日。作物や穀物が炎上しやすい真夏、たき火に生きた魚や小動物を投げ込み神をなだめた。"
-               ],
-               " 翌24日のヴェスヴィオ火山の噴火よりも前からあったらしい "
-            ]
-         ]
-      ],
-      [
-         "8月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ウクレレ\u003C/mw:l>",
-                  [
-                     "string",
-                     "の日（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     " ハワイ）"
-                  ]
-               ],
-               " http://www.ukulelefoundation.org/blog/archives/140 などにホノルル市長が2/13をウクレレの日と定めたと書いてあります（これに限らずハワイの記念日はかなりいいかげんなような…観光地だからかな） "
-            ],
-            [
-               "string",
-               "ウクレレが19世紀にポルトガル移民が持ち込んだ楽器が原型とされていることから、1879年にポルトガル人がハワイの移民局に移民登録を行った8月23日を記念日とした。"
-            ]
-         ]
-      ],
-      [
-         "8月23日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 宮崎羽衣、声優"
-         ]
-      ],
-      [
-         "8月5日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "戦勝記念日 (クロアチア)",
-                  "region_wref" : "HRV",
-                  "wref" : "戦勝記念日 (クロアチア)"
-               },
-               " 正式名称は\u0022Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders\u0022 "
-            ],
-            [
-               "string",
-               "1995年のこの日、ボスニア・ヘルツェゴビナ紛争の嵐作戦でクロアチア軍の勝利が決定的となったことを記念した祝日。"
-            ]
-         ]
-      ],
-      [
-         "8月5日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ボゴタ\u003C/mw:l>のカーニバルの初日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022COL\u0022>\u003C/mw:include>、7日まで）"
-         ]
-      ],
-      [
-         "8月5日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形花笠まつり\u003C/mw:l>の初日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山形市\u003C/mw:l>、7日まで）"
-         ]
-      ],
-      [
-         "8月5日",
-         "できごと",
-         [
-            "string",
-            "641年または642年 - マザーフィールドの戦い 。マーシア王ペンダがノーサンブリア王オスワルドを破る。"
-         ]
-      ],
-      [
-         "8月28日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "テレビCMの日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>上記の日本テレビの本放送開始の日、日本初のテレビ\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>コマーシャルメッセージ\u003C/mw:l>も放送されたことを記念して、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本民間放送連盟\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>に制定。\u003C/dd>\u003Cdd>初のテレビCMは\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>服部時計店\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>精工舎\u003C/mw:l>）のもので、「精工舎の時計が正午をお知らせします」という内容だったが、不慣れのためフィルムを裏返しに入れてしまい、音も不明瞭なものとなってしまった。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "8月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>ブランカ祭\u003C/mw:iparam>\u003Cmw:iparam>es\u003C/mw:iparam>\u003Cmw:iparam>Fiestas de La Blanca\u003C/mw:iparam>\u003C/mw:include>",
-                  [
-                     "string",
-                     "の初日（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ESP\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     " "
-                  ],
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ビトリア＝ガステイス\u003C/mw:l>",
-                  [
-                     "string",
-                     "、9日まで） "
-                  ]
-               ],
-               " 日本語で検索すると格闘ゲームばかり出て来ます（苦笑） "
-            ],
-            [
-               "string",
-               "ビトリア＝ガステイスの守護聖人、聖母ブランカを記念した祝典。"
-            ]
-         ]
-      ],
-      [
-         "8月4日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "生年不明（14歳） - 相田マナ、アニメ『ドキドキ!プリキュア』に登場するキャラクター。"
+            "1183年 （寿永2年7月25日） - 治承・寿永の乱: 源義仲の入京に伴い、平宗盛率いる平家一族が安徳天皇を連れて三種の神器と共に西国落ち。"
          ]
       ],
       [
@@ -41130,189 +41435,129 @@
          ]
       ],
       [
-         "8月27日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>リンドン・ベインズ・ジョンソンの日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Lyndon Baines Johnson Day\u003C/mw:iparam>\u003C/mw:include>",
-                  [
-                     "string",
-                     "（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     " "
-                  ],
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テキサス州\u003C/mw:l>",
-                  [
-                     "string",
-                     "）"
-                  ]
-               ],
-               " 各国の州の祝日は入れるかどうか微妙な線かもしれません。国家に対する州や地域の独立度にもよる? "
-            ],
-            [
-               "string",
-               "テキサス州出身の第36代アメリカ合衆国大統領リンドン・ジョンソンの1908年の誕生日を記念した州の祝日。"
-            ]
-         ]
-      ],
-      [
-         "8月27日",
-         "フィクションのできごと",
-         [
-            "string",
-            "地方裁判所のカフェテリアで、弁護士の神乃木荘龍が何者かに毒を盛られ、意識不明となる。（ゲーム『逆転裁判3』）"
-         ]
-      ],
-      [
-         "8月27日",
+         "8月20日",
          "できごと",
          [
             "string",
-            "紀元前479年 - ペルシャ戦争: プラタイアの戦い。"
+            "1882年（ユリウス暦8月8日） - チャイコフスキーの『序曲1812年』がモスクワで初演。"
          ]
       ],
       [
-         "8月19日",
+         "8月20日",
          "記念日・年中行事",
          [
             "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "航空の日 (アメリカ合衆国)",
-                  "region_wref" : "USA",
-                  "wref" : "航空の日 (アメリカ合衆国)"
-               },
-               " 根拠法：http://www.law.cornell.edu/uscode/36/118.html ",
-               " USAの連邦記念日一覧：[[en:United_States_federal_observances]] "
-            ],
+            {
+               "name" : "建国記念日",
+               "region_wref" : "HUN",
+               "wref" : "建国記念日"
+            },
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ライト兄弟\u003C/mw:l>の弟、オーヴィル・ライトの\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1867年\u003C/mw:l>の誕生日を記念して\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フランクリン・ルーズベルト\u003C/mw:l>大統領が1939年に制定したアメリカ合衆国の記念日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> ライト兄弟の日（[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Wright Brothers Day]]）は別にあるらしい@[[12月17日]] \u003C/dd>"
+               "ハンガリー初代国王で、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カトリック教会\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖人\u003C/mw:l>に列せられている\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イシュトヴァーン1世\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖名祝日\u003C/mw:l>。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 8月20日を聖名祝日とするのはハンガリーだけ（一般には12月26日もしくは27日）らしいです。cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>St. Stephen's Day]]. この記事には16日とあったりして今一つすっきりしない… \u003C/dd>"
             ]
          ]
       ],
       [
-         "8月19日",
-         "フィクションのできごと",
-         [
-            "string",
-            "2005年8月20日から見て前日に当たる8月19日に複数人のSF研究会部員がタイムトラベルしてくる。また、1906年8月19日と2030年12月25日へのタイムトラベルがそれぞれ1回行われる。（映画『サマータイムマシン・ブルース』）"
-         ]
-      ],
-      [
-         "8月19日",
-         "できごと",
-         [
-            "string",
-            "紀元前43年 - オクタウィアヌス（後の初代ローマ皇帝アウグストゥス）がローマに入城。元老院に自らを執政官に選出するよう強要する。"
-         ]
-      ],
-      [
-         "8月19日",
-         "できごと",
-         [
-            "string",
-            "745年（天宝4載7月18日） - 唐の楊太真が玄宗皇帝の貴妃（楊貴妃）になる。"
-         ]
-      ],
-      [
-         "8月19日",
-         "できごと",
-         [
-            "string",
-            "1281年 （弘安4年7月27日） - 元寇: 弘安の役における鷹島沖海戦。 平戸島から太宰府目指して進軍する元軍と日本軍による海戦。"
-         ]
-      ],
-      [
-         "8月10日",
+         "8月20日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "キトの独立宣言日",
-                  "region_wref" : "ECU"
+                  "name" : "独立回復記念日",
+                  "region_wref" : "EST"
                },
-               " エクアドル全体の独立記念日はないらしく、これが実質上の独立記念日です。[[エクアドル]]では「独立記念日」となっていますが、やや不正確？ ''cf.'' [[en:Public holidays in Ecuador]] "
+               " 独立記念日は[[2月24日]] "
             ],
             [
                "with-comment",
                [
                   "string",
-                  "1809年のこの日、現在のエクアドルの首都であるキトがスペインからの独立を宣言したことを記念する祝日。"
+                  "1991年のこの日、エストニアがソビエト連邦から分離独立したことを記念する祝日。"
                ],
-               " [[大コロンビア]]からの独立宣言は1830年5月13日ですが、こちらは祝日とはなっていません。 "
+               " 祝日（休日）holiday/non-working dayか、祝日でない法定記念日national observanceか、そのいずれでもない記念日observanceかの別は明確にした方がいいのかな？　祝日は全国家のものを一通り揃えるのが良さそう。法定記念日以下はケースバイケース？ "
             ]
          ]
       ],
       [
-         "8月10日",
+         "8月2日",
+         "できごと",
+         [
+            "string",
+            "紀元前338年 - マケドニア王フィリッポス2世がカイロネイアの戦いでアテネとテーバイの連合を破る。"
+         ]
+      ],
+      [
+         "8月2日",
+         "できごと",
+         [
+            "string",
+            "紀元前216年 - 第二次ポエニ戦争: カンナエの戦い。ハンニバル率いるカルタゴ軍が、共和政ローマ軍を包囲殲滅する。"
+         ]
+      ],
+      [
+         "8月2日",
+         "できごと",
+         [
+            "string",
+            "紀元前47年 - ローマ内戦: ゼラの戦い。ガイウス・ユリウス・カエサル率いる共和政ローマ軍がポントス軍を破る。カエサルは「来た、見た、勝った」と戦勝を元老院に報告。"
+         ]
+      ],
+      [
+         "8月2日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "宇治川花火大会",
-                  "region_wref" : "JPN",
-                  "wref" : "宇治川花火大会"
+                  "name" : "カレーうどんの日",
+                  "region_wref" : "JPN"
                },
-               " 特筆性? 花火大会をいちいち書いているとキリがないので、どこかで線を引かないと ",
-               " 東京なんかだとこの時期は毎日どこかでやってますからね…突き抜けた特徴・規模・歴史・国レベルの知名度があるものに絞るとしても、客観的な線引きとなると…うーん。外国の祭と同一ラインにできれば文句なしなのですが。 "
+               " こういうのはウィキペディアでは飛び付かず、定着が確認できてから採録すべきだと思いますが…… "
             ],
             [
                "string",
-               "京都府宇治市の宇治川で行われる花火大会。"
+               "カレーうどん100年革新プロジェクトが2010年に制定。6月2日が「カレーの日」、7月2日が「うどんの日」であることから。"
             ]
          ]
       ],
       [
-         "8月10日",
+         "8月2日",
          "記念日・年中行事",
          [
             "unparsed",
-            "バトントワリングの日\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2011年8月\u003C/mw:iparam>\u003C/mw:include>"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森ねぶた\u003C/mw:l>",
+            [
+               "string",
+               "（"
+            ],
+            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+            [
+               "string",
+               " "
+            ],
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森県\u003C/mw:l>",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森市\u003C/mw:l>",
+            [
+               "string",
+               "、 - "
+            ],
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月7日\u003C/mw:l>",
+            [
+               "string",
+               "）"
+            ]
          ]
       ],
       [
-         "8月10日",
+         "8月2日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>バイトル\u003C/mw:l>の日。8月10日「バ(8)イ(1)ト(0)ルの日」の語呂合せで、運営元の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ディップ\u003C/mw:l>が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本記念日協会\u003C/mw:l>が認定している。\u003Cmw:xl xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 href=\u0022http://www.baitoru.com/pdt/baitoruday/\u0022>※バイトルの日の由来\u003C/mw:xl>"
-         ]
-      ],
-      [
-         "8月10日",
-         "フィクションのできごと",
-         [
-            "string",
-            "1955年（昭和30年） - 金田一耕助がおりんと名のる老婆と峠道ですれ違う。（『悪魔の手毬唄』）"
-         ]
-      ],
-      [
-         "8月10日",
-         "フィクションのできごと",
-         [
-            "string",
-            "1996年（原作小説では1994年） - 長崎空港へ向かった東洋航空402便が突如消息を絶つ。（ドラマ『神はサイコロを振らない〜君を忘れない〜』）"
-         ]
-      ],
-      [
-         "8月10日",
-         "フィクションのできごと",
-         [
-            "string",
-            "皇暦2010年（西暦1955年） - ブリタニア帝国が日本に宣戦布告。（アニメ『コードギアス 反逆のルルーシュ』）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湯河原やっさ祭り\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神奈川県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>足柄下郡\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湯河原町\u003C/mw:l>、 - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月3日\u003C/mw:l>）"
          ]
       ],
       [
@@ -41516,332 +41761,87 @@
          ]
       ],
       [
-         "8月20日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "建国記念日",
-               "region_wref" : "HUN",
-               "wref" : "建国記念日"
-            },
-            [
-               "unparsed",
-               "ハンガリー初代国王で、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カトリック教会\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖人\u003C/mw:l>に列せられている\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イシュトヴァーン1世\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖名祝日\u003C/mw:l>。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 8月20日を聖名祝日とするのはハンガリーだけ（一般には12月26日もしくは27日）らしいです。cf. [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>St. Stephen's Day]]. この記事には16日とあったりして今一つすっきりしない… \u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "8月20日",
+         "8月10日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "独立回復記念日",
-                  "region_wref" : "EST"
+                  "name" : "キトの独立宣言日",
+                  "region_wref" : "ECU"
                },
-               " 独立記念日は[[2月24日]] "
+               " エクアドル全体の独立記念日はないらしく、これが実質上の独立記念日です。[[エクアドル]]では「独立記念日」となっていますが、やや不正確？ ''cf.'' [[en:Public holidays in Ecuador]] "
             ],
             [
                "with-comment",
                [
                   "string",
-                  "1991年のこの日、エストニアがソビエト連邦から分離独立したことを記念する祝日。"
+                  "1809年のこの日、現在のエクアドルの首都であるキトがスペインからの独立を宣言したことを記念する祝日。"
                ],
-               " 祝日（休日）holiday/non-working dayか、祝日でない法定記念日national observanceか、そのいずれでもない記念日observanceかの別は明確にした方がいいのかな？　祝日は全国家のものを一通り揃えるのが良さそう。法定記念日以下はケースバイケース？ "
+               " [[大コロンビア]]からの独立宣言は1830年5月13日ですが、こちらは祝日とはなっていません。 "
             ]
          ]
       ],
       [
-         "8月20日",
-         "できごと",
-         [
-            "string",
-            "1882年（ユリウス暦8月8日） - チャイコフスキーの『序曲1812年』がモスクワで初演。"
-         ]
-      ],
-      [
-         "8月30日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "国際失踪者デー",
-               "region_wref" : "World",
-               "wref" : "国際失踪者デー"
-            },
-            [
-               "unparsed",
-               "失踪しどこかに監禁されている\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 平たく言えば[[北朝鮮による日本人拉致問題]]のような\u003C/mw:comment>人々の境遇への関心を引くための記念日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>アムネスティ・インターナショナル\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>赤十字国際委員会\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際連合人権高等弁務官事務所\u003C/mw:l>などが実施している。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.icaed.org/august-30-2008/ によれば1984年制定となるが、制定時の事情などは良く分からないので記載しませんでした \u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "8月30日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               [
-                  "unparsed",
-                  [
-                     "string",
-                     "マッカーサー進駐記念日（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "） "
-                  ]
-               ],
-               " 本当に「記念日」でしょうか？ 大きなできごとに「記念日」を付けただけの実態のない記念日が散見されるのですが… "
-            ],
-            [
-               "string",
-               "1945年のこの日、GHQ最高司令官・ダグラス・マッカーサー元帥が厚木飛行場に到着した。"
-            ]
-         ]
-      ],
-      [
-         "8月30日",
-         "できごと",
-         [
-            "unparsed",
-            "1945年 - 第二次世界大戦・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ビサヤ諸島の戦い#ネグロス島\u0022>ビサヤ諸島の戦い\u003C/mw:l>: 日本軍陸軍\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022第102師団 (日本軍)\u0022>第102師団\u003C/mw:l>歩兵第77旅団長\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>河野毅\u003C/mw:l>陸軍中将が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ネグロス島\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西ネグロス州\u003C/mw:l>アシエンダ・サンタ・ローザで\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ陸軍\u0022>米\u003C/mw:l>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>第503歩兵連隊 (アメリカ軍)\u003C/mw:iparam>\u003Cmw:iparam name=\u0022label\u0022>第503連隊戦闘団\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>503rd Infantry Regiment (United States)\u003C/mw:iparam>\u003C/mw:include>に降伏する。\u003Cmw:xl xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 href=\u0022http://www.visayandailystar.com/2011/August/06/tightrope.htm\u0022>\u003Csmall xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>出典\u003C/small>\u003C/mw:xl>"
-         ]
-      ],
-      [
-         "8月7日",
-         "できごと",
-         [
-            "string",
-            "紀元前322年 - ラミア戦争: クランノンの戦い"
-         ]
-      ],
-      [
-         "8月7日",
-         "できごと",
-         [
-            "string",
-            "1714年（ユリウス暦7月27日） - 大北方戦争: ハンゲの海戦"
-         ]
-      ],
-      [
-         "8月12日",
-         "忌日",
-         [
-            "string",
-            "紀元前30年 - クレオパトラ7世フィロパトル、プトレマイオス朝最後の女王"
-         ]
-      ],
-      [
-         "8月12日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>阿波踊り\u003C/mw:l>",
-            [
-               "string",
-               "の初日（"
-            ],
-            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-            [
-               "string",
-               " "
-            ],
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>徳島市\u003C/mw:l>",
-            [
-               "string",
-               "、15日まで） "
-            ]
-         ]
-      ],
-      [
-         "8月12日",
-         "フィクションのできごと",
-         [
-            "string",
-            "1975年（原作） - 三河屋でコカ・コーラ（アニメではスキットサイダー）が1本しか売れず。（漫画・アニメ『ドラえもん』「王かんコレクション」）"
-         ]
-      ],
-      [
-         "8月12日",
-         "できごと",
-         [
-            "string",
-            "紀元前30年 - 古代エジプト・プトレマイオス朝の実質的な最後のファラオ・クレオパトラが自殺。"
-         ]
-      ],
-      [
-         "8月2日",
+         "8月10日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "カレーうどんの日",
-                  "region_wref" : "JPN"
+                  "name" : "宇治川花火大会",
+                  "region_wref" : "JPN",
+                  "wref" : "宇治川花火大会"
                },
-               " こういうのはウィキペディアでは飛び付かず、定着が確認できてから採録すべきだと思いますが…… "
+               " 特筆性? 花火大会をいちいち書いているとキリがないので、どこかで線を引かないと ",
+               " 東京なんかだとこの時期は毎日どこかでやってますからね…突き抜けた特徴・規模・歴史・国レベルの知名度があるものに絞るとしても、客観的な線引きとなると…うーん。外国の祭と同一ラインにできれば文句なしなのですが。 "
             ],
             [
                "string",
-               "カレーうどん100年革新プロジェクトが2010年に制定。6月2日が「カレーの日」、7月2日が「うどんの日」であることから。"
+               "京都府宇治市の宇治川で行われる花火大会。"
             ]
          ]
       ],
       [
-         "8月2日",
+         "8月10日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森ねぶた\u003C/mw:l>",
-            [
-               "string",
-               "（"
-            ],
-            "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-            [
-               "string",
-               " "
-            ],
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森県\u003C/mw:l>",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>青森市\u003C/mw:l>",
-            [
-               "string",
-               "、 - "
-            ],
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月7日\u003C/mw:l>",
-            [
-               "string",
-               "）"
-            ]
+            "バトントワリングの日\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2011年8月\u003C/mw:iparam>\u003C/mw:include>"
          ]
       ],
       [
-         "8月2日",
+         "8月10日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湯河原やっさ祭り\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神奈川県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>足柄下郡\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>湯河原町\u003C/mw:l>、 - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>8月3日\u003C/mw:l>）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>バイトル\u003C/mw:l>の日。8月10日「バ(8)イ(1)ト(0)ルの日」の語呂合せで、運営元の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ディップ\u003C/mw:l>が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本記念日協会\u003C/mw:l>が認定している。\u003Cmw:xl xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 href=\u0022http://www.baitoru.com/pdt/baitoruday/\u0022>※バイトルの日の由来\u003C/mw:xl>"
          ]
       ],
       [
-         "8月2日",
-         "できごと",
-         [
-            "string",
-            "紀元前338年 - マケドニア王フィリッポス2世がカイロネイアの戦いでアテネとテーバイの連合を破る。"
-         ]
-      ],
-      [
-         "8月2日",
-         "できごと",
-         [
-            "string",
-            "紀元前216年 - 第二次ポエニ戦争: カンナエの戦い。ハンニバル率いるカルタゴ軍が、共和政ローマ軍を包囲殲滅する。"
-         ]
-      ],
-      [
-         "8月2日",
-         "できごと",
-         [
-            "string",
-            "紀元前47年 - ローマ内戦: ゼラの戦い。ガイウス・ユリウス・カエサル率いる共和政ローマ軍がポントス軍を破る。カエサルは「来た、見た、勝った」と戦勝を元老院に報告。"
-         ]
-      ],
-      [
-         "8月15日",
-         "記念日・年中行事",
-         [
-            "list",
-            {
-               "name" : "対日戦勝記念日",
-               "region_wref" : "GBR",
-               "wref" : "対日戦勝記念日"
-            },
-            [
-               "with-indent",
-               [
-                  "unparsed",
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022光復節 (韓国)\u0022>光復節\u003C/mw:l>",
-                  [
-                     "string",
-                     "（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "）・"
-                  ],
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>解放記念日\u003C/mw:l>",
-                  [
-                     "string",
-                     "（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRK\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "）"
-                  ]
-               ],
-               [
-                  "string",
-                  "日本がポツダム宣言を受諾したことにより朝鮮が日本の統治から解放されたことから。"
-               ]
-            ]
-         ]
-      ],
-      [
-         "8月15日",
+         "8月10日",
          "フィクションのできごと",
          [
             "string",
-            "照和20年（西暦換算1945年） - 日本海軍援英派遣艦隊「旭日艦隊」、横須賀、呉等の各軍港から出撃（架空戦記『旭日の艦隊』）"
+            "1955年（昭和30年） - 金田一耕助がおりんと名のる老婆と峠道ですれ違う。（『悪魔の手毬唄』）"
          ]
       ],
       [
-         "8月15日",
+         "8月10日",
          "フィクションのできごと",
          [
             "string",
-            "照和21年（西暦換算1946年） - 英国南部沿岸にドイツ軍が上陸作戦「トド作戦」を開始、上陸に成功（架空戦記『旭日の艦隊』）"
+            "1996年（原作小説では1994年） - 長崎空港へ向かった東洋航空402便が突如消息を絶つ。（ドラマ『神はサイコロを振らない〜君を忘れない〜』）"
          ]
       ],
       [
-         "8月15日",
+         "8月10日",
          "フィクションのできごと",
          [
             "string",
-            "200X年 - 仮名ライダーとモドキング一味の最終決戦。日本初の有人ロケットが、抗カラーウィルスワクチンを搭載して種子島宇宙センターより打ち上げられる（漫画『空想科学大戦!』）"
-         ]
-      ],
-      [
-         "8月15日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0069年 - ジオン公国建国記念日（アニメ『機動戦士ガンダム』）"
-         ]
-      ],
-      [
-         "8月15日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0081年 - エギーユ・デラーズ率いるデラーズ・フリートが、茨の園を中心としてゲリラ活動を開始する。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
-         ]
-      ],
-      [
-         "8月9日",
-         "できごと",
-         [
-            "string",
-            "紀元前48年 - ローマ内戦: ファルサルスの会戦"
+            "皇暦2010年（西暦1955年） - ブリタニア帝国が日本に宣戦布告。（アニメ『コードギアス 反逆のルルーシュ』）"
          ]
       ]
    ]
