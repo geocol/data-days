@@ -33581,66 +33581,6 @@
    },
    "_errors" : [
       [
-         "11月5日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "津波防災の日",
-               "region_wref" : "JPN"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>に制定。1854年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u002211月5日 (旧暦)\u0022>11月5日\u003C/mw:l>（旧暦、グレゴリオ暦では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>12月24日\u003C/mw:l>）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>安政南海地震\u003C/mw:l>が発生した日から\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>[http\u003C/mw:ref>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.data.jma.go.jp/svd/eew/data/nc/kunren/2014/tsunamibosai.html １１月５日は「津波防災の日」]&lt;/ref&gt;。\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "11月26日",
-         "できごと",
-         [
-            "string",
-            "紀元前43年 - 古代ローマでガイウス・ユリウス・カエサル・オクタウィアヌス、マルクス・アントニウス、マルクス・アエミリウス・レピドゥスによる第二回三頭政治が始まる。"
-         ]
-      ],
-      [
-         "11月2日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "1974年（アニメでは1977年） - ウエディ、漫画『DEATH NOTE』に登場するキャラクター"
-         ]
-      ],
-      [
-         "11月2日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>晩秋\u003C/mw:l>",
-               [
-                  "string",
-                  "＝"
-               ],
-               "\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>書道の日\u003C/b>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "書道"
-            ]
-         ]
-      ],
-      [
          "11月3日",
          "フィクションのできごと",
          [
@@ -33720,84 +33660,7 @@
          ]
       ],
       [
-         "11月16日",
-         "誕生日",
-         [
-            "string",
-            "紀元前42年 - ティベリウス、第2代ローマ皇帝（\u002B 37年）"
-         ]
-      ],
-      [
-         "11月16日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0087年 - エゥーゴの代表クワトロ・バジーナが、地球連邦政府議会ダカールにて自身の正体を明かしティターンズの内情を演説する。これによりエゥーゴ支持の気運が高まる。（アニメ『機動戦士Ζガンダム』）"
-         ]
-      ],
-      [
-         "11月16日",
-         "できごと",
-         [
-            "string",
-            "1632年（ユリウス暦11月6日） - 三十年戦争: リュッツェンの戦い"
-         ]
-      ],
-      [
-         "11月14日",
-         "できごと",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1985年\u003C/mw:l> - 東京地方\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>労働委員会\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本プロ野球選手会\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>労働組合\u003C/mw:l>に認定\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2012年11月\u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>日本プロ野球選手会のページでは労働組合認定日が11月5日とされており不釣り合いが生じているため\u003C/mw:iparam>\u003C/mw:include>。"
-         ]
-      ],
-      [
-         "11月1日",
-         "できごと",
-         [
-            "string",
-            "1612年（ユリウス暦10月22日） - ロシア・ポーランド戦争: ドミトリー・ポジャルスキー率いるロシア国民軍が、ポーランド軍が占領するモスクワを解放。(:en:Time of Troubles)"
-         ]
-      ],
-      [
-         "11月1日",
-         "できごと",
-         [
-            "string",
-            "1894年（ユリウス暦10月20日） - ニコライ2世が帝政ロシア皇帝位を継承。"
-         ]
-      ],
-      [
-         "11月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>生命保険\u003C/mw:l>",
-               [
-                  "string",
-                  "の月（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月30日\u003C/mw:l>",
-               [
-                  "string",
-                  "まで）"
-               ]
-            ],
-            [
-               "string",
-               "生命保険協会が1947年に制定。"
-            ]
-         ]
-      ],
-      [
-         "11月1日",
+         "11月17日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -33805,72 +33668,14 @@
                "unparsed",
                [
                   "string",
-                  "教育・文化週間（"
+                  "自由と民主主義のための闘争の日（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月7日\u003C/mw:l>",
-               [
-                  "string",
-                  "まで）"
-               ]
-            ],
-            [
-               "string",
-               "1959年9月の閣議決定により制定。11月3日の文化の日の前後1週間。"
-            ]
-         ]
-      ],
-      [
-         "11月11日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "未来世紀39年 - ジョルジュ・ド・サンド、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
-         ]
-      ],
-      [
-         "11月15日",
-         "できごと",
-         [
-            "string",
-            "1605年（ユリウス暦11月5日） - 火薬陰謀事件。ガイ・フォークスらがイギリス国王ジェームズ1世らの爆殺を企てるも失敗。"
-         ]
-      ],
-      [
-         "11月9日",
-         "できごと",
-         [
-            "string",
-            "1799年（フランス革命暦ブリュメール18日） - フランス革命: ブリュメールのクーデタ。ナポレオンが軍事クーデターを起こし総裁政府を倒す。フランス革命が終焉。"
-         ]
-      ],
-      [
-         "11月9日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>発明家の日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Inventors' Day\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022DEU\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CZE\u0022>\u003C/mw:include>",
                [
                   "string",
                   "・"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022AUT\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHE\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022SVK\u0022>\u003C/mw:include>",
                [
                   "string",
                   "）"
@@ -33878,20 +33683,12 @@
             ],
             [
                "string",
-               "オーストリア出身の女優で発明家のヘディ・ラマーの1914年の誕生日を記念。"
+               "1989年のこの日のビロード革命開始を記念。"
             ]
          ]
       ],
       [
-         "11月13日",
-         "フィクションのできごと",
-         [
-            "string",
-            "宇宙世紀0083年 - デラーズ・フリートがスペースコロニーを北米大陸に落下させる。これをもって「星の屑作戦」が完了。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
-         ]
-      ],
-      [
-         "11月13日",
+         "11月17日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -33899,14 +33696,15 @@
                "unparsed",
                [
                   "string",
-                  "茨城県民の日（"
+                  "島原防災の日（"
                ],
                "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
                   " "
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>茨城県\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>長崎県\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>島原市\u003C/mw:l>",
                [
                   "string",
                   "）"
@@ -33914,74 +33712,24 @@
             ],
             [
                "string",
-               "明治4年旧暦11月13日（1871年12月24日）、廃藩置県によって茨城県の名称が初めて使われたことに由来し、茨城県が1968年（明治100年にあたる）に制定。"
+               "1990年のこの日、雲仙普賢岳が約200年ぶりに噴火したことにちなむ。"
             ]
          ]
       ],
       [
-         "11月30日",
-         "誕生日",
+         "11月17日",
+         "できごと",
          [
             "string",
-            "1602年（ユリウス暦11月20日） - オットー・フォン・ゲーリケ、科学者（\u002B 1686年）"
+            "1876年（ユリウス暦11月5日） - ピョートル・チャイコフスキーの『スラヴ行進曲』がモスクワで初演。"
          ]
       ],
       [
-         "11月30日",
-         "フィクションのできごと",
+         "11月17日",
+         "誕生日(フィクション)",
          [
             "string",
-            "U.C.0079年 - ジオン軍、ジャブロー降下作戦（第2次ジャブロー侵攻作戦）に失敗。（アニメ『機動戦士ガンダム』）"
-         ]
-      ],
-      [
-         "11月8日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>立冬\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の一つ。太陽黄経が225度のときで、初めて冬の気配が現われてくる日。"
-            ]
-         ]
-      ],
-      [
-         "11月19日",
-         "誕生日",
-         [
-            "string",
-            "1711年（ユリウス暦11月8日） - ミハイル・ロモノーソフ、科学者（\u002B 1765年）"
-         ]
-      ],
-      [
-         "11月7日",
-         "誕生日",
-         [
-            "string",
-            "1879年（ユリウス暦10月26日） - レフ・トロツキー、革命家（\u002B 1940年）"
+            "ギルガメス暦2301年 - ジャン・ポール・ロッチナ、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
          ]
       ],
       [
@@ -33990,14 +33738,6 @@
          [
             "string",
             "U.C.0079年 - 地球連邦軍がオデッサ作戦を開始。（ - 9日）（アニメ『機動戦士ガンダム』）"
-         ]
-      ],
-      [
-         "11月7日",
-         "できごと",
-         [
-            "string",
-            "1917年（ユリウス暦10月25日） - レーニン率いるボリシェヴィキによりロシア10月革命が成立。"
          ]
       ],
       [
@@ -34069,11 +33809,340 @@
          ]
       ],
       [
+         "11月7日",
+         "できごと",
+         [
+            "string",
+            "1917年（ユリウス暦10月25日） - レーニン率いるボリシェヴィキによりロシア10月革命が成立。"
+         ]
+      ],
+      [
+         "11月7日",
+         "誕生日",
+         [
+            "string",
+            "1879年（ユリウス暦10月26日） - レフ・トロツキー、革命家（\u002B 1940年）"
+         ]
+      ],
+      [
+         "11月14日",
+         "できごと",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1985年\u003C/mw:l> - 東京地方\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>労働委員会\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本プロ野球選手会\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>労働組合\u003C/mw:l>に認定\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2012年11月\u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>日本プロ野球選手会のページでは労働組合認定日が11月5日とされており不釣り合いが生じているため\u003C/mw:iparam>\u003C/mw:include>。"
+         ]
+      ],
+      [
+         "11月26日",
+         "できごと",
+         [
+            "string",
+            "紀元前43年 - 古代ローマでガイウス・ユリウス・カエサル・オクタウィアヌス、マルクス・アントニウス、マルクス・アエミリウス・レピドゥスによる第二回三頭政治が始まる。"
+         ]
+      ],
+      [
+         "11月27日",
+         "忌日",
+         [
+            "string",
+            "紀元前8年 - ホラティウス、詩人（* 紀元前65年）"
+         ]
+      ],
+      [
+         "11月10日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0083年 - デラーズ・フリートに強奪されたガンダム試作2号機が、観艦式のためにコンペイ島に集結した地球連邦軍艦隊に向けて核攻撃を行う。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
+         ]
+      ],
+      [
+         "11月20日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "山梨県民の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山梨県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "明治4年旧暦11月20日、甲府県が山梨県に改称されたことに由来し、山梨県が制定。新暦に換算すると12月31日になってしまうため、旧暦の日付を記念日とした。"
+            ]
+         ]
+      ],
+      [
+         "11月20日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "モチモチの木に灯がともる晩(斎藤隆介『モチモチの木』)"
+            },
+            [
+               "unparsed",
+               "作中では「霜月20日」,すなわちこの日の丑三つ時(午前2時)に主人公とその祖父が住む猟師小屋前のモチモチの木に灯が灯るという現象が描かれている。また,この現象は\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>勇気のある1人の男の子しか見ることができないが,祖父・父と二代続けて見た実績がある山の神様の祭典\u003C/b>とされており,架空であるが\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>年中行事の一つ\u003C/b>とみなす。"
+            ]
+         ]
+      ],
+      [
+         "11月20日",
+         "できごと",
+         [
+            "string",
+            "1620年（ユリウス暦11月11日） - メイフラワー号に乗ってアメリカに渡ったピルグリム・ファーザーズがメイフラワー誓約に署名。"
+         ]
+      ],
+      [
+         "11月20日",
+         "誕生日",
+         [
+            "string",
+            "1803年（ユリウス暦11月8日） - エフィム・プチャーチン、ロシアの海軍将官（\u002B 1883年）"
+         ]
+      ],
+      [
+         "11月29日",
+         "できごと",
+         [
+            "string",
+            "紀元前2333年 - 檀君が古朝鮮を建国。"
+         ]
+      ],
+      [
+         "11月28日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 五藤めぐみ、フリーアナウンサー"
+         ]
+      ],
+      [
+         "11月28日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 松村泰一郎、俳優、元子役"
+         ]
+      ],
+      [
+         "11月28日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表 - 山田尚子、アニメーター、アニメーション監督"
+         ]
+      ],
+      [
+         "11月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>立冬\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の一つ。太陽黄経が225度のときで、初めて冬の気配が現われてくる日。"
+            ]
+         ]
+      ],
+      [
+         "11月19日",
+         "誕生日",
+         [
+            "string",
+            "1711年（ユリウス暦11月8日） - ミハイル・ロモノーソフ、科学者（\u002B 1765年）"
+         ]
+      ],
+      [
+         "11月12日",
+         "フィクションのできごと",
+         [
+            "string",
+            "不明 - 魚雷ガールが感激した日という理由から祝日「魚雷の日」に制定された。（漫画『ボボボーボ・ボーボボ』）"
+         ]
+      ],
+      [
+         "11月11日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "未来世紀39年 - ジョルジュ・ド・サンド、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
+         ]
+      ],
+      [
+         "11月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "津波防災の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>に制定。1854年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u002211月5日 (旧暦)\u0022>11月5日\u003C/mw:l>（旧暦、グレゴリオ暦では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>12月24日\u003C/mw:l>）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>安政南海地震\u003C/mw:l>が発生した日から\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>[http\u003C/mw:ref>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.data.jma.go.jp/svd/eew/data/nc/kunren/2014/tsunamibosai.html １１月５日は「津波防災の日」]&lt;/ref&gt;。\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "11月15日",
+         "できごと",
+         [
+            "string",
+            "1605年（ユリウス暦11月5日） - 火薬陰謀事件。ガイ・フォークスらがイギリス国王ジェームズ1世らの爆殺を企てるも失敗。"
+         ]
+      ],
+      [
+         "11月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>生命保険\u003C/mw:l>",
+               [
+                  "string",
+                  "の月（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月30日\u003C/mw:l>",
+               [
+                  "string",
+                  "まで）"
+               ]
+            ],
+            [
+               "string",
+               "生命保険協会が1947年に制定。"
+            ]
+         ]
+      ],
+      [
+         "11月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "教育・文化週間（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月7日\u003C/mw:l>",
+               [
+                  "string",
+                  "まで）"
+               ]
+            ],
+            [
+               "string",
+               "1959年9月の閣議決定により制定。11月3日の文化の日の前後1週間。"
+            ]
+         ]
+      ],
+      [
+         "11月1日",
+         "できごと",
+         [
+            "string",
+            "1612年（ユリウス暦10月22日） - ロシア・ポーランド戦争: ドミトリー・ポジャルスキー率いるロシア国民軍が、ポーランド軍が占領するモスクワを解放。(:en:Time of Troubles)"
+         ]
+      ],
+      [
+         "11月1日",
+         "できごと",
+         [
+            "string",
+            "1894年（ユリウス暦10月20日） - ニコライ2世が帝政ロシア皇帝位を継承。"
+         ]
+      ],
+      [
          "11月25日",
          "フィクションのできごと",
          [
             "string",
             "1937年（昭和12年）- 岡山県岡－村で一柳家当主の結婚式が行われ、翌日未明に殺人事件がおきる。（小説『本陣殺人事件』）"
+         ]
+      ],
+      [
+         "11月2日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>晩秋\u003C/mw:l>",
+               [
+                  "string",
+                  "＝"
+               ],
+               "\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>書道の日\u003C/b>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "書道"
+            ]
+         ]
+      ],
+      [
+         "11月2日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "1974年（アニメでは1977年） - ウエディ、漫画『DEATH NOTE』に登場するキャラクター"
          ]
       ],
       [
@@ -34129,70 +34198,52 @@
          ]
       ],
       [
-         "11月27日",
-         "忌日",
+         "11月16日",
+         "フィクションのできごと",
          [
             "string",
-            "紀元前8年 - ホラティウス、詩人（* 紀元前65年）"
+            "U.C.0087年 - エゥーゴの代表クワトロ・バジーナが、地球連邦政府議会ダカールにて自身の正体を明かしティターンズの内情を演説する。これによりエゥーゴ支持の気運が高まる。（アニメ『機動戦士Ζガンダム』）"
          ]
       ],
       [
-         "11月28日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 五藤めぐみ、フリーアナウンサー"
-         ]
-      ],
-      [
-         "11月28日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 松村泰一郎、俳優、元子役"
-         ]
-      ],
-      [
-         "11月28日",
-         "誕生日",
-         [
-            "string",
-            "生年非公表 - 山田尚子、アニメーター、アニメーション監督"
-         ]
-      ],
-      [
-         "11月20日",
-         "誕生日",
-         [
-            "string",
-            "1803年（ユリウス暦11月8日） - エフィム・プチャーチン、ロシアの海軍将官（\u002B 1883年）"
-         ]
-      ],
-      [
-         "11月20日",
+         "11月16日",
          "できごと",
          [
             "string",
-            "1620年（ユリウス暦11月11日） - メイフラワー号に乗ってアメリカに渡ったピルグリム・ファーザーズがメイフラワー誓約に署名。"
+            "1632年（ユリウス暦11月6日） - 三十年戦争: リュッツェンの戦い"
          ]
       ],
       [
-         "11月20日",
+         "11月16日",
+         "誕生日",
+         [
+            "string",
+            "紀元前42年 - ティベリウス、第2代ローマ皇帝（\u002B 37年）"
+         ]
+      ],
+      [
+         "11月9日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>発明家の日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Inventors' Day\u003C/mw:iparam>\u003C/mw:include>",
                [
                   "string",
-                  "山梨県民の日（"
+                  "（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022DEU\u0022>\u003C/mw:include>",
                [
                   "string",
-                  " "
+                  "・"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>山梨県\u003C/mw:l>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022AUT\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHE\u0022>\u003C/mw:include>",
                [
                   "string",
                   "）"
@@ -34200,38 +34251,32 @@
             ],
             [
                "string",
-               "明治4年旧暦11月20日、甲府県が山梨県に改称されたことに由来し、山梨県が制定。新暦に換算すると12月31日になってしまうため、旧暦の日付を記念日とした。"
+               "オーストリア出身の女優で発明家のヘディ・ラマーの1914年の誕生日を記念。"
             ]
          ]
       ],
       [
-         "11月20日",
-         "記念日・年中行事",
+         "11月9日",
+         "できごと",
          [
-            "with-indent",
-            {
-               "name" : "モチモチの木に灯がともる晩(斎藤隆介『モチモチの木』)"
-            },
-            [
-               "unparsed",
-               "作中では「霜月20日」,すなわちこの日の丑三つ時(午前2時)に主人公とその祖父が住む猟師小屋前のモチモチの木に灯が灯るという現象が描かれている。また,この現象は\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>勇気のある1人の男の子しか見ることができないが,祖父・父と二代続けて見た実績がある山の神様の祭典\u003C/b>とされており,架空であるが\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>年中行事の一つ\u003C/b>とみなす。"
-            ]
+            "string",
+            "1799年（フランス革命暦ブリュメール18日） - フランス革命: ブリュメールのクーデタ。ナポレオンが軍事クーデターを起こし総裁政府を倒す。フランス革命が終焉。"
          ]
       ],
       [
-         "11月10日",
+         "11月30日",
          "フィクションのできごと",
          [
             "string",
-            "U.C.0083年 - デラーズ・フリートに強奪されたガンダム試作2号機が、観艦式のためにコンペイ島に集結した地球連邦軍艦隊に向けて核攻撃を行う。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
+            "U.C.0079年 - ジオン軍、ジャブロー降下作戦（第2次ジャブロー侵攻作戦）に失敗。（アニメ『機動戦士ガンダム』）"
          ]
       ],
       [
-         "11月12日",
-         "フィクションのできごと",
+         "11月30日",
+         "誕生日",
          [
             "string",
-            "不明 - 魚雷ガールが感激した日という理由から祝日「魚雷の日」に制定された。（漫画『ボボボーボ・ボーボボ』）"
+            "1602年（ユリウス暦11月20日） - オットー・フォン・ゲーリケ、科学者（\u002B 1686年）"
          ]
       ],
       [
@@ -34303,23 +34348,15 @@
          ]
       ],
       [
-         "11月17日",
-         "誕生日(フィクション)",
+         "11月13日",
+         "フィクションのできごと",
          [
             "string",
-            "ギルガメス暦2301年 - ジャン・ポール・ロッチナ、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
+            "宇宙世紀0083年 - デラーズ・フリートがスペースコロニーを北米大陸に落下させる。これをもって「星の屑作戦」が完了。（アニメ『機動戦士ガンダム0083 STARDUST MEMORY』）"
          ]
       ],
       [
-         "11月17日",
-         "できごと",
-         [
-            "string",
-            "1876年（ユリウス暦11月5日） - ピョートル・チャイコフスキーの『スラヴ行進曲』がモスクワで初演。"
-         ]
-      ],
-      [
-         "11月17日",
+         "11月13日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -34327,43 +34364,14 @@
                "unparsed",
                [
                   "string",
-                  "自由と民主主義のための闘争の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CZE\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022SVK\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1989年のこの日のビロード革命開始を記念。"
-            ]
-         ]
-      ],
-      [
-         "11月17日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "島原防災の日（"
+                  "茨城県民の日（"
                ],
                "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
                   " "
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>長崎県\u003C/mw:l>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>島原市\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>茨城県\u003C/mw:l>",
                [
                   "string",
                   "）"
@@ -34371,16 +34379,8 @@
             ],
             [
                "string",
-               "1990年のこの日、雲仙普賢岳が約200年ぶりに噴火したことにちなむ。"
+               "明治4年旧暦11月13日（1871年12月24日）、廃藩置県によって茨城県の名称が初めて使われたことに由来し、茨城県が1968年（明治100年にあたる）に制定。"
             ]
-         ]
-      ],
-      [
-         "11月29日",
-         "できごと",
-         [
-            "string",
-            "紀元前2333年 - 檀君が古朝鮮を建国。"
          ]
       ]
    ]

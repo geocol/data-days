@@ -18130,11 +18130,839 @@
    },
    "_errors" : [
       [
+         "4月16日",
+         "できごと",
+         [
+            "string",
+            "紀元前1178年 - オデュッセウスがトロイア戦争を終えて自国に帰還。"
+         ]
+      ],
+      [
+         "4月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界宇宙飛行の日\u003C/mw:l>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ユーリーズナイト\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宇宙飛行士の日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1961年のこの日、ソ連が世界初の有人宇宙衛星船「ヴォストーク1号」の打ち上げに成功したことにちなむ。"
+            ]
+         ]
+      ],
+      [
+         "4月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>チエンマイ\u003C/mw:l>",
+               [
+                  "string",
+                  "成立記念日"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2011年4月\u003C/mw:iparam>\u003C/mw:include>"
+            ],
+            [
+               "string",
+               "1296年のこの日、ラーンナー王朝のメンラーイ王によりチエンマイが成立したことを記念。1996年のチエンマイ700周年記念にユネスコが参加したことにより有名になった。"
+            ]
+         ]
+      ],
+      [
+         "4月12日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022人造人間キカイダー\u0022>キカイダーDAY\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハワイ州\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "4月27日",
+         "忌日",
+         [
+            "string",
+            "紀元前399年 - ソクラテス、哲学者（* 紀元前469年頃）"
+         ]
+      ],
+      [
+         "4月27日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "世界生命の日"
+               },
+               " {{World}}←でいいのか? "
+            ],
+            [
+               "string",
+               "1991年4月25日から4月27日まで東京で開かれた国際生命尊重会議で制定。胎児の人権宣言が宣言された最終日を記念日とした。"
+            ]
+         ]
+      ],
+      [
+         "4月27日",
+         "できごと",
+         [
+            "string",
+            "紀元前399年 - ソクラテスが青年を惑わした罪で刑死。"
+         ]
+      ],
+      [
+         "4月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "世界マラリアデー",
+                  "region_wref" : "World",
+                  "wref" : "世界マラリアデー"
+               },
+               " enは少々情報が古いのでfrで "
+            ],
+            [
+               "string",
+               "2000年のこの日にナイジェリアでマラリア撲滅国際会議が開かれたことを記念して、同会議でこの日を「アフリカ・マラリア・デー」として制定。2008年から世界保健機関が「世界マラリアデー」として実施している。"
+            ]
+         ]
+      ],
+      [
+         "4月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ANZACの日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022AUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NZL\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022COK\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NIU\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022WSM\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TON\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "第一次世界大戦時のオーストラリア及びニュージーランドの義勇軍（ANZAC）の勇気をたたえ、戦没者を追悼する日。"
+            ]
+         ]
+      ],
+      [
+         "4月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "国連記念日"
+               },
+               " 他言語版に見当たらず、google検索も芳しからず。この”記念日”、本当に存在している/どこかで制定されている/祝われているのでしょうか…？ → 日本記念日協会「366日記念日事典」、「記念日・祝日の事典」(東京堂出版)に記載 "
+            ],
+            [
+               "string",
+               "1945年4月25日に、サンフランシスコで連合国50か国代表による、国連憲章を作成・採択するためのサンフランシスコ会議が開催されたことにちなむ。国際デーの一つである「国連デー」は10月24日。"
+            ]
+         ]
+      ],
+      [
+         "4月25日",
+         "できごと",
+         [
+            "string",
+            "紀元前404年 - アテネがスパルタに降伏し、ペロポネソス戦争が終結。"
+         ]
+      ],
+      [
+         "4月3日",
+         "フィクションのできごと",
+         [
+            "string",
+            "不明 - ミトロン戦争開戦（『ドリフトシティ エボリューション』）"
+         ]
+      ],
+      [
+         "4月3日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>愛林日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1898年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1949年\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "4月3日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003Cmw:iparam>zh\u003C/mw:iparam>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2012年）"
+               ]
+            ],
+            [
+               "string",
+               "清明の前日。この日は家で火を炊くことを忌み、冷たい物を食べる習慣があった。"
+            ]
+         ]
+      ],
+      [
+         "4月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "国民主権と子供の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUR\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北キプロス・トルコ共和国\u0022>北キプロス\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1920年のこの日、現在のトルコ大国民議会（国会）の起源となる大国民議会が開催されたことを記念。"
+            ]
+         ]
+      ],
+      [
+         "4月28日",
+         "フィクションのできごと",
+         [
+            "string",
+            "196X年 - 午前10時26分、物体O落下。（小松左京の小説「物体O」）"
+         ]
+      ],
+      [
+         "4月28日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 大沢マリア誘拐事件発生。（サウンドノベル『428 〜封鎖された渋谷で〜』）"
+         ]
+      ],
+      [
+         "4月13日",
+         "記念日・年中行事",
+         [
+            "with-list",
+            [
+               "with-indent",
+               [
+                  "with-list",
+                  [
+                     "with-indent",
+                     {
+                        "name" : "東南アジア・南アジアの正月の祝日(4月13日 - 15日)"
+                     },
+                     [
+                        "string",
+                        "東南アジア・南アジアの多くの国では4月14日を新年の始まりの日としており、いくつかの国ではその前後を含めて祝日としている。"
+                     ]
+                  ],
+                  [
+                     "list",
+                     {
+                        "name" : "ソンクラーン",
+                        "region_wref" : "THA",
+                        "wref" : "ソンクラーン"
+                     }
+                  ]
+               ],
+               [
+                  "string",
+                  "タイにおける旧暦（チャントラカティ）の正月。"
+               ]
+            ],
+            [
+               "list",
+               {
+                  "name" : "ピーマイラーオ(ラオス正月)",
+                  "region_wref" : "LAO"
+               },
+               {
+                  "name" : "クメール正月",
+                  "region_wref" : "KHM",
+                  "wref" : "クメール正月"
+               }
+            ]
+         ]
+      ],
+      [
+         "4月13日",
+         "できごと",
+         [
+            "string",
+            "1336年（延元元年/建武3年3月2日 南北朝時代: 九州に落ち延びていた足利尊氏が再び挙兵、多々良浜の戦いで南朝方の菊池武敏を破る。"
+         ]
+      ],
+      [
+         "4月13日",
+         "できごと",
+         [
+            "string",
+            "1668年（寛文8年3月2日 宇都宮興禅寺刃傷事件が起こる。"
+         ]
+      ],
+      [
+         "4月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高山祭\u0022>春の高山祭\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>高山市\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "岐阜県高山市で行われる日枝神社の例祭。日本三大美祭の一つに数えられる。"
+            ]
+         ]
+      ],
+      [
+         "4月14日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>SOS\u003C/mw:l>の日（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タイタニック号\u003C/mw:l>の日）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1912年\u003C/mw:l>のこの日、豪華客船\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タイタニック号\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニューファンドランド島\u003C/mw:l>沖で氷山に衝突。\u003C/dd>\u003Cdd>この時に発せられたSOS信号が世界で初めてのSOS信号という誤った説が広まったことから（正しくは1909年6月10日スラボニア号が世界初）\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "4月5日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0088年 - 地球連邦軍のα任務部隊がニューディサイズの武装蜂起によるペズンの反乱を鎮圧。グリプス戦役終結。（雑誌企画『ガンダム・センチネル』）"
+         ]
+      ],
+      [
+         "4月5日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0153年 - ウッソ・エヴィンがクロノクル・アシャーよりモビルスーツシャッコーを強奪。ザンスカール帝国が夜間にウーイッグを爆撃。（アニメ『機動戦士Vガンダム』）"
+         ]
+      ],
+      [
+         "4月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>清明\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2010年・2011年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が15度の時で、万物がすがすがしく明るく美しいころ。"
+            ]
+         ]
+      ],
+      [
+         "4月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>清明\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2012年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が15度の時で、万物がすがすがしく明るく美しいころ。"
+            ]
+         ]
+      ],
+      [
+         "4月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003Cmw:iparam>zh\u003C/mw:iparam>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " 2010年・2011年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "清明の前日。この日は家で火を炊くことを忌み、冷たい物を食べる習慣があった。"
+            ]
+         ]
+      ],
+      [
+         "4月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ピアノ調律の日",
+               "region_wref" : "World"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際ピアノ製造技師調律師協会\u003C/mw:l>(IAPBT)が1993年に制定。4月の英語Aprilの頭文字が調律に使う音の名前\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022イ (音名)\u0022>A\u003C/mw:l>と同じであり、その\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>周波数\u003C/mw:l>が440Hzであることから。\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>[http\u003C/mw:ref>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.jpta.org/2008/44-2008.html 「4月4日はピアノ調律の日」全国統一記念事業] \u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022リンク切れ\u0022>\u003Cmw:iparam name=\u0022date\u0022>2014年6月\u003C/mw:iparam>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本ピアノ調律師協会\u003C/mw:l>&lt;/ref&gt;\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "4月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022子供の日\u0022>児童節\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ROC\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022HKG\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "中華民国が1931年に制定。また、香港でも1931年から中華民国にあわせて4月4日を児童節としている。"
+            ]
+         ]
+      ],
+      [
+         "4月4日",
+         "誕生日",
+         [
+            "string",
+            "宇宙暦767年/帝国暦458年 - ヤン・ウェンリー　小説・アニメ『銀河英雄伝説』の登場人物"
+         ]
+      ],
+      [
+         "4月20日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>穀雨\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "2010年・2011年・2012年・2013年）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が30度の時で、田畑の準備が整い、それに合わせて春の雨の降るころ。"
+            ]
+         ]
+      ],
+      [
+         "4月20日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "木蓮忌（百"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CP932フォント\u0022>\u003Cmw:iparam>閒\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "忌、百鬼園忌）"
+               ]
+            ],
+            [
+               "string",
+               "内田百閒の忌日。東京都中野区金剛寺にある木蓮を詠んだ句碑から木蓮忌とも呼ばれる。"
+            ]
+         ]
+      ],
+      [
+         "4月1日",
+         "フィクションのできごと",
+         [
+            "string",
+            "1939年（昭和14年） - 大日本帝国海軍中将・次官高野五十六暗殺未遂事件。（『紺碧の艦隊』）"
+         ]
+      ],
+      [
+         "4月1日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0079年 - 地球連邦軍、V作戦を発動。（アニメ『機動戦士ガンダム』）"
+         ]
+      ],
+      [
+         "4月1日",
+         "フィクションのできごと",
+         [
+            "string",
+            "C.E.70年 - エイプリルフール・クライシス発動。（アニメ『機動戦士ガンダムSEED』）"
+         ]
+      ],
+      [
+         "4月1日",
+         "できごと",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1969年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022極超短波\u0022>UHF\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アナログテレビ放送\u0022>アナログ\u003C/mw:l>）を親局とする\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022民間放送\u0022>民放\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ局\u003C/mw:l>が日本各地に開局。\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>なおこの日開局したのは、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>長野放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山テレビ放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>石川テレビ放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022中京テレビ放送\u0022>中京ユー・エッチ・エフテレビ放送（現・中京テレビ放送）\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022京都放送\u0022>近畿放送（現・京都放送）\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>瀬戸内海放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福岡放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サガテレビ\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ長崎\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ熊本\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>鹿児島テレビ放送\u003C/mw:l>、以上11局。\u003C/li>\u003C/ul>"
+         ]
+      ],
+      [
          "4月8日",
          "誕生日(フィクション)",
          [
             "string",
             "神世紀286年 - 東郷美森、アニメ『結城友奈は勇者である』に登場するキャラクター"
+         ]
+      ],
+      [
+         "4月7日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0096年 - インダストリアル7において、ユニコーンガンダム1号機がバナージ・リンクスをパイロットに固定して起動。（小説・アニメ『機動戦士ガンダムUC』）"
+         ]
+      ],
+      [
+         "4月7日",
+         "フィクションのできごと",
+         [
+            "string",
+            "A.C.195年 - 「オペレーション・メテオ」発動。地球圏統一連合に反目する勢力が、5機のガンダムタイプモビルスーツを地球に降下させる。（アニメ『新機動戦記ガンダムW』）"
+         ]
+      ],
+      [
+         "4月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界禁煙デー\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1988年\u003C/mw:l>",
+               [
+                  "string",
+                  "のみ）"
+               ]
+            ],
+            [
+               "string",
+               "世界保健機構が1988年4月7日に設立40周年を迎えることを記念して、この日が\u0022a world no-smoking day\u0022（世界禁煙デー）とされた。1988年5月の決議により、1989年より毎年5月31日が世界禁煙デーと定められた。"
+            ]
+         ]
+      ],
+      [
+         "4月17日",
+         "フィクションのできごと",
+         [
+            "string",
+            "C.E.70年 - 第一次ヤキン・ドゥーエ攻防戦勃発。（アニメ『機動戦士ガンダムSEED』）"
+         ]
+      ],
+      [
+         "4月17日",
+         "できごと",
+         [
+            "string",
+            "1912年（ユリウス暦4月4日） - レナ虐殺事件。シベリアのレナ川付近でストライキを行っていた金鉱労働者をロシア帝国軍が射殺。"
+         ]
+      ],
+      [
+         "4月17日",
+         "できごと",
+         [
+            "string",
+            "1917年（ユリウス暦4月4日） - ロシア革命: 前日にロシアに帰国したばかりのウラジーミル・レーニンが「四月テーゼ」を発表。戦争を続ける臨時政府の全権をソビエトが握るべきと主張。"
+         ]
+      ],
+      [
+         "4月30日",
+         "誕生日",
+         [
+            "string",
+            "如月伸太郎、カゲロウプロジェクトに登場するキャラクター"
+         ]
+      ],
+      [
+         "4月18日",
+         "フィクションのできごと",
+         [
+            "string",
+            "昭和17年 - アメリカ軍重爆撃機「B30」が日本本土を空襲、東京都に達した部隊は日本海軍局地戦闘機「蒼莱」によって殲滅されるも大阪府、広島県等で被害。（小説『紺碧の艦隊』）"
+         ]
+      ],
+      [
+         "4月18日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 四・一八事件。琵琶湖に地球外生命体アポストリが乗る宇宙船（十字架）が落下し、日本との間で戦闘が勃発。講和までに日本側は200万人の犠牲を被る。（小説『葉桜が来た夏』）"
+         ]
+      ],
+      [
+         "4月18日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "三重県民の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三重県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1876年4月18日に度会県を編入して現在の三重県の範囲が画定したことから。1976年（昭和51年）3月29日に三重県条例第2号として制定。"
+            ]
+         ]
+      ],
+      [
+         "4月18日",
+         "日本の自治体改編",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1876年\u003C/mw:l> - 日本で1回目の「第二次\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022都道府県\u0022>府県統合\u003C/mw:l>」を実施。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> [[府県統合]]とか[[都道府県の変遷]]とかの項目を作って、詳細はそちらに書くべき \u003C/mw:comment>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>新治県\u003C/mw:l>の一部および\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県\u003C/mw:l>の一部を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>茨城県\u003C/mw:l>に編入。茨城県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>足柄県\u003C/mw:l>を分割して\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>静岡県\u003C/mw:l>と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神奈川県\u003C/mw:l>に編入。神奈川県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>相川県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>新潟県\u003C/mw:l>に編入。新潟県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>度会県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三重県\u003C/mw:l>に編入。三重県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北条県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>岡山県\u003C/mw:l>に編入、岡山県の旧\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>備後国\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>広島県\u003C/mw:l>に編入。岡山県・広島県が現在の形に。\u003C/li>\u003C/ul>"
+         ]
+      ],
+      [
+         "4月15日",
+         "忌日",
+         [
+            "string",
+            "1765年（ユリウス暦4月4日） - ミハイル・ロモノーソフ、科学者（* 1711年）"
+         ]
+      ],
+      [
+         "4月15日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>遺言\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>「ゆ(4)い(1)ご(5)ん」の語呂合わせ。\u003C/dd>\u003Cdd>近畿弁護士会連合会が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本弁護士連合会\u003C/mw:l>が主催して全国で実施されるようになった。これとは別に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月15日\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>いい遺言の日\u003C/mw:l>となっている。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "4月15日",
+         "できごと",
+         [
+            "string",
+            "1632年（ユリウス暦4月5日） - 三十年戦争: レヒ川の戦い"
+         ]
+      ],
+      [
+         "4月6日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "公立学校"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>始業式\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）（この日が休みだと直後の平日）"
+               ]
+            ],
+            [
+               "string",
+               "多くの公立小中学校・高校ではこの日から始業式が行われ、新しい学年になった生徒にとっての初めてのイベント。この日から学校での教育活動が開始される。"
+            ]
+         ]
+      ],
+      [
+         "4月6日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "コンビーフの日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1875年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>コンビーフ\u003C/mw:l>のパッケージである\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022錐台\u0022>台形\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>缶\u003C/mw:l>「枕缶」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国\u0022>アメリカ\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>特許\u003C/mw:l>登録された。同年中に同国の食品会社リビー（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>en:Libby's|Libby's]]）により、枕缶に詰められたコンビーフが世界で初めて製造・販売が開始された。\u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "4月6日",
+         "できごと",
+         [
+            "string",
+            "紀元前46年 - ローマ内戦: タプススの戦いでユリウス・カエサルが元老院派の軍を破る。"
+         ]
+      ],
+      [
+         "4月21日",
+         "できごと",
+         [
+            "string",
+            "紀元前753年 - ロムルスが都市国家ローマの初代王に即位。"
+         ]
+      ],
+      [
+         "4月29日",
+         "フィクションのできごと",
+         [
+            "string",
+            "新暦0071年 - ミッドチルダ北部で空港大火災。（アニメ『魔法少女リリカルなのはStrikerS』）"
          ]
       ],
       [
@@ -18247,180 +19075,6 @@
          ]
       ],
       [
-         "4月29日",
-         "フィクションのできごと",
-         [
-            "string",
-            "新暦0071年 - ミッドチルダ北部で空港大火災。（アニメ『魔法少女リリカルなのはStrikerS』）"
-         ]
-      ],
-      [
-         "4月18日",
-         "日本の自治体改編",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1876年\u003C/mw:l> - 日本で1回目の「第二次\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022都道府県\u0022>府県統合\u003C/mw:l>」を実施。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> [[府県統合]]とか[[都道府県の変遷]]とかの項目を作って、詳細はそちらに書くべき \u003C/mw:comment>\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>新治県\u003C/mw:l>の一部および\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県\u003C/mw:l>の一部を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>茨城県\u003C/mw:l>に編入。茨城県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>足柄県\u003C/mw:l>を分割して\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>静岡県\u003C/mw:l>と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神奈川県\u003C/mw:l>に編入。神奈川県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>相川県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>新潟県\u003C/mw:l>に編入。新潟県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>度会県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三重県\u003C/mw:l>に編入。三重県が現在の形に。\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北条県\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>岡山県\u003C/mw:l>に編入、岡山県の旧\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>備後国\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>広島県\u003C/mw:l>に編入。岡山県・広島県が現在の形に。\u003C/li>\u003C/ul>"
-         ]
-      ],
-      [
-         "4月18日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "三重県民の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三重県\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1876年4月18日に度会県を編入して現在の三重県の範囲が画定したことから。1976年（昭和51年）3月29日に三重県条例第2号として制定。"
-            ]
-         ]
-      ],
-      [
-         "4月18日",
-         "フィクションのできごと",
-         [
-            "string",
-            "昭和17年 - アメリカ軍重爆撃機「B30」が日本本土を空襲、東京都に達した部隊は日本海軍局地戦闘機「蒼莱」によって殲滅されるも大阪府、広島県等で被害。（小説『紺碧の艦隊』）"
-         ]
-      ],
-      [
-         "4月18日",
-         "フィクションのできごと",
-         [
-            "string",
-            "200X年 - 四・一八事件。琵琶湖に地球外生命体アポストリが乗る宇宙船（十字架）が落下し、日本との間で戦闘が勃発。講和までに日本側は200万人の犠牲を被る。（小説『葉桜が来た夏』）"
-         ]
-      ],
-      [
-         "4月13日",
-         "できごと",
-         [
-            "string",
-            "1336年（延元元年/建武3年3月2日 南北朝時代: 九州に落ち延びていた足利尊氏が再び挙兵、多々良浜の戦いで南朝方の菊池武敏を破る。"
-         ]
-      ],
-      [
-         "4月13日",
-         "できごと",
-         [
-            "string",
-            "1668年（寛文8年3月2日 宇都宮興禅寺刃傷事件が起こる。"
-         ]
-      ],
-      [
-         "4月13日",
-         "記念日・年中行事",
-         [
-            "with-list",
-            [
-               "with-indent",
-               [
-                  "with-list",
-                  [
-                     "with-indent",
-                     {
-                        "name" : "東南アジア・南アジアの正月の祝日(4月13日 - 15日)"
-                     },
-                     [
-                        "string",
-                        "東南アジア・南アジアの多くの国では4月14日を新年の始まりの日としており、いくつかの国ではその前後を含めて祝日としている。"
-                     ]
-                  ],
-                  [
-                     "list",
-                     {
-                        "name" : "ソンクラーン",
-                        "region_wref" : "THA",
-                        "wref" : "ソンクラーン"
-                     }
-                  ]
-               ],
-               [
-                  "string",
-                  "タイにおける旧暦（チャントラカティ）の正月。"
-               ]
-            ],
-            [
-               "list",
-               {
-                  "name" : "ピーマイラーオ(ラオス正月)",
-                  "region_wref" : "LAO"
-               },
-               {
-                  "name" : "クメール正月",
-                  "region_wref" : "KHM",
-                  "wref" : "クメール正月"
-               }
-            ]
-         ]
-      ],
-      [
-         "4月16日",
-         "できごと",
-         [
-            "string",
-            "紀元前1178年 - オデュッセウスがトロイア戦争を終えて自国に帰還。"
-         ]
-      ],
-      [
-         "4月20日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>穀雨\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "2010年・2011年・2012年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が30度の時で、田畑の準備が整い、それに合わせて春の雨の降るころ。"
-            ]
-         ]
-      ],
-      [
-         "4月20日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "木蓮忌（百"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CP932フォント\u0022>\u003Cmw:iparam>閒\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "忌、百鬼園忌）"
-               ]
-            ],
-            [
-               "string",
-               "内田百閒の忌日。東京都中野区金剛寺にある木蓮を詠んだ句碑から木蓮忌とも呼ばれる。"
-            ]
-         ]
-      ],
-      [
          "4月9日",
          "記念日・年中行事",
          [
@@ -18449,625 +19103,11 @@
          ]
       ],
       [
-         "4月25日",
-         "できごと",
-         [
-            "string",
-            "紀元前404年 - アテネがスパルタに降伏し、ペロポネソス戦争が終結。"
-         ]
-      ],
-      [
-         "4月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "世界マラリアデー",
-                  "region_wref" : "World",
-                  "wref" : "世界マラリアデー"
-               },
-               " enは少々情報が古いのでfrで "
-            ],
-            [
-               "string",
-               "2000年のこの日にナイジェリアでマラリア撲滅国際会議が開かれたことを記念して、同会議でこの日を「アフリカ・マラリア・デー」として制定。2008年から世界保健機関が「世界マラリアデー」として実施している。"
-            ]
-         ]
-      ],
-      [
-         "4月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ANZACの日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022AUS\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NZL\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022COK\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NIU\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022WSM\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TON\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "第一次世界大戦時のオーストラリア及びニュージーランドの義勇軍（ANZAC）の勇気をたたえ、戦没者を追悼する日。"
-            ]
-         ]
-      ],
-      [
-         "4月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "国連記念日"
-               },
-               " 他言語版に見当たらず、google検索も芳しからず。この”記念日”、本当に存在している/どこかで制定されている/祝われているのでしょうか…？ → 日本記念日協会「366日記念日事典」、「記念日・祝日の事典」(東京堂出版)に記載 "
-            ],
-            [
-               "string",
-               "1945年4月25日に、サンフランシスコで連合国50か国代表による、国連憲章を作成・採択するためのサンフランシスコ会議が開催されたことにちなむ。国際デーの一つである「国連デー」は10月24日。"
-            ]
-         ]
-      ],
-      [
-         "4月3日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>愛林日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1898年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1949年\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "4月3日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003Cmw:iparam>zh\u003C/mw:iparam>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2012年）"
-               ]
-            ],
-            [
-               "string",
-               "清明の前日。この日は家で火を炊くことを忌み、冷たい物を食べる習慣があった。"
-            ]
-         ]
-      ],
-      [
-         "4月3日",
-         "フィクションのできごと",
-         [
-            "string",
-            "不明 - ミトロン戦争開戦（『ドリフトシティ エボリューション』）"
-         ]
-      ],
-      [
-         "4月27日",
-         "忌日",
-         [
-            "string",
-            "紀元前399年 - ソクラテス、哲学者（* 紀元前469年頃）"
-         ]
-      ],
-      [
-         "4月27日",
-         "できごと",
-         [
-            "string",
-            "紀元前399年 - ソクラテスが青年を惑わした罪で刑死。"
-         ]
-      ],
-      [
-         "4月27日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "世界生命の日"
-               },
-               " {{World}}←でいいのか? "
-            ],
-            [
-               "string",
-               "1991年4月25日から4月27日まで東京で開かれた国際生命尊重会議で制定。胎児の人権宣言が宣言された最終日を記念日とした。"
-            ]
-         ]
-      ],
-      [
          "4月22日",
          "誕生日",
          [
             "string",
             "1870年（ユリウス暦4月10日） - ウラジーミル・レーニン、ボリシェヴィキ指導者（\u002B 1924年）"
-         ]
-      ],
-      [
-         "4月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "国民主権と子供の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUR\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022北キプロス・トルコ共和国\u0022>北キプロス\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1920年のこの日、現在のトルコ大国民議会（国会）の起源となる大国民議会が開催されたことを記念。"
-            ]
-         ]
-      ],
-      [
-         "4月1日",
-         "できごと",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1969年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022極超短波\u0022>UHF\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アナログテレビ放送\u0022>アナログ\u003C/mw:l>）を親局とする\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022民間放送\u0022>民放\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ局\u003C/mw:l>が日本各地に開局。\u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>なおこの日開局したのは、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>長野放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山テレビ放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>石川テレビ放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022中京テレビ放送\u0022>中京ユー・エッチ・エフテレビ放送（現・中京テレビ放送）\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022京都放送\u0022>近畿放送（現・京都放送）\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>瀬戸内海放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>福岡放送\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>サガテレビ\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ長崎\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>テレビ熊本\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>鹿児島テレビ放送\u003C/mw:l>、以上11局。\u003C/li>\u003C/ul>"
-         ]
-      ],
-      [
-         "4月1日",
-         "フィクションのできごと",
-         [
-            "string",
-            "1939年（昭和14年） - 大日本帝国海軍中将・次官高野五十六暗殺未遂事件。（『紺碧の艦隊』）"
-         ]
-      ],
-      [
-         "4月1日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0079年 - 地球連邦軍、V作戦を発動。（アニメ『機動戦士ガンダム』）"
-         ]
-      ],
-      [
-         "4月1日",
-         "フィクションのできごと",
-         [
-            "string",
-            "C.E.70年 - エイプリルフール・クライシス発動。（アニメ『機動戦士ガンダムSEED』）"
-         ]
-      ],
-      [
-         "4月21日",
-         "できごと",
-         [
-            "string",
-            "紀元前753年 - ロムルスが都市国家ローマの初代王に即位。"
-         ]
-      ],
-      [
-         "4月12日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界宇宙飛行の日\u003C/mw:l>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ユーリーズナイト\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宇宙飛行士の日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1961年のこの日、ソ連が世界初の有人宇宙衛星船「ヴォストーク1号」の打ち上げに成功したことにちなむ。"
-            ]
-         ]
-      ],
-      [
-         "4月12日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>チエンマイ\u003C/mw:l>",
-               [
-                  "string",
-                  "成立記念日"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2011年4月\u003C/mw:iparam>\u003C/mw:include>"
-            ],
-            [
-               "string",
-               "1296年のこの日、ラーンナー王朝のメンラーイ王によりチエンマイが成立したことを記念。1996年のチエンマイ700周年記念にユネスコが参加したことにより有名になった。"
-            ]
-         ]
-      ],
-      [
-         "4月12日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022人造人間キカイダー\u0022>キカイダーDAY\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハワイ州\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "4月6日",
-         "できごと",
-         [
-            "string",
-            "紀元前46年 - ローマ内戦: タプススの戦いでユリウス・カエサルが元老院派の軍を破る。"
-         ]
-      ],
-      [
-         "4月6日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "公立学校"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>始業式\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）（この日が休みだと直後の平日）"
-               ]
-            ],
-            [
-               "string",
-               "多くの公立小中学校・高校ではこの日から始業式が行われ、新しい学年になった生徒にとっての初めてのイベント。この日から学校での教育活動が開始される。"
-            ]
-         ]
-      ],
-      [
-         "4月6日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "コンビーフの日"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1875年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>コンビーフ\u003C/mw:l>のパッケージである\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022錐台\u0022>台形\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>缶\u003C/mw:l>「枕缶」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国\u0022>アメリカ\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>特許\u003C/mw:l>登録された。同年中に同国の食品会社リビー（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003C/mw:l>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>en:Libby's|Libby's]]）により、枕缶に詰められたコンビーフが世界で初めて製造・販売が開始された。\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "4月7日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>世界禁煙デー\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1988年\u003C/mw:l>",
-               [
-                  "string",
-                  "のみ）"
-               ]
-            ],
-            [
-               "string",
-               "世界保健機構が1988年4月7日に設立40周年を迎えることを記念して、この日が\u0022a world no-smoking day\u0022（世界禁煙デー）とされた。1988年5月の決議により、1989年より毎年5月31日が世界禁煙デーと定められた。"
-            ]
-         ]
-      ],
-      [
-         "4月7日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0096年 - インダストリアル7において、ユニコーンガンダム1号機がバナージ・リンクスをパイロットに固定して起動。（小説・アニメ『機動戦士ガンダムUC』）"
-         ]
-      ],
-      [
-         "4月7日",
-         "フィクションのできごと",
-         [
-            "string",
-            "A.C.195年 - 「オペレーション・メテオ」発動。地球圏統一連合に反目する勢力が、5機のガンダムタイプモビルスーツを地球に降下させる。（アニメ『新機動戦記ガンダムW』）"
-         ]
-      ],
-      [
-         "4月28日",
-         "フィクションのできごと",
-         [
-            "string",
-            "196X年 - 午前10時26分、物体O落下。（小松左京の小説「物体O」）"
-         ]
-      ],
-      [
-         "4月28日",
-         "フィクションのできごと",
-         [
-            "string",
-            "200X年 - 大沢マリア誘拐事件発生。（サウンドノベル『428 〜封鎖された渋谷で〜』）"
-         ]
-      ],
-      [
-         "4月30日",
-         "誕生日",
-         [
-            "string",
-            "如月伸太郎、カゲロウプロジェクトに登場するキャラクター"
-         ]
-      ],
-      [
-         "4月14日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022高山祭\u0022>春の高山祭\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>高山市\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "岐阜県高山市で行われる日枝神社の例祭。日本三大美祭の一つに数えられる。"
-            ]
-         ]
-      ],
-      [
-         "4月14日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>SOS\u003C/mw:l>の日（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タイタニック号\u003C/mw:l>の日）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1912年\u003C/mw:l>のこの日、豪華客船\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タイタニック号\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニューファンドランド島\u003C/mw:l>沖で氷山に衝突。\u003C/dd>\u003Cdd>この時に発せられたSOS信号が世界で初めてのSOS信号という誤った説が広まったことから（正しくは1909年6月10日スラボニア号が世界初）\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "4月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>清明\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2012年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が15度の時で、万物がすがすがしく明るく美しいころ。"
-            ]
-         ]
-      ],
-      [
-         "4月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003Cmw:iparam>zh\u003C/mw:iparam>\u003Cmw:iparam>寒食節\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022KOR\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2010年・2011年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "清明の前日。この日は家で火を炊くことを忌み、冷たい物を食べる習慣があった。"
-            ]
-         ]
-      ],
-      [
-         "4月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "ピアノ調律の日",
-               "region_wref" : "World"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国際ピアノ製造技師調律師協会\u003C/mw:l>(IAPBT)が1993年に制定。4月の英語Aprilの頭文字が調律に使う音の名前\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022イ (音名)\u0022>A\u003C/mw:l>と同じであり、その\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>周波数\u003C/mw:l>が440Hzであることから。\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>[http\u003C/mw:ref>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.jpta.org/2008/44-2008.html 「4月4日はピアノ調律の日」全国統一記念事業] \u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022リンク切れ\u0022>\u003Cmw:iparam name=\u0022date\u0022>2014年6月\u003C/mw:iparam>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本ピアノ調律師協会\u003C/mw:l>&lt;/ref&gt;\u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "4月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022子供の日\u0022>児童節\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ROC\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022HKG\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "中華民国が1931年に制定。また、香港でも1931年から中華民国にあわせて4月4日を児童節としている。"
-            ]
-         ]
-      ],
-      [
-         "4月4日",
-         "誕生日",
-         [
-            "string",
-            "宇宙暦767年/帝国暦458年 - ヤン・ウェンリー　小説・アニメ『銀河英雄伝説』の登場人物"
-         ]
-      ],
-      [
-         "4月15日",
-         "忌日",
-         [
-            "string",
-            "1765年（ユリウス暦4月4日） - ミハイル・ロモノーソフ、科学者（* 1711年）"
-         ]
-      ],
-      [
-         "4月15日",
-         "できごと",
-         [
-            "string",
-            "1632年（ユリウス暦4月5日） - 三十年戦争: レヒ川の戦い"
-         ]
-      ],
-      [
-         "4月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>遺言\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>「ゆ(4)い(1)ご(5)ん」の語呂合わせ。\u003C/dd>\u003Cdd>近畿弁護士会連合会が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本弁護士連合会\u003C/mw:l>が主催して全国で実施されるようになった。これとは別に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月15日\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>いい遺言の日\u003C/mw:l>となっている。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "4月17日",
-         "できごと",
-         [
-            "string",
-            "1912年（ユリウス暦4月4日） - レナ虐殺事件。シベリアのレナ川付近でストライキを行っていた金鉱労働者をロシア帝国軍が射殺。"
-         ]
-      ],
-      [
-         "4月17日",
-         "できごと",
-         [
-            "string",
-            "1917年（ユリウス暦4月4日） - ロシア革命: 前日にロシアに帰国したばかりのウラジーミル・レーニンが「四月テーゼ」を発表。戦争を続ける臨時政府の全権をソビエトが握るべきと主張。"
-         ]
-      ],
-      [
-         "4月17日",
-         "フィクションのできごと",
-         [
-            "string",
-            "C.E.70年 - 第一次ヤキン・ドゥーエ攻防戦勃発。（アニメ『機動戦士ガンダムSEED』）"
          ]
       ],
       [
@@ -19083,46 +19123,6 @@
                "unparsed",
                "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>シグナルトーク\u003C/mw:l>株式会社が制定。「4人でつる(26)む」、「for(4)ツモ(26)」、「四副露（スー(4)フー(2)ロ(6)）」などの語呂合わせからと言われているが、実際にはシグナルトークが提供する\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>オンライン\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>麻雀\u003C/mw:l>ゲーム『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>Maru-Jan\u003C/mw:l>』が2004年4月26日に正式にリリースされたことを記念する日である。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> （参考資料：[http\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.signaltalk.com/press/20080425.html 2008年4月25日のニュースリリース]） \u003C/dd>"
             ]
-         ]
-      ],
-      [
-         "4月5日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>清明\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " 2010年・2011年・2013年）"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の1つ。太陽の黄経が15度の時で、万物がすがすがしく明るく美しいころ。"
-            ]
-         ]
-      ],
-      [
-         "4月5日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0088年 - 地球連邦軍のα任務部隊がニューディサイズの武装蜂起によるペズンの反乱を鎮圧。グリプス戦役終結。（雑誌企画『ガンダム・センチネル』）"
-         ]
-      ],
-      [
-         "4月5日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0153年 - ウッソ・エヴィンがクロノクル・アシャーよりモビルスーツシャッコーを強奪。ザンスカール帝国が夜間にウーイッグを爆撃。（アニメ『機動戦士Vガンダム』）"
          ]
       ]
    ]
