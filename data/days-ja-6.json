@@ -12881,6 +12881,12 @@
             "year" : "1949"
          },
          {
+            "desc" : "エッセイスト",
+            "name" : "逸見晴恵",
+            "wref" : "逸見晴恵",
+            "year" : "1949"
+         },
+         {
             "desc" : "現代美術家",
             "name" : "森村泰昌",
             "wref" : "森村泰昌",
@@ -36165,133 +36171,6 @@
    },
    "_errors" : [
       [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "世界牛乳の日 (World Milk Day)（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>牛乳\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "国際連合食糧農業機関が2001年にWorld Milk Dayを制定したのを受け、社団法人日本酪農乳業協会が2007年に牛乳の日を定めた。なお、那須塩原市畜産振興会は2007年より、9月2日を牛乳の日としている。"
-            ]
-         ]
-      ],
-      [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>水道週間\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>6月7日\u003C/mw:l>まで"
-         ]
-      ],
-      [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>がけ崩れ防災週間\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>6月7日\u003C/mw:l>まで"
-         ]
-      ],
-      [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>善意の日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 embed=\u0022\u0022 format=\u0022border\u0022 width=\u002225\u0022>画像:Flag_of_Hyogo_Prefecture.svg\u003C/mw:l>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>兵庫県\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1964年6月1日に兵庫県善意銀行の設立1周年を記念して制定した。"
-            ]
-         ]
-      ],
-      [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>マリリン・モンロー\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " ）"
-               ]
-            ],
-            [
-               "string",
-               "ロサンゼルス市とハリウッド商工会議所が1992年に制定。1926年のマリリン・モンローの誕生日を記念。"
-            ]
-         ]
-      ],
-      [
-         "6月1日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUBE#TUBE DAY\u0022>TUBE DAY\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハワイ\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "6月1日",
-         "できごと",
-         [
-            "string",
-            "1670年（ユリウス暦5月22日） - イングランド王チャールズ2世とフランス王ルイ14世がドーヴァーの密約を締結。"
-         ]
-      ],
-      [
-         "6月1日",
-         "誕生日",
-         [
-            "string",
-            "1804年（ユリウス暦5月20日） - ミハイル・グリンカ、作曲家（\u002B 1857年）"
-         ]
-      ],
-      [
          "6月17日",
          "記念日・年中行事",
          [
@@ -36344,6 +36223,46 @@
          ]
       ],
       [
+         "6月8日",
+         "誕生日",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1962年\u003C/mw:l> - ニック・ローズ\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022enlink\u0022>\u003Cmw:iparam>Nick Rhodes\u003C/mw:iparam>\u003C/mw:include>、ミュージシャン（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>デュラン・デュラン\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "6月2日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 横須賀基地から出港した海上自衛隊のイージス護衛艦「みらい」がエクアドル（アニメ版ではパールハーバー）への航海途中に謎の低気圧に遭遇、1942年同月4日にタイムスリップする。（漫画『ジパング』）"
+         ]
+      ],
+      [
+         "6月2日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "CEの日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>日本臨床工学技士会がCE志望者拡大に繋げる広報活動の一環として制定した。臨床工学技士が国家資格として公布された日。\u003C/dd>\u003Cdd>1987年5月に制定された「臨床工学技士法※」に基づく医学と工学の両面を兼ね備えた国家資格です。（※公布　昭和62年6月2日、施行　昭和63年4月1日）CE（Clinical Engineers）： 臨床工学技士。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "6月21日",
+         "できごと",
+         [
+            "string",
+            "紀元前217年 - 第二次ポエニ戦争: トラシメヌス湖畔の戦いが起こり、カルタゴ軍がローマ軍に勝利。"
+         ]
+      ],
+      [
+         "6月21日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0153年 - ザンスカール戦争終結。（アニメ『機動戦士Vガンダム』）"
+         ]
+      ],
+      [
          "6月21日",
          "記念日・年中行事",
          [
@@ -36392,27 +36311,11 @@
          ]
       ],
       [
-         "6月21日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0153年 - ザンスカール戦争終結。（アニメ『機動戦士Vガンダム』）"
-         ]
-      ],
-      [
-         "6月21日",
+         "6月11日",
          "できごと",
          [
             "string",
-            "紀元前217年 - 第二次ポエニ戦争: トラシメヌス湖畔の戦いが起こり、カルタゴ軍がローマ軍に勝利。"
-         ]
-      ],
-      [
-         "6月30日",
-         "できごと",
-         [
-            "string",
-            "1688年（グレゴリオ暦7月10日） - 名誉革命: オランダ統領オラニエ公ウィレム3世（後のイングランド王ウィリアム3世）のもとにイングランド議会からのイングランド王即位要請の手紙が届く。 (:en:Invitation to William)"
+            "紀元前1184年 - トロイアが滅亡しトロイア戦争が終結。（エラトステネスの計算による）"
          ]
       ],
       [
@@ -36469,216 +36372,6 @@
          ]
       ],
       [
-         "6月11日",
-         "できごと",
-         [
-            "string",
-            "紀元前1184年 - トロイアが滅亡しトロイア戦争が終結。（エラトステネスの計算による）"
-         ]
-      ],
-      [
-         "6月9日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "ノリオ記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）      "
-               ]
-            ],
-            [
-               "string",
-               "CBCラジオ「つボイノリオの聞けば聞くほど」にて「69」が「おめでたい数字」とされており、6月9日が放送日と重なる場合は盛大に祝う事から、番組内で制定された。"
-            ]
-         ]
-      ],
-      [
-         "6月8日",
-         "誕生日",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1962年\u003C/mw:l> - ニック・ローズ\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022enlink\u0022>\u003Cmw:iparam>Nick Rhodes\u003C/mw:iparam>\u003C/mw:include>、ミュージシャン（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>デュラン・デュラン\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "6月25日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "救"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ハンセン病\u0022>癩\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、1931年 - 1963年）"
-               ]
-            ],
-            [
-               "string",
-               "癩病（ハンセン病）の予防と患者の救済に深い関心をよせていた大正天皇の后・貞明皇后の誕生日を記念。1964年からは、6月25日を含む1週間の「ハンセン病を正しく理解する週間」に移行した。"
-            ]
-         ]
-      ],
-      [
-         "6月7日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "計量記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1952年\u003C/mw:l>",
-               [
-                  "string",
-                  " - "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1992年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "通商産業省（現：経済産業省）が1952年に制定。1951年6月7日、それまでの「度量衡法」を全面的に改正した「計量法」が公布されたことを記念。1993年11月1日に「計量法」が全面改正されたのに伴い、計量記念日は11月1日に変更された。"
-            ]
-         ]
-      ],
-      [
-         "6月7日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "未来世紀39年 - チボデー・クロケット、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
-         ]
-      ],
-      [
-         "6月12日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>恋人\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（Dia dos Namorados）（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022BRA\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "ブラジルにおいて縁結びの聖人とされるアントニオの命日の前日であり、当国では恋人同士でフォトフレームを贈り合う習慣がある。日本でも普及を狙い1988年に全国額縁組合連合会によって制定。"
-            ]
-         ]
-      ],
-      [
-         "6月12日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮城県\u003C/mw:l>",
-               [
-                  "string",
-                  "民"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>防災\u003C/mw:l>",
-               [
-                  "string",
-                  "の日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮城県\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1978年6月12日に宮城県沖地震が発生したことにちなむ。県民の防災意識を高めるため、宮城県各地で防災訓練が行われる。"
-            ]
-         ]
-      ],
-      [
-         "6月12日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "C.E.57年 - メイリン・ホーク、アニメ『機動戦士ガンダムSEED DESTINY』に登場するキャラクター"
-         ]
-      ],
-      [
-         "6月12日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "神世紀286年 - 三好夏凜、アニメ『結城友奈は勇者である』に登場するキャラクター"
-         ]
-      ],
-      [
-         "6月26日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "スティッチの日",
-               "region_wref" : "JPN"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2002年\u003C/mw:l>に公開されたアニメーション映画『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>リロ・アンド・スティッチ\u003C/mw:l>』の主人公「スティッチ」の記念日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ウォルト・ディズニー・ジャパン\u003C/mw:l>株式会社が制定。作中でスティッチが「エイリアンの試作品\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>626号\u003C/b>」とされていることから6月26日を記念日とした。"
-            ]
-         ]
-      ],
-      [
-         "6月24日",
-         "フィクションのできごと",
-         [
-            "string",
-            "16世紀 - ニュルンベルクの河原にて歌合戦が開催。（ワーグナーの楽劇『ニュルンベルクのマイスタージンガー』）"
-         ]
-      ],
-      [
          "6月27日",
          "できごと",
          [
@@ -36719,47 +36412,194 @@
          ]
       ],
       [
-         "6月10日",
+         "6月15日",
+         "フィクションのできごと",
+         [
+            "string",
+            "C.E71年 - オーブ解放作戦発動。（アニメ『機動戦士ガンダムSEED』シリーズ）"
+         ]
+      ],
+      [
+         "6月15日",
          "記念日・年中行事",
          [
             "with-indent",
             [
-               "with-comment",
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県民の日\u003C/mw:l>",
                [
-                  "unparsed",
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>入梅\u003C/mw:l>",
-                  [
-                     "string",
-                     "（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     " 2012年） "
-                  ]
+                  "string",
+                  "（"
                ],
-               " 11日が多い "
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
             ],
             [
                "string",
-               "雑節の一つで、太陽が黄経80度の点を通過する日。"
+               "千葉県が1984年に制定。1873年のこの日、印旛県と木更津県が合併して千葉県が誕生したことを記念。"
             ]
          ]
       ],
       [
-         "6月10日",
-         "できごと",
+         "6月15日",
+         "記念日・年中行事",
          [
-            "string",
-            "1794年（フランス革命暦II年プレリアール22日） - フランス革命：プレリアール22日法が制定される。"
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "栃木県民の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>栃木県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "栃木県が1986年に制定。1873年のこの日、栃木県と宇都宮県が合併して栃木県がほぼ現在の県域となったことを記念。"
+            ]
          ]
       ],
       [
-         "6月10日",
-         "忌日",
+         "6月15日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北海道神宮\u003C/mw:l>例大祭（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>札幌市\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "6月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "スティッチの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2002年\u003C/mw:l>に公開されたアニメーション映画『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>リロ・アンド・スティッチ\u003C/mw:l>』の主人公「スティッチ」の記念日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ウォルト・ディズニー・ジャパン\u003C/mw:l>株式会社が制定。作中でスティッチが「エイリアンの試作品\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>626号\u003C/b>」とされていることから6月26日を記念日とした。"
+            ]
+         ]
+      ],
+      [
+         "6月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>芒種\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の1つ。太陽の黄経が75度の時で、芒（のぎ）を持った植物の種をまく頃。"
+            ]
+         ]
+      ],
+      [
+         "6月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>県祭り\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都府\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宇治市\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "縣神社の例祭。深夜、「梵天」と呼ばれる祭具を男性が担ぐ。"
+            ]
+         ]
+      ],
+      [
+         "6月9日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "ノリオ記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）      "
+               ]
+            ],
+            [
+               "string",
+               "CBCラジオ「つボイノリオの聞けば聞くほど」にて「69」が「おめでたい数字」とされており、6月9日が放送日と重なる場合は盛大に祝う事から、番組内で制定された。"
+            ]
+         ]
+      ],
+      [
+         "6月4日",
+         "できごと",
          [
             "string",
-            "紀元前323年 - アレクサンドロス3世、マケドニア王（* 紀元前356年）"
+            "紀元前781年 - 中国で史上最古の日食の記録。"
+         ]
+      ],
+      [
+         "6月4日",
+         "フィクションのできごと",
+         [
+            "string",
+            "2035年（推定） - 長野県立木崎高等学校に風見みずほが新任教師としてやってくる。同じ日の夜、みずほが乗っていた宇宙船が暴走していった。（信州UFO事件）（アニメ『おねがい☆ティーチャー』）"
          ]
       ],
       [
@@ -36834,22 +36674,6 @@
       ],
       [
          "6月4日",
-         "フィクションのできごと",
-         [
-            "string",
-            "2035年（推定） - 長野県立木崎高等学校に風見みずほが新任教師としてやってくる。同じ日の夜、みずほが乗っていた宇宙船が暴走していった。（信州UFO事件）（アニメ『おねがい☆ティーチャー』）"
-         ]
-      ],
-      [
-         "6月4日",
-         "できごと",
-         [
-            "string",
-            "紀元前781年 - 中国で史上最古の日食の記録。"
-         ]
-      ],
-      [
-         "6月4日",
          "誕生日",
          [
             "string",
@@ -36862,91 +36686,6 @@
          [
             "string",
             "1909年（ユリウス暦5月22日） - エフゲニー・ムラヴィンスキー、指揮者（\u002B 1988年）"
-         ]
-      ],
-      [
-         "6月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>慰霊の日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>沖縄県\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "1945年6月23日に沖縄戦における組織的な戦闘が終結したことから。"
-            ]
-         ]
-      ],
-      [
-         "6月23日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>禿山の一夜\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "の民話）"
-               ]
-            ],
-            [
-               "string",
-               "禿山に地霊チェルノボグが現れ、手下の魔物や幽霊、精霊達と大騒ぎするが、夜明けとともに消え去る。ムソルグスキーの交響詩で名高い。"
-            ]
-         ]
-      ],
-      [
-         "6月23日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>父の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022POL\u0022>\u003C/mw:include>、\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NIC\u0022>\u003C/mw:include>）"
-         ]
-      ],
-      [
-         "6月23日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "復興暦89年 - 秋月律子、アニメ『アイドルマスター XENOGLOSSIA』に登場するキャラクター"
-         ]
-      ],
-      [
-         "6月23日",
-         "フィクションのできごと",
-         [
-            "string",
-            "年不明（作品内での6年前） - UPI通信社が藤崎ら自衛隊青年将校のクーデター計画「ブループラン」の発覚を報じる。（映画『皇帝のいない八月』）"
-         ]
-      ],
-      [
-         "6月23日",
-         "誕生日",
-         [
-            "string",
-            "紀元前47年 - カエサリオン、プトレマイオス朝最後のファラオ（\u002B 紀元前30年）"
          ]
       ],
       [
@@ -37074,75 +36813,47 @@
          ]
       ],
       [
-         "6月5日",
+         "6月10日",
+         "できごと",
+         [
+            "string",
+            "1794年（フランス革命暦II年プレリアール22日） - フランス革命：プレリアール22日法が制定される。"
+         ]
+      ],
+      [
+         "6月10日",
+         "忌日",
+         [
+            "string",
+            "紀元前323年 - アレクサンドロス3世、マケドニア王（* 紀元前356年）"
+         ]
+      ],
+      [
+         "6月10日",
          "記念日・年中行事",
          [
             "with-indent",
             [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>芒種\u003C/mw:l>",
+               "with-comment",
                [
-                  "string",
-                  "（"
+                  "unparsed",
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>入梅\u003C/mw:l>",
+                  [
+                     "string",
+                     "（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     " 2012年） "
+                  ]
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
+               " 11日が多い "
             ],
             [
                "string",
-               "二十四節気の1つ。太陽の黄経が75度の時で、芒（のぎ）を持った植物の種をまく頃。"
+               "雑節の一つで、太陽が黄経80度の点を通過する日。"
             ]
-         ]
-      ],
-      [
-         "6月5日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>県祭り\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  " "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都府\u003C/mw:l>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宇治市\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "縣神社の例祭。深夜、「梵天」と呼ばれる祭具を男性が担ぐ。"
-            ]
-         ]
-      ],
-      [
-         "6月22日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>夏至\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2007年、2009年、2011年）"
          ]
       ],
       [
@@ -37162,45 +36873,185 @@
          ]
       ],
       [
-         "6月20日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "1849年（嘉永2年） - 緋村剣心、漫画・アニメ『るろうに剣心 -明治剣客浪漫譚-』の主人公"
-         ]
-      ],
-      [
-         "6月20日",
-         "フィクションのできごと",
-         [
-            "string",
-            "200X年 - 海上自衛隊の輸送艦「おおすみ」およびアメリカ海軍の強襲揚陸艦「エセックス」が1600年にタイムスリップする。（漫画・小説『続・戦国自衛隊』）"
-         ]
-      ],
-      [
-         "6月2日",
+         "6月22日",
          "記念日・年中行事",
          [
             "unparsed",
-            "CEの日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>日本臨床工学技士会がCE志望者拡大に繋げる広報活動の一環として制定した。臨床工学技士が国家資格として公布された日。\u003C/dd>\u003Cdd>1987年5月に制定された「臨床工学技士法※」に基づく医学と工学の両面を兼ね備えた国家資格です。（※公布　昭和62年6月2日、施行　昭和63年4月1日）CE（Clinical Engineers）： 臨床工学技士。\u003C/dd>\u003C/dl>"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>夏至\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> 2007年、2009年、2011年）"
          ]
       ],
       [
-         "6月2日",
-         "フィクションのできごと",
-         [
-            "string",
-            "200X年 - 横須賀基地から出港した海上自衛隊のイージス護衛艦「みらい」がエクアドル（アニメ版ではパールハーバー）への航海途中に謎の低気圧に遭遇、1942年同月4日にタイムスリップする。（漫画『ジパング』）"
-         ]
-      ],
-      [
-         "6月15日",
+         "6月12日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県民の日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>恋人\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（Dia dos Namorados）（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022BRA\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "ブラジルにおいて縁結びの聖人とされるアントニオの命日の前日であり、当国では恋人同士でフォトフレームを贈り合う習慣がある。日本でも普及を狙い1988年に全国額縁組合連合会によって制定。"
+            ]
+         ]
+      ],
+      [
+         "6月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮城県\u003C/mw:l>",
+               [
+                  "string",
+                  "民"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>防災\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮城県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1978年6月12日に宮城県沖地震が発生したことにちなむ。県民の防災意識を高めるため、宮城県各地で防災訓練が行われる。"
+            ]
+         ]
+      ],
+      [
+         "6月12日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "C.E.57年 - メイリン・ホーク、アニメ『機動戦士ガンダムSEED DESTINY』に登場するキャラクター"
+         ]
+      ],
+      [
+         "6月12日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "神世紀286年 - 三好夏凜、アニメ『結城友奈は勇者である』に登場するキャラクター"
+         ]
+      ],
+      [
+         "6月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "救"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ハンセン病\u0022>癩\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、1931年 - 1963年）"
+               ]
+            ],
+            [
+               "string",
+               "癩病（ハンセン病）の予防と患者の救済に深い関心をよせていた大正天皇の后・貞明皇后の誕生日を記念。1964年からは、6月25日を含む1週間の「ハンセン病を正しく理解する週間」に移行した。"
+            ]
+         ]
+      ],
+      [
+         "6月1日",
+         "できごと",
+         [
+            "string",
+            "1670年（ユリウス暦5月22日） - イングランド王チャールズ2世とフランス王ルイ14世がドーヴァーの密約を締結。"
+         ]
+      ],
+      [
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "世界牛乳の日 (World Milk Day)（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022World\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>牛乳\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "国際連合食糧農業機関が2001年にWorld Milk Dayを制定したのを受け、社団法人日本酪農乳業協会が2007年に牛乳の日を定めた。なお、那須塩原市畜産振興会は2007年より、9月2日を牛乳の日としている。"
+            ]
+         ]
+      ],
+      [
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>水道週間\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>6月7日\u003C/mw:l>まで"
+         ]
+      ],
+      [
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>がけ崩れ防災週間\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>6月7日\u003C/mw:l>まで"
+         ]
+      ],
+      [
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>善意の日\u003C/mw:l>",
                [
                   "string",
                   "（"
@@ -37210,7 +37061,8 @@
                   "string",
                   " "
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 embed=\u0022\u0022 format=\u0022border\u0022 width=\u002225\u0022>画像:Flag_of_Hyogo_Prefecture.svg\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>兵庫県\u003C/mw:l>",
                [
                   "string",
                   "）"
@@ -37218,12 +37070,153 @@
             ],
             [
                "string",
-               "千葉県が1984年に制定。1873年のこの日、印旛県と木更津県が合併して千葉県が誕生したことを記念。"
+               "1964年6月1日に兵庫県善意銀行の設立1周年を記念して制定した。"
             ]
          ]
       ],
       [
-         "6月15日",
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>マリリン・モンロー\u003C/mw:l>",
+               [
+                  "string",
+                  "の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " ）"
+               ]
+            ],
+            [
+               "string",
+               "ロサンゼルス市とハリウッド商工会議所が1992年に制定。1926年のマリリン・モンローの誕生日を記念。"
+            ]
+         ]
+      ],
+      [
+         "6月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022TUBE#TUBE DAY\u0022>TUBE DAY\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハワイ\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "6月1日",
+         "誕生日",
+         [
+            "string",
+            "1804年（ユリウス暦5月20日） - ミハイル・グリンカ、作曲家（\u002B 1857年）"
+         ]
+      ],
+      [
+         "6月30日",
+         "できごと",
+         [
+            "string",
+            "1688年（グレゴリオ暦7月10日） - 名誉革命: オランダ統領オラニエ公ウィレム3世（後のイングランド王ウィリアム3世）のもとにイングランド議会からのイングランド王即位要請の手紙が届く。 (:en:Invitation to William)"
+         ]
+      ],
+      [
+         "6月24日",
+         "フィクションのできごと",
+         [
+            "string",
+            "16世紀 - ニュルンベルクの河原にて歌合戦が開催。（ワーグナーの楽劇『ニュルンベルクのマイスタージンガー』）"
+         ]
+      ],
+      [
+         "6月23日",
+         "フィクションのできごと",
+         [
+            "string",
+            "年不明（作品内での6年前） - UPI通信社が藤崎ら自衛隊青年将校のクーデター計画「ブループラン」の発覚を報じる。（映画『皇帝のいない八月』）"
+         ]
+      ],
+      [
+         "6月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>慰霊の日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>沖縄県\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1945年6月23日に沖縄戦における組織的な戦闘が終結したことから。"
+            ]
+         ]
+      ],
+      [
+         "6月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>禿山の一夜\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "の民話）"
+               ]
+            ],
+            [
+               "string",
+               "禿山に地霊チェルノボグが現れ、手下の魔物や幽霊、精霊達と大騒ぎするが、夜明けとともに消え去る。ムソルグスキーの交響詩で名高い。"
+            ]
+         ]
+      ],
+      [
+         "6月23日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>父の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022POL\u0022>\u003C/mw:include>、\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022NIC\u0022>\u003C/mw:include>）"
+         ]
+      ],
+      [
+         "6月23日",
+         "誕生日",
+         [
+            "string",
+            "紀元前47年 - カエサリオン、プトレマイオス朝最後のファラオ（\u002B 紀元前30年）"
+         ]
+      ],
+      [
+         "6月23日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "復興暦89年 - 秋月律子、アニメ『アイドルマスター XENOGLOSSIA』に登場するキャラクター"
+         ]
+      ],
+      [
+         "6月7日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -37231,14 +37224,19 @@
                "unparsed",
                [
                   "string",
-                  "栃木県民の日（"
+                  "計量記念日（"
                ],
                "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
-                  " "
+                  "、"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>栃木県\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1952年\u003C/mw:l>",
+               [
+                  "string",
+                  " - "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1992年\u003C/mw:l>",
                [
                   "string",
                   "）"
@@ -37246,24 +37244,16 @@
             ],
             [
                "string",
-               "栃木県が1986年に制定。1873年のこの日、栃木県と宇都宮県が合併して栃木県がほぼ現在の県域となったことを記念。"
+               "通商産業省（現：経済産業省）が1952年に制定。1951年6月7日、それまでの「度量衡法」を全面的に改正した「計量法」が公布されたことを記念。1993年11月1日に「計量法」が全面改正されたのに伴い、計量記念日は11月1日に変更された。"
             ]
          ]
       ],
       [
-         "6月15日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>北海道神宮\u003C/mw:l>例大祭（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>札幌市\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "6月15日",
-         "フィクションのできごと",
+         "6月7日",
+         "誕生日(フィクション)",
          [
             "string",
-            "C.E71年 - オーブ解放作戦発動。（アニメ『機動戦士ガンダムSEED』シリーズ）"
+            "未来世紀39年 - チボデー・クロケット、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
          ]
       ],
       [
@@ -37292,6 +37282,22 @@
                "string",
                "トーベ・ヤンソン作の「ムーミン」を愛する日本のファンらが「ムー(6)ミン(3)」の語呂合せで制定。ムーミン誕生60周年の2005年に「全世界に通用する記念日を」との見解から、作者のヤンソンの誕生日である8月9日がムーミンの日となった。フィンランドの著作権者も了承し、8月9日が全世界共通で公式なムーミンの日となったため、6月3日の日本のムーミンの日は廃止された。"
             ]
+         ]
+      ],
+      [
+         "6月20日",
+         "フィクションのできごと",
+         [
+            "string",
+            "200X年 - 海上自衛隊の輸送艦「おおすみ」およびアメリカ海軍の強襲揚陸艦「エセックス」が1600年にタイムスリップする。（漫画・小説『続・戦国自衛隊』）"
+         ]
+      ],
+      [
+         "6月20日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "1849年（嘉永2年） - 緋村剣心、漫画・アニメ『るろうに剣心 -明治剣客浪漫譚-』の主人公"
          ]
       ]
    ]
