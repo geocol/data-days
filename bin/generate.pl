@@ -24,7 +24,7 @@ for (@ARGV) {
   for my $day_key (keys %$data) {
     $day_key =~ /^([0-9]+)月([0-9]+)日$/ or next;
     my $day = sprintf '%02d-%02d', $1, $2;
-    for my $section_key (keys %$sections) {
+    for my $section_key (sort { $a cmp $b } keys %$sections) {
       my $dest_section_key = $sections->{$section_key};
       for my $section (@{$data->{$day_key}->{lists}->{$section_key} or []}) {
         for my $item (@{$section->{items} or []}) {
