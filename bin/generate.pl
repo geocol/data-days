@@ -21,7 +21,7 @@ my $sections = {
 for (@ARGV) {
   my $input_path = path ($_);
   my $data = json_bytes2perl $input_path->slurp;
-  for my $day_key (keys %$data) {
+  for my $day_key (sort { $a cmp $b } keys %$data) {
     $day_key =~ /^([0-9]+)月([0-9]+)日$/ or next;
     my $day = sprintf '%02d-%02d', $1, $2;
     for my $section_key (sort { $a cmp $b } keys %$sections) {
