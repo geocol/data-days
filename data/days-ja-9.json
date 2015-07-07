@@ -1070,6 +1070,10 @@
          {
             "desc" : "アニメ『ガールズ&パンツァー』に登場するキャラクター",
             "name" : "冷泉麻子"
+         },
+         {
+            "desc" : "ゲーム『アイドルマスター SideM』に登場するキャラクター",
+            "name" : "山下次郎"
          }
       ],
       "fictionals" : [
@@ -36732,201 +36736,35 @@
    },
    "_errors" : [
       [
-         "9月17日",
+         "9月10日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二百二十日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>）"
+         ]
+      ],
+      [
+         "9月10日",
          "記念日・年中行事",
          [
             "with-indent",
+            {
+               "name" : "ナショナルデー (ジブラルタル)",
+               "region_wref" : "GIB",
+               "wref" : "ナショナルデー (ジブラルタル)"
+            },
             [
                "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>憲法記念日 (アメリカ合衆国)\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Constitution Day (United States)\u003C/mw:iparam>\u003Cmw:iparam name=\u0022label\u0022>憲法記念日\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、土曜日の場合は前日、日曜日の場合は翌日）"
-               ]
-            ],
-            [
-               "string",
-               "1787年のこの日、アメリカ合衆国憲法の署名が行われた。"
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1967年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イギリス\u003C/mw:l>の海外領土である\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ジブラルタル\u003C/mw:l>で、スペインに編入されるか、イギリス領に留まったまま高度な自治権を求めるかの住民投票\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Gibraltar sovereignty referendum, 1967]] \u003C/dd>が行われ、イギリス領に留まることが決定したことを記念。"
             ]
          ]
       ],
       [
-         "9月17日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "フォン・シュトイベン・デー",
-                  "region_wref" : "USA",
-                  "wref" : "フォン・シュトイベン・デー"
-               },
-               " 英語読みだと「フォン・シュトイベン」ではないような気もしますが "
-            ],
-            [
-               "string",
-               "ジョージ・ワシントンに仕え大陸軍に軍隊の訓練を教えたドイツ出身の軍人フリードリッヒ・ヴィルヘルム・フォン・シュトイベンの誕生日。地域によっては19日や24日に祝われる。"
-            ]
-         ]
-      ],
-      [
-         "9月17日",
+         "9月10日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2018年\u003C/mw:l>）※9月第3月曜日"
-         ]
-      ],
-      [
-         "9月6日",
-         "できごと",
-         [
-            "string",
-            "1689年（康熙28年7月23日、ユリウス暦8月27日）- ロシア帝国と清がネルチンスク条約に調印。中国初の国境画定条約。"
-         ]
-      ],
-      [
-         "9月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二百十日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2002年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2003年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2004年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "立春から数えて210日目の日。台風襲来の時期であるため、農家にとっての厄日である。"
-            ]
-         ]
-      ],
-      [
-         "9月1日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>おわら風の盆\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山市\u003C/mw:l>（旧\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八尾町\u003C/mw:l>）、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月3日\u003C/mw:l>まで）"
-         ]
-      ],
-      [
-         "9月1日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>知識の日\u003C/mw:iparam>\u003Cmw:iparam>ru\u003C/mw:iparam>\u003Cmw:iparam>День знаний\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Knowledge Day\u003C/mw:iparam>\u003C/mw:include>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "および旧ソビエト連邦諸国）"
-               ]
-            ],
-            [
-               "string",
-               "ロシアおよび旧ソビエト連邦諸国の学校年度の始まり。教師に花などを贈り各種行事が催される。"
-            ]
-         ]
-      ],
-      [
-         "9月1日",
-         "誕生日",
-         [
-            "string",
-            "1946年（旧暦8月6日） - 盧武鉉、第16代大韓民国大統領（\u002B 2009年）"
-         ]
-      ],
-      [
-         "9月21日",
-         "できごと",
-         [
-            "string",
-            "1988年‐B'zデビュー"
-         ]
-      ],
-      [
-         "9月21日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2015年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2020年\u003C/mw:l>）※9月第3月曜日"
-         ]
-      ],
-      [
-         "9月21日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>全国交通安全運動\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月30日\u003C/mw:l>まで）"
-         ]
-      ],
-      [
-         "9月21日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "ファッションショーの日、ファッションショー・メモリアル・デー",
-                  "region_wref" : "JPN"
-               },
-               " 『366日記念日事典』（創元社）に記載 "
-            ],
-            [
-               "string",
-               "1927年9月21日に、日本で初めてのファッションショーが銀座の三越呉服店で行われたことに由来。水谷八重子 (初代)ら3人の女優がモデルとなり、一般から図案を募集した着物を披露した。"
-            ]
-         ]
-      ],
-      [
-         "9月28日",
-         "できごと",
-         [
-            "string",
-            "紀元前48年 - ローマの執政官ポンペイウスがエジプト軍の刺客により暗殺される。"
-         ]
-      ],
-      [
-         "9月28日",
-         "誕生日",
-         [
-            "string",
-            "紀元前551年 - 孔子、儒家思想家（\u002B 紀元前479年）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022教師の日\u0022>教師節\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRC\u0022>\u003C/mw:include>・\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022HKG\u0022>\u003C/mw:include>）"
          ]
       ],
       [
@@ -37019,54 +36857,23 @@
          ]
       ],
       [
-         "9月9日",
-         "フィクションのできごと",
+         "9月12日",
+         "できごと",
          [
             "string",
-            "不明 - 時の交わる日という特別な日とされる。作中の暦における0015年におけるホーリーブリングの完成にはじまり2人のゲイルの誕生、デーモンカード設立、エンクレイム、そして0067年における石の戦争終結という出来事がこの日に起こっている。（漫画『RAVE』）"
+            "紀元前490年 - マラトンの戦い（日付は諸説あり）。アテナイ・プラタイア連合軍がペルシャ遠征軍を撃破。マラトンからアテナイまで走って勝利を伝えた兵士の故事がマラソンの起源となる。"
          ]
       ],
       [
-         "9月9日",
+         "9月12日",
          "記念日・年中行事",
          [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>重陽\u003C/mw:l>",
-               [
-                  "string",
-                  "の"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>節句\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022キク\u0022>菊\u003C/mw:l>",
-               [
-                  "string",
-                  "の節句（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "陽の数である奇数の極である9が2つ重なることから重陽と呼ばれ、たいへんめでたい日とされる。菊の花を飾ったり酒を飲んだりして祝った。"
-            ]
+            "unparsed",
+            "水路記念日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>明治\u003C/mw:l>4年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00227月28日 (旧暦)\u0022>7月28日\u003C/mw:l>（新暦の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1871年\u003C/mw:l>9月12日）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>兵部省\u003C/mw:l>海軍部\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022水路部 (日本海軍)\u0022>水路局\u003C/mw:l>が設置されたことに由来。運輸省水路部（後の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海上保安庁\u003C/mw:l>水路部、現 海上保安庁\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海洋情報部\u003C/mw:l>）が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1947年\u003C/mw:l>に制定。当初は旧暦の日付をそのまま新暦に適用した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>7月28日\u003C/mw:l>を記念日としていたが、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1971年\u003C/mw:l>に、新暦に換算した現在の日付に変更した。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd>//www1.kaiho.mlit.go.jp/KAN6/mame/topic7.htm より \u003C/dd>\u003C/dd>\u003Cdd>水路業務について広く理解と協力を求めるために展示会などを開いている。\u003C/dd>\u003C/dl>"
          ]
       ],
       [
-         "9月9日",
+         "9月12日",
          "記念日・年中行事",
          [
             "with-indent",
@@ -37074,7 +36881,7 @@
                "with-comment",
                [
                   "unparsed",
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>カリフォルニア州制施行記念日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>California Admission Day\u003C/mw:iparam>\u003C/mw:include>",
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>防衛者の日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Defenders Day\u003C/mw:iparam>\u003C/mw:include>",
                   [
                      "string",
                      "（"
@@ -37084,36 +36891,182 @@
                      "string",
                      "、"
                   ],
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カリフォルニア州\u003C/mw:l>",
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>メリーランド州\u003C/mw:l>",
                   [
                      "string",
                      "）"
                   ]
                ],
-               " 州の祝日は迷うところ。 "
+               " 定訳不明 "
             ],
             [
-               "string",
-               "1850年のこの日、1850年協定によりカリフォルニアが合衆国31番目の州となったことを記念する州の祝日。"
+               "with-comment",
+               [
+                  "string",
+                  "1814年のこの日にはじまるボルティモアの戦い（米英戦争）でボルティモアを守り通したことを記念する州の祝日。"
+               ],
+               " できごとは[[9月13日]]の方に載ってますけれど、祝日としてはこの日 "
             ]
          ]
       ],
       [
-         "9月9日",
+         "9月12日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "世界占いの日",
-                  "region_wref" : "JPN"
+                  "name" : "聖パトリック大隊の処刑の記念日",
+                  "region_wref" : "MEX"
                },
-               " 「世界」と銘打ってはいますが…… "
+               " 定訳不明 "
+            ],
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1847年\u003C/mw:l>のこの日、アメリカ合衆国から逃れメキシコのために戦った\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖パトリック大隊\u003C/mw:l>の30名が絞殺されたとされる\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 実際には10日だとか何とか \u003C/mw:comment>ことにちなむ記念日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 公的なものではない? [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Public holidays in Mexico]]にはなし \u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "9月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>プログラマーの日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>閏年\u003C/mw:l>",
+               [
+                  "string",
+                  "の場合）"
+               ]
             ],
             [
                "string",
-               "日本占術協会が1999年に制定。この日が「重陽の節句」であること、ノストラダムスの終末の予言の日が1999年9月9日とされていたこと、制定した1999年9月9日の数字を全部合計すると46で、46の2つの数を足せば「完成」を意味する10になること、明治4年9月9日に時間の数え方を西洋式に改めたこと、この日が「救急の日」で占いは運命の救急であるとのことから。"
+               "1年の256日目の日であることから。（閏年でない場合は9月13日）"
+            ]
+         ]
+      ],
+      [
+         "9月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>プログラマーの日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>平年\u003C/mw:l>",
+               [
+                  "string",
+                  "の場合）"
+               ]
+            ],
+            [
+               "string",
+               "一年の256日目の日であることから。（閏年の場合は9月12日）"
+            ]
+         ]
+      ],
+      [
+         "9月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "司法保護記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1925年\u003C/mw:l>",
+               [
+                  "string",
+                  " - "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1951年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "犯罪の予防と犯罪者の更生を見守る司法保護司や保護機関の働きについて多くの人に知ってもらうための日。明治天皇の大喪を記念して1912年9月26日に出された恩赦の詔勅が釈放者を保護する事業のきっかけとなったことから、これを記念日として1925年に「保護デー」として制定された。1937年に「司法保護記念日」に改称され、1952年に「少年保護記念日」（4月17日）と統合されて「更生保護記念日」（11月27日）となった。"
+            ]
+         ]
+      ],
+      [
+         "9月13日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "未来世紀33年 - アルゴ・ガルスキー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
+         ]
+      ],
+      [
+         "9月14日",
+         "できごと",
+         [
+            "string",
+            "1911年（ユリウス暦9月1日） - ロシア帝国首相ピョートル・ストルイピンがキエフでアナキストに狙撃される。ストルイピンは9月18日に死亡。"
+         ]
+      ],
+      [
+         "9月14日",
+         "フィクションのできごと",
+         [
+            "string",
+            "新暦0075年 - 時空管理局ミッドチルダ地上本部襲撃事件が起きる。（アニメ『魔法少女リリカルなのはStrikerS』）"
+         ]
+      ],
+      [
+         "9月14日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "メンズバレンタインデー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 『記念日・祝日の事典』（東京堂出版），『366日記念日事典』（創元社），『366日誕生石の本』（日本ヴォーグ社）に記載 \u003C/mw:comment>\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>男性が女性に積極的に愛を表現する日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1991年\u003C/mw:l>に[http\u003C/dd>\u003Cdd>//www.nbf.or.jp 日本ボディファッション協会]が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>バレンタインデー\u003C/mw:l>にチョコレートを贈るのに対し、この日にはプレゼントとして\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下着\u003C/mw:l>を贈る。ただし、現在は特に活動は行われていない。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "9月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "セプテンバーバレンタイン",
+                  "region_wref" : "JPN"
+               },
+               " 『366日記念日事典』（創元社）に記載 "
+            ],
+            [
+               "string",
+               "女性から別れ話を切り出してもよいとされる日。TBSラジオ『パック・イン・ミュージック』が発祥と言われている。紫色の物を身に付け、白いマニキュアを塗り、緑のインクで書いた別れの手紙を直接手渡すというのがルール。"
             ]
          ]
       ],
@@ -37231,140 +37184,164 @@
          ]
       ],
       [
-         "9月30日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "ギルガメス暦2323年 - バニラ・バートラー、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
-         ]
-      ],
-      [
-         "9月12日",
+         "9月16日",
          "できごと",
          [
             "string",
-            "紀元前490年 - マラトンの戦い（日付は諸説あり）。アテナイ・プラタイア連合軍がペルシャ遠征軍を撃破。マラトンからアテナイまで走って勝利を伝えた兵士の故事がマラソンの起源となる。"
+            "1620年（ユリウス暦9月6日） - メイフラワー号が北アメリカを目指しイギリスのプリマスを出港。"
          ]
       ],
       [
-         "9月12日",
+         "9月16日",
          "記念日・年中行事",
          [
             "unparsed",
-            "水路記念日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>明治\u003C/mw:l>4年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00227月28日 (旧暦)\u0022>7月28日\u003C/mw:l>（新暦の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1871年\u003C/mw:l>9月12日）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>兵部省\u003C/mw:l>海軍部\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022水路部 (日本海軍)\u0022>水路局\u003C/mw:l>が設置されたことに由来。運輸省水路部（後の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海上保安庁\u003C/mw:l>水路部、現 海上保安庁\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海洋情報部\u003C/mw:l>）が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1947年\u003C/mw:l>に制定。当初は旧暦の日付をそのまま新暦に適用した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>7月28日\u003C/mw:l>を記念日としていたが、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1971年\u003C/mw:l>に、新暦に換算した現在の日付に変更した。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> http\u003C/mw:comment>\u003Cdd>//www1.kaiho.mlit.go.jp/KAN6/mame/topic7.htm より \u003C/dd>\u003C/dd>\u003Cdd>水路業務について広く理解と協力を求めるために展示会などを開いている。\u003C/dd>\u003C/dl>"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2019年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2024年\u003C/mw:l>）※9月第3月曜日"
          ]
       ],
       [
-         "9月12日",
+         "9月16日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイビジョン\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>ハイビジョンの画面の縦横比が 9\u003C/dd>\u003Cdd>16 （16:9）であることから\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>通商産業省\u003C/mw:l>（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>経済産業省\u003C/mw:l>）が制定。他に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郵政省\u003C/mw:l>（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>総務省\u003C/mw:l>）と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022日本放送協会\u0022>NHK\u003C/mw:l>が、ハイビジョンの走査線数1125本から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月25日\u003C/mw:l>を同名の記念日としている。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "9月16日",
+         "誕生日",
+         [
+            "string",
+            "1745年（ユリウス暦9月5日） - ミハイル・クトゥーゾフ、ロシア帝国陸軍軍人（\u002B 1813年）"
+         ]
+      ],
+      [
+         "9月17日",
          "記念日・年中行事",
          [
             "with-indent",
             [
-               "with-comment",
-               [
-                  "unparsed",
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>防衛者の日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Defenders Day\u003C/mw:iparam>\u003C/mw:include>",
-                  [
-                     "string",
-                     "（"
-                  ],
-                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
-                  [
-                     "string",
-                     "、"
-                  ],
-                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>メリーランド州\u003C/mw:l>",
-                  [
-                     "string",
-                     "）"
-                  ]
-               ],
-               " 定訳不明 "
-            ],
-            [
-               "with-comment",
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>憲法記念日 (アメリカ合衆国)\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Constitution Day (United States)\u003C/mw:iparam>\u003Cmw:iparam name=\u0022label\u0022>憲法記念日\u003C/mw:iparam>\u003C/mw:include>",
                [
                   "string",
-                  "1814年のこの日にはじまるボルティモアの戦い（米英戦争）でボルティモアを守り通したことを記念する州の祝日。"
+                  "（"
                ],
-               " できごとは[[9月13日]]の方に載ってますけれど、祝日としてはこの日 "
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "、土曜日の場合は前日、日曜日の場合は翌日）"
+               ]
+            ],
+            [
+               "string",
+               "1787年のこの日、アメリカ合衆国憲法の署名が行われた。"
             ]
          ]
       ],
       [
-         "9月12日",
+         "9月17日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "聖パトリック大隊の処刑の記念日",
-                  "region_wref" : "MEX"
+                  "name" : "フォン・シュトイベン・デー",
+                  "region_wref" : "USA",
+                  "wref" : "フォン・シュトイベン・デー"
                },
-               " 定訳不明 "
+               " 英語読みだと「フォン・シュトイベン」ではないような気もしますが "
             ],
             [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1847年\u003C/mw:l>のこの日、アメリカ合衆国から逃れメキシコのために戦った\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖パトリック大隊\u003C/mw:l>の30名が絞殺されたとされる\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 実際には10日だとか何とか \u003C/mw:comment>ことにちなむ記念日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 公的なものではない? [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Public holidays in Mexico]]にはなし \u003C/dd>"
+               "string",
+               "ジョージ・ワシントンに仕え大陸軍に軍隊の訓練を教えたドイツ出身の軍人フリードリッヒ・ヴィルヘルム・フォン・シュトイベンの誕生日。地域によっては19日や24日に祝われる。"
             ]
          ]
       ],
       [
-         "9月12日",
+         "9月17日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2007年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2018年\u003C/mw:l>）※9月第3月曜日"
+         ]
+      ],
+      [
+         "9月18日",
+         "フィクションのできごと",
+         [
+            "string",
+            "U.C.0079年 - サイド7・1バンチにおいて、史上初のモビルスーツ同士による戦闘が行われる。（アニメ『機動戦士ガンダム』）"
+         ]
+      ],
+      [
+         "9月18日",
+         "フィクションのできごと",
+         [
+            "string",
+            "20XX年 - トーマス・ライト、エックスをカプセルに封印する。（ゲーム『ロックマンX』）"
+         ]
+      ],
+      [
+         "9月18日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2017年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2023年\u003C/mw:l>）※9月第3月曜日"
+         ]
+      ],
+      [
+         "9月18日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>プログラマーの日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>しまくとぅばの日\u003C/mw:l>",
                [
                   "string",
                   "（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>沖縄県\u003C/mw:l>",
                [
                   "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>閏年\u003C/mw:l>",
-               [
-                  "string",
-                  "の場合）"
+                  "）"
                ]
             ],
             [
                "string",
-               "1年の256日目の日であることから。（閏年でない場合は9月13日）"
+               "しまくとぅば（沖縄の言葉）を記念する日。「く(9)とぅ(十)ば(8)」の語呂合せ。"
             ]
          ]
       ],
       [
-         "9月29日",
-         "忌日",
-         [
-            "string",
-            "紀元前48年 - グナエウス・ポンペイウス、共和政ローマの軍人、政治家（* 紀元前106年）"
-         ]
-      ],
-      [
-         "9月29日",
+         "9月18日",
          "誕生日",
          [
             "string",
-            "紀元前106年 - グナエウス・ポンペイウス、共和政ローマの軍人、政治家（\u002B 紀元前48年）"
+            "1962年、塚瀬進、東洋史学者"
          ]
       ],
       [
-         "9月22日",
-         "できごと",
+         "9月19日",
+         "フィクションのできごと",
          [
             "string",
-            "1792年（フランス革命暦I年ヴァンデミール1日） - フランス革命: フランス革命暦の起点とされる日。使用開始は1793年11月24日。"
+            "「大覇星祭」開幕日（-25日）。（小説・アニメ『とある魔術の禁書目録』）"
          ]
       ],
       [
-         "9月22日",
+         "9月19日",
+         "フィクションのできごと",
+         [
+            "string",
+            "新暦0075年 - 「聖王のゆりかご」浮上、各地での激しい戦いの末に「ジェイル・スカリエッティ事件」が終結する。（アニメ『魔法少女リリカルなのはStrikerS』）"
+         ]
+      ],
+      [
+         "9月19日",
          "記念日・年中行事",
          [
             "unparsed",
@@ -37372,21 +37349,40 @@
          ]
       ],
       [
-         "9月22日",
+         "9月19日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、この日が秋分の場合）"
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2016年\u003C/mw:l>）※9月第3月曜日"
          ]
       ],
       [
-         "9月22日",
+         "9月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "世界海賊口調日",
+                  "wref" : "世界海賊口調日"
+               },
+               " リンク先には「パロディ」という記載があるが、掲載の要はあるのでしょうか？ "
+            ],
+            [
+               "string",
+               "海賊口調で喋る日。"
+            ]
+         ]
+      ],
+      [
+         "9月1日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国民の休日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二百十日\u003C/mw:l>",
                [
                   "string",
                   "（"
@@ -37394,33 +37390,68 @@
                "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "）※"
+                  "、"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2002年\u003C/mw:l>",
                [
                   "string",
-                  "が"
+                  "・"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月21日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2003年\u003C/mw:l>",
                [
                   "string",
-                  "で、"
+                  "・"
                ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分の日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2004年\u003C/mw:l>",
                [
                   "string",
-                  "が"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月23日\u003C/mw:l>",
-               [
-                  "string",
-                  "の場合"
+                  "）"
                ]
             ],
             [
                "string",
-               "2009年にこの巡りとなり、この年は9月19日から23日にかけて5連休となる（土曜日も休みと考えた場合）。そのため5月のゴールデンウィーク（黄金週間）にならってシルバーウィーク（銀週間）という俗称がある。"
+               "立春から数えて210日目の日。台風襲来の時期であるため、農家にとっての厄日である。"
             ]
+         ]
+      ],
+      [
+         "9月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>おわら風の盆\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>富山市\u003C/mw:l>（旧\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>八尾町\u003C/mw:l>）、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月3日\u003C/mw:l>まで）"
+         ]
+      ],
+      [
+         "9月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>知識の日\u003C/mw:iparam>\u003Cmw:iparam>ru\u003C/mw:iparam>\u003Cmw:iparam>День знаний\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Knowledge Day\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "および旧ソビエト連邦諸国）"
+               ]
+            ],
+            [
+               "string",
+               "ロシアおよび旧ソビエト連邦諸国の学校年度の始まり。教師に花などを贈り各種行事が催される。"
+            ]
+         ]
+      ],
+      [
+         "9月1日",
+         "誕生日",
+         [
+            "string",
+            "1946年（旧暦8月6日） - 盧武鉉、第16代大韓民国大統領（\u002B 2009年）"
          ]
       ],
       [
@@ -37503,104 +37534,113 @@
          ]
       ],
       [
-         "9月7日",
-         "記念日・年中行事",
+         "9月21日",
+         "できごと",
          [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>白露\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "では"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>",
-               [
-                  "string",
-                  "・"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ],
-               "\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> UTCだと2010年もなのですが \u003C/mw:comment>",
-               [
-                  "string",
-                  "※日付不定"
-               ]
-            ],
-            [
-               "string",
-               "二十四節気の一つ。"
-            ]
+            "string",
+            "1988年‐B'zデビュー"
          ]
       ],
       [
-         "9月7日",
+         "9月21日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2015年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2020年\u003C/mw:l>）※9月第3月曜日"
+         ]
+      ],
+      [
+         "9月21日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>全国交通安全運動\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月30日\u003C/mw:l>まで）"
+         ]
+      ],
+      [
+         "9月21日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "勝利の日",
-                  "region_wref" : "MOZ"
+                  "name" : "ファッションショーの日、ファッションショー・メモリアル・デー",
+                  "region_wref" : "JPN"
                },
-               " 由来不明だが、同国の祝日の一つ。 ",
-               " [[en:Victory Day#September 7 in Mozambique]]を参考に書いてみました "
+               " 『366日記念日事典』（創元社）に記載 "
             ],
             [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1974年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ポルトガル\u003C/mw:l>との間に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>モザンビーク独立戦争\u003C/mw:l>を終結させる\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ルサカ協定\u003C/mw:l>が結ばれ独立が確定したことを記念する祝日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 独立は1975/6/25 \u003C/mw:comment>\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> {{仮リンク|ルサカ協定|en|Lusaka Agreement}} であるべきだが、[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Lusaka Protocol]]という全く別の記事へのリダイレクトになっています \u003C/dd>"
+               "string",
+               "1927年9月21日に、日本で初めてのファッションショーが銀座の三越呉服店で行われたことに由来。水谷八重子 (初代)ら3人の女優がモデルとなり、一般から図案を募集した着物を披露した。"
             ]
          ]
       ],
       [
-         "9月3日",
+         "9月22日",
          "できごと",
          [
             "string",
-            "紀元前36年 - シチリア戦争: ナウロクス沖の海戦"
+            "1792年（フランス革命暦I年ヴァンデミール1日） - フランス革命: フランス革命暦の起点とされる日。使用開始は1793年11月24日。"
          ]
       ],
       [
-         "9月3日",
+         "9月22日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、このころ）※\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日"
+         ]
+      ],
+      [
+         "9月22日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、この日が秋分の場合）"
+         ]
+      ],
+      [
+         "9月22日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022対日戦勝記念日#中国\u0022>対日勝戦日\u003C/mw:l>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国民の休日\u003C/mw:l>",
                [
                   "string",
                   "（"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ROC\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "）、抗日戦争勝利記念日（"
+                  "）※"
                ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRC\u0022>\u003C/mw:include>",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>",
                [
                   "string",
-                  "）"
+                  "が"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月21日\u003C/mw:l>",
+               [
+                  "string",
+                  "で、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分の日\u003C/mw:l>",
+               [
+                  "string",
+                  "が"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月23日\u003C/mw:l>",
+               [
+                  "string",
+                  "の場合"
                ]
             ],
             [
                "string",
-               "第二次世界大戦での日本に対する勝利を記念する日。多くの連合国では日本政府が降伏文書に調印した9月2日を記念日としているが、中華民国では国民党政府が翌9月3日から3日間を抗日戦争勝利記念の休暇としたことから9月3日を記念日としている。1949年に成立した中華人民共和国も同じく9月3日を抗日戦争勝利記念日と称している。"
+               "2009年にこの巡りとなり、この年は9月19日から23日にかけて5連休となる（土曜日も休みと考えた場合）。そのため5月のゴールデンウィーク（黄金週間）にならってシルバーウィーク（銀週間）という俗称がある。"
             ]
          ]
       ],
@@ -37677,130 +37717,11 @@
          ]
       ],
       [
-         "9月18日",
-         "フィクションのできごと",
-         [
-            "string",
-            "U.C.0079年 - サイド7・1バンチにおいて、史上初のモビルスーツ同士による戦闘が行われる。（アニメ『機動戦士ガンダム』）"
-         ]
-      ],
-      [
-         "9月18日",
-         "フィクションのできごと",
-         [
-            "string",
-            "20XX年 - トーマス・ライト、エックスをカプセルに封印する。（ゲーム『ロックマンX』）"
-         ]
-      ],
-      [
-         "9月18日",
+         "9月24日",
          "記念日・年中行事",
          [
             "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2017年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2023年\u003C/mw:l>）※9月第3月曜日"
-         ]
-      ],
-      [
-         "9月18日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>しまくとぅばの日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>沖縄県\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "しまくとぅば（沖縄の言葉）を記念する日。「く(9)とぅ(十)ば(8)」の語呂合せ。"
-            ]
-         ]
-      ],
-      [
-         "9月18日",
-         "誕生日",
-         [
-            "string",
-            "1962年、塚瀬進、東洋史学者"
-         ]
-      ],
-      [
-         "9月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>プログラマーの日\u003C/mw:l>",
-               [
-                  "string",
-                  "（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022RUS\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>平年\u003C/mw:l>",
-               [
-                  "string",
-                  "の場合）"
-               ]
-            ],
-            [
-               "string",
-               "一年の256日目の日であることから。（閏年の場合は9月12日）"
-            ]
-         ]
-      ],
-      [
-         "9月13日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "unparsed",
-               [
-                  "string",
-                  "司法保護記念日（"
-               ],
-               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
-               [
-                  "string",
-                  "、"
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1925年\u003C/mw:l>",
-               [
-                  "string",
-                  " - "
-               ],
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1951年\u003C/mw:l>",
-               [
-                  "string",
-                  "）"
-               ]
-            ],
-            [
-               "string",
-               "犯罪の予防と犯罪者の更生を見守る司法保護司や保護機関の働きについて多くの人に知ってもらうための日。明治天皇の大喪を記念して1912年9月26日に出された恩赦の詔勅が釈放者を保護する事業のきっかけとなったことから、これを記念日として1925年に「保護デー」として制定された。1937年に「司法保護記念日」に改称され、1952年に「少年保護記念日」（4月17日）と統合されて「更生保護記念日」（11月27日）となった。"
-            ]
-         ]
-      ],
-      [
-         "9月13日",
-         "誕生日(フィクション)",
-         [
-            "string",
-            "未来世紀33年 - アルゴ・ガルスキー、アニメ『機動武闘伝Gガンダム』に登場するキャラクター"
+            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、このころ）※\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日"
          ]
       ],
       [
@@ -37871,97 +37792,6 @@
          ]
       ],
       [
-         "9月27日",
-         "できごと",
-         [
-            "string",
-            "C.E.71年 - 第二次ヤキン・ドゥーエ攻防戦が終結。（アニメ『機動戦士ガンダムSEED』）"
-         ]
-      ],
-      [
-         "9月24日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、このころ）※\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日"
-         ]
-      ],
-      [
-         "9月14日",
-         "できごと",
-         [
-            "string",
-            "1911年（ユリウス暦9月1日） - ロシア帝国首相ピョートル・ストルイピンがキエフでアナキストに狙撃される。ストルイピンは9月18日に死亡。"
-         ]
-      ],
-      [
-         "9月14日",
-         "フィクションのできごと",
-         [
-            "string",
-            "新暦0075年 - 時空管理局ミッドチルダ地上本部襲撃事件が起きる。（アニメ『魔法少女リリカルなのはStrikerS』）"
-         ]
-      ],
-      [
-         "9月14日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "メンズバレンタインデー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 『記念日・祝日の事典』（東京堂出版），『366日記念日事典』（創元社），『366日誕生石の本』（日本ヴォーグ社）に記載 \u003C/mw:comment>\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>男性が女性に積極的に愛を表現する日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1991年\u003C/mw:l>に[http\u003C/dd>\u003Cdd>//www.nbf.or.jp 日本ボディファッション協会]が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>バレンタインデー\u003C/mw:l>にチョコレートを贈るのに対し、この日にはプレゼントとして\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>下着\u003C/mw:l>を贈る。ただし、現在は特に活動は行われていない。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "9月14日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "セプテンバーバレンタイン",
-                  "region_wref" : "JPN"
-               },
-               " 『366日記念日事典』（創元社）に記載 "
-            ],
-            [
-               "string",
-               "女性から別れ話を切り出してもよいとされる日。TBSラジオ『パック・イン・ミュージック』が発祥と言われている。紫色の物を身に付け、白いマニキュアを塗り、緑のインクで書いた別れの手紙を直接手渡すというのがルール。"
-            ]
-         ]
-      ],
-      [
-         "9月10日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二百二十日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>）"
-         ]
-      ],
-      [
-         "9月10日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "ナショナルデー (ジブラルタル)",
-               "region_wref" : "GIB",
-               "wref" : "ナショナルデー (ジブラルタル)"
-            },
-            [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1967年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イギリス\u003C/mw:l>の海外領土である\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ジブラルタル\u003C/mw:l>で、スペインに編入されるか、イギリス領に留まったまま高度な自治権を求めるかの住民投票\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> [[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Gibraltar sovereignty referendum, 1967]] \u003C/dd>が行われ、イギリス領に留まることが決定したことを記念。"
-            ]
-         ]
-      ],
-      [
-         "9月10日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022教師の日\u0022>教師節\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRC\u0022>\u003C/mw:include>・\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022HKG\u0022>\u003C/mw:include>）"
-         ]
-      ],
-      [
          "9月26日",
          "記念日・年中行事",
          [
@@ -37993,53 +37823,269 @@
          ]
       ],
       [
-         "9月19日",
-         "フィクションのできごと",
+         "9月27日",
+         "できごと",
          [
             "string",
-            "「大覇星祭」開幕日（-25日）。（小説・アニメ『とある魔術の禁書目録』）"
+            "C.E.71年 - 第二次ヤキン・ドゥーエ攻防戦が終結。（アニメ『機動戦士ガンダムSEED』）"
          ]
       ],
       [
-         "9月19日",
-         "フィクションのできごと",
+         "9月28日",
+         "できごと",
          [
             "string",
-            "新暦0075年 - 「聖王のゆりかご」浮上、各地での激しい戦いの末に「ジェイル・スカリエッティ事件」が終結する。（アニメ『魔法少女リリカルなのはStrikerS』）"
+            "紀元前48年 - ローマの執政官ポンペイウスがエジプト軍の刺客により暗殺される。"
          ]
       ],
       [
-         "9月19日",
-         "記念日・年中行事",
+         "9月28日",
+         "誕生日",
          [
-            "unparsed",
-            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、このころ）※\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日"
+            "string",
+            "紀元前551年 - 孔子、儒家思想家（\u002B 紀元前479年）"
          ]
       ],
       [
-         "9月19日",
-         "記念日・年中行事",
+         "9月29日",
+         "忌日",
          [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2016年\u003C/mw:l>）※9月第3月曜日"
+            "string",
+            "紀元前48年 - グナエウス・ポンペイウス、共和政ローマの軍人、政治家（* 紀元前106年）"
          ]
       ],
       [
-         "9月19日",
+         "9月29日",
+         "誕生日",
+         [
+            "string",
+            "紀元前106年 - グナエウス・ポンペイウス、共和政ローマの軍人、政治家（\u002B 紀元前48年）"
+         ]
+      ],
+      [
+         "9月2日",
+         "できごと",
+         [
+            "string",
+            "紀元前44年 - キケロが初のピリッピカ（攻撃演説）を行う。以降数か月のうちに14回の演説を行う。"
+         ]
+      ],
+      [
+         "9月2日",
+         "できごと",
+         [
+            "string",
+            "紀元前31年 - アクティウムの海戦。"
+         ]
+      ],
+      [
+         "9月2日",
+         "できごと",
+         [
+            "string",
+            "1752年（グレゴリオ暦9月13日） - イギリスでグレゴリオ暦を導入。9月2日の翌日が9月14日となる。"
+         ]
+      ],
+      [
+         "9月2日",
          "記念日・年中行事",
          [
             "with-indent",
             [
                "with-comment",
                {
-                  "name" : "世界海賊口調日",
-                  "wref" : "世界海賊口調日"
+                  "name" : "独立記念日(沿ドニエストル共和国)"
                },
-               " リンク先には「パロディ」という記載があるが、掲載の要はあるのでしょうか？ "
+               " 独立できているのか微妙な「地域」ですが、オーランドと違って60万人住んでいますので載せてみます "
             ],
             [
                "string",
-               "海賊口調で喋る日。"
+               "1990年のこの日、モルドバからの独立を宣言。2010年現在、国家として承認しているのはアブハジアと南オセチアのみである。"
+            ]
+         ]
+      ],
+      [
+         "9月30日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "ギルガメス暦2323年 - バニラ・バートラー、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
+         ]
+      ],
+      [
+         "9月3日",
+         "できごと",
+         [
+            "string",
+            "紀元前36年 - シチリア戦争: ナウロクス沖の海戦"
+         ]
+      ],
+      [
+         "9月3日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022対日戦勝記念日#中国\u0022>対日勝戦日\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ROC\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）、抗日戦争勝利記念日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022PRC\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "第二次世界大戦での日本に対する勝利を記念する日。多くの連合国では日本政府が降伏文書に調印した9月2日を記念日としているが、中華民国では国民党政府が翌9月3日から3日間を抗日戦争勝利記念の休暇としたことから9月3日を記念日としている。1949年に成立した中華人民共和国も同じく9月3日を抗日戦争勝利記念日と称している。"
+            ]
+         ]
+      ],
+      [
+         "9月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "移民の日",
+                  "region_wref" : "ARG"
+               },
+               " enより。由来不明。祝祭日ではないらしい "
+            ],
+            [
+               "unparsed",
+               "アルゼンチン行政府の政令により1949年に制定された、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>移民\u003C/mw:l>を称える記念日。\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>移民祭\u003C/mw:iparam>\u003Cmw:iparam>es\u003C/mw:iparam>\u003Cmw:iparam>Fiesta_Nacional_del_Inmigrante\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Immigrant's Festival\u003C/mw:iparam>\u003C/mw:include>が催される。アルゼンチンは1914年には人口のほぼ3割が非ネイティブであった。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 詳しい話は[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Immigration to Argentina]]に相当する記事に書くべきかな \u003C/dd>"
+            ]
+         ]
+      ],
+      [
+         "9月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "新聞配達の日",
+                  "region_wref" : "USA",
+                  "wref" : "新聞配達の日"
+               },
+               " 日本では10月の「新聞週間中の日曜日」が同名の記念日（新聞配達の日・新聞少年の日）。あわせて説明すれば良いかと。 "
+            ],
+            [
+               "with-comment",
+               [
+                  "string",
+                  "1833年のこの日、10歳の少年 Barney Flaherty が初の新聞配達を行ったことを記念。"
+               ],
+               " 訳に全く自信なし "
+            ]
+         ]
+      ],
+      [
+         "9月4日",
+         "誕生日",
+         [
+            "string",
+            "生年非公表（宝塚時代） - 凰稀かなめ、元宝塚歌劇団宙組トップスター"
+         ]
+      ],
+      [
+         "9月5日",
+         "忌日",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>堀川弘通\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>映画監督\u003C/mw:l>（* \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1916年\u003C/mw:l>）\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022-\u0022>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "9月5日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>石炭\u003C/mw:l>の日／クリーン・コール・デー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>「クリーン(9)・コール(5)」の語呂合せ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>通商産業省\u003C/mw:l>（現：\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>経済産業省\u003C/mw:l>）の呼びかけにより、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本鉄鋼連盟\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>電気事業連合会\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本石炭協会\u003C/mw:l>など石炭関係8団体で構成する「クリーン・コール・デー実行委員会」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1992年\u003C/mw:l>に制定。\u003C/dd>\u003Cdd>硫黄や窒素酸化物が除去され、石炭が大気を汚染しないクリーンエネルギーとなっていることをアピールし、エネルギー源としての石炭をPRするため、火力発電所の一般公開等が行われる。\u003C/dd>\u003C/dl>"
+         ]
+      ],
+      [
+         "9月6日",
+         "できごと",
+         [
+            "string",
+            "1689年（康熙28年7月23日、ユリウス暦8月27日）- ロシア帝国と清がネルチンスク条約に調印。中国初の国境画定条約。"
+         ]
+      ],
+      [
+         "9月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>白露\u003C/mw:l>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "では"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ],
+               "\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> UTCだと2010年もなのですが \u003C/mw:comment>",
+               [
+                  "string",
+                  "※日付不定"
+               ]
+            ],
+            [
+               "string",
+               "二十四節気の一つ。"
+            ]
+         ]
+      ],
+      [
+         "9月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "勝利の日",
+                  "region_wref" : "MOZ"
+               },
+               " 由来不明だが、同国の祝日の一つ。 ",
+               " [[en:Victory Day#September 7 in Mozambique]]を参考に書いてみました "
+            ],
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1974年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ポルトガル\u003C/mw:l>との間に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>モザンビーク独立戦争\u003C/mw:l>を終結させる\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ルサカ協定\u003C/mw:l>が結ばれ独立が確定したことを記念する祝日。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 独立は1975/6/25 \u003C/mw:comment>\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> {{仮リンク|ルサカ協定|en|Lusaka Agreement}} であるべきだが、[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Lusaka Protocol]]という全く別の記事へのリダイレクトになっています \u003C/dd>"
             ]
          ]
       ],
@@ -38115,144 +38161,102 @@
          ]
       ],
       [
-         "9月2日",
-         "できごと",
+         "9月9日",
+         "フィクションのできごと",
          [
             "string",
-            "紀元前44年 - キケロが初のピリッピカ（攻撃演説）を行う。以降数か月のうちに14回の演説を行う。"
+            "不明 - 時の交わる日という特別な日とされる。作中の暦における0015年におけるホーリーブリングの完成にはじまり2人のゲイルの誕生、デーモンカード設立、エンクレイム、そして0067年における石の戦争終結という出来事がこの日に起こっている。（漫画『RAVE』）"
          ]
       ],
       [
-         "9月2日",
-         "できごと",
-         [
-            "string",
-            "紀元前31年 - アクティウムの海戦。"
-         ]
-      ],
-      [
-         "9月2日",
-         "できごと",
-         [
-            "string",
-            "1752年（グレゴリオ暦9月13日） - イギリスでグレゴリオ暦を導入。9月2日の翌日が9月14日となる。"
-         ]
-      ],
-      [
-         "9月2日",
+         "9月9日",
          "記念日・年中行事",
          [
             "with-indent",
             [
-               "with-comment",
-               {
-                  "name" : "独立記念日(沿ドニエストル共和国)"
-               },
-               " 独立できているのか微妙な「地域」ですが、オーランドと違って60万人住んでいますので載せてみます "
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>重陽\u003C/mw:l>",
+               [
+                  "string",
+                  "の"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>節句\u003C/mw:l>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022キク\u0022>菊\u003C/mw:l>",
+               [
+                  "string",
+                  "の節句（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022CHN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
+               ]
             ],
             [
                "string",
-               "1990年のこの日、モルドバからの独立を宣言。2010年現在、国家として承認しているのはアブハジアと南オセチアのみである。"
+               "陽の数である奇数の極である9が2つ重なることから重陽と呼ばれ、たいへんめでたい日とされる。菊の花を飾ったり酒を飲んだりして祝った。"
             ]
          ]
       ],
       [
-         "9月5日",
-         "忌日",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>堀川弘通\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>映画監督\u003C/mw:l>（* \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1916年\u003C/mw:l>）\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022-\u0022>\u003C/mw:include>"
-         ]
-      ],
-      [
-         "9月5日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>石炭\u003C/mw:l>の日／クリーン・コール・デー（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>「クリーン(9)・コール(5)」の語呂合せ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>通商産業省\u003C/mw:l>（現：\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>経済産業省\u003C/mw:l>）の呼びかけにより、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本鉄鋼連盟\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>電気事業連合会\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本石炭協会\u003C/mw:l>など石炭関係8団体で構成する「クリーン・コール・デー実行委員会」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1992年\u003C/mw:l>に制定。\u003C/dd>\u003Cdd>硫黄や窒素酸化物が除去され、石炭が大気を汚染しないクリーンエネルギーとなっていることをアピールし、エネルギー源としての石炭をPRするため、火力発電所の一般公開等が行われる。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "9月16日",
-         "できごと",
-         [
-            "string",
-            "1620年（ユリウス暦9月6日） - メイフラワー号が北アメリカを目指しイギリスのプリマスを出港。"
-         ]
-      ],
-      [
-         "9月16日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>敬老の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2019年\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2024年\u003C/mw:l>）※9月第3月曜日"
-         ]
-      ],
-      [
-         "9月16日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ハイビジョン\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>ハイビジョンの画面の縦横比が 9\u003C/dd>\u003Cdd>16 （16:9）であることから\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>通商産業省\u003C/mw:l>（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>経済産業省\u003C/mw:l>）が制定。他に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>郵政省\u003C/mw:l>（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>総務省\u003C/mw:l>）と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022日本放送協会\u0022>NHK\u003C/mw:l>が、ハイビジョンの走査線数1125本から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月25日\u003C/mw:l>を同名の記念日としている。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "9月16日",
-         "誕生日",
-         [
-            "string",
-            "1745年（ユリウス暦9月5日） - ミハイル・クトゥーゾフ、ロシア帝国陸軍軍人（\u002B 1813年）"
-         ]
-      ],
-      [
-         "9月4日",
+         "9月9日",
          "記念日・年中行事",
          [
             "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "移民の日",
-                  "region_wref" : "ARG"
-               },
-               " enより。由来不明。祝祭日ではないらしい "
-            ],
-            [
-               "unparsed",
-               "アルゼンチン行政府の政令により1949年に制定された、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>移民\u003C/mw:l>を称える記念日。\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>移民祭\u003C/mw:iparam>\u003Cmw:iparam>es\u003C/mw:iparam>\u003Cmw:iparam>Fiesta_Nacional_del_Inmigrante\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Immigrant's Festival\u003C/mw:iparam>\u003C/mw:include>が催される。アルゼンチンは1914年には人口のほぼ3割が非ネイティブであった。\u003Cmw:comment xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022> 詳しい話は[[en\u003C/mw:comment>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>Immigration to Argentina]]に相当する記事に書くべきかな \u003C/dd>"
-            ]
-         ]
-      ],
-      [
-         "9月4日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            [
-               "with-comment",
-               {
-                  "name" : "新聞配達の日",
-                  "region_wref" : "USA",
-                  "wref" : "新聞配達の日"
-               },
-               " 日本では10月の「新聞週間中の日曜日」が同名の記念日（新聞配達の日・新聞少年の日）。あわせて説明すれば良いかと。 "
-            ],
             [
                "with-comment",
                [
-                  "string",
-                  "1833年のこの日、10歳の少年 Barney Flaherty が初の新聞配達を行ったことを記念。"
+                  "unparsed",
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>カリフォルニア州制施行記念日\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>California Admission Day\u003C/mw:iparam>\u003C/mw:include>",
+                  [
+                     "string",
+                     "（"
+                  ],
+                  "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+                  [
+                     "string",
+                     "、"
+                  ],
+                  "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カリフォルニア州\u003C/mw:l>",
+                  [
+                     "string",
+                     "）"
+                  ]
                ],
-               " 訳に全く自信なし "
+               " 州の祝日は迷うところ。 "
+            ],
+            [
+               "string",
+               "1850年のこの日、1850年協定によりカリフォルニアが合衆国31番目の州となったことを記念する州の祝日。"
             ]
          ]
       ],
       [
-         "9月4日",
-         "誕生日",
+         "9月9日",
+         "記念日・年中行事",
          [
-            "string",
-            "生年非公表（宝塚時代） - 凰稀かなめ、元宝塚歌劇団宙組トップスター"
+            "with-indent",
+            [
+               "with-comment",
+               {
+                  "name" : "世界占いの日",
+                  "region_wref" : "JPN"
+               },
+               " 「世界」と銘打ってはいますが…… "
+            ],
+            [
+               "string",
+               "日本占術協会が1999年に制定。この日が「重陽の節句」であること、ノストラダムスの終末の予言の日が1999年9月9日とされていたこと、制定した1999年9月9日の数字を全部合計すると46で、46の2つの数を足せば「完成」を意味する10になること、明治4年9月9日に時間の数え方を西洋式に改めたこと、この日が「救急の日」で占いは運命の救急であるとのことから。"
+            ]
          ]
       ]
    ]
