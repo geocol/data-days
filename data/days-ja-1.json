@@ -3432,11 +3432,6 @@
       ],
       "memorials" : [
          {
-            "desc" : "1年の始めの日。日本では1948年7月施行の祝日法により国民の祝日となっている。",
-            "name" : "元日",
-            "wref" : "元日"
-         },
-         {
             "name" : "四方拝",
             "wref" : "四方拝"
          },
@@ -3502,43 +3497,12 @@
             "wref" : "全日本実業団対抗駅伝競走大会"
          },
          {
-            "desc" : "日本競歩の登竜門的存在、東京都渋谷区神宮外苑聖徳記念絵画館周辺の周回コースで行われる。",
-            "name" : "元旦競歩大会",
-            "wref" : "元旦競歩"
-         },
-         {
             "name" : "パリ・ダカール・ラリー出発日"
-         },
-         {
-            "desc" : "ローマ教皇パウロ6世がベトナム戦争中の1968年、平和のために特別な祈りを捧げるよう世界のカトリック教会に呼びかけたことにちなむ。",
-            "name" : "世界平和の日"
          },
          {
             "desc" : "この日付けで死後50年経った著作物がパブリックドメインになることにちなむ。",
             "name" : "パブリックドメインの日",
             "wref" : "パブリックドメインの日"
-         },
-         {
-            "desc" : "1959年1月1日にキューバ革命が達成されたことに由来。",
-            "name" : "解放記念日",
-            "region_wref" : "CUB",
-            "wref" : "解放記念日"
-         },
-         {
-            "desc" : "1956年1月1日にスーダンがイギリス・エジプト両国の統治下から独立した。",
-            "name" : "独立記念日",
-            "region_wref" : "SDN",
-            "wref" : "独立記念日"
-         },
-         {
-            "desc" : "1804年のこの日、ハイチがフランスから独立した。",
-            "name" : "独立記念日",
-            "region_wref" : "HTI"
-         },
-         {
-            "desc" : "1956年のこの日、ブルネイがイギリスから独立した。",
-            "name" : "独立記念日",
-            "region_wref" : "BRN"
          }
       ]
    },
@@ -4950,11 +4914,17 @@
       "memorials" : [
          {
             "items" : [
-               {
-                  "desc" : "昔から初夢で1年の吉凶を占う風習がある。",
-                  "name" : "初夢",
-                  "wref" : "初夢"
-               },
+               [
+                  "with-indent",
+                  {
+                     "name" : "初夢",
+                     "wref" : "初夢"
+                  },
+                  [
+                     "unparsed",
+                     "昔から初夢で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022年\u0022>1年\u003C/mw:l>の吉凶を占う風習がある。"
+                  ]
+               ],
                {
                   "name" : "書き初め",
                   "wref" : "書き初め"
@@ -6221,12 +6191,6 @@
             "region_wref" : "JPN"
          },
          {
-            "desc" : "宮中祭祀のひとつ。1874年から1948年までは祝祭日であった。",
-            "name" : "元始祭",
-            "region_wref" : "JPN",
-            "wref" : "元始祭"
-         },
-         {
             "name" : "NHKニューイヤーオペラコンサート",
             "region_wref" : "JPN",
             "wref" : "NHKニューイヤーオペラコンサート"
@@ -7445,21 +7409,9 @@
             "wref" : "正月"
          },
          {
-            "desc" : "官公庁は1873年より、12月29日から1月3日までを休暇とすることが法律で定められており、4日が仕事始めとなる。民間企業も銀行等ホワイトカラー系はこの日を仕事始めの日とする所が多い（ブルーカラー系など大体の企業は1月5日）。",
-            "name" : "官公庁御用始め",
-            "region_wref" : "JPN",
-            "wref" : "仕事始め"
-         },
-         {
             "name" : "取引所大発会",
             "region_wref" : "JPN",
             "wref" : "大発会・大納会"
-         },
-         {
-            "desc" : "1948年1月4日にイギリスから独立しビルマ連邦共和国が成立した。",
-            "name" : "独立記念日",
-            "region_wref" : "MMR",
-            "wref" : "独立記念日"
          }
       ]
    },
@@ -8792,16 +8744,6 @@
       ],
       "memorials" : [
          {
-            "desc" : "日本棋院が提唱。「い(1)ご(5)」の語呂合せ。",
-            "name" : "囲碁の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "名瀬市（現 奄美市）で1978年から実施。名瀬市ではこの日に成人式を行うことから、市民皆が特産の奄美大島紬の着物を着てその良さを再認識しようと制定された。",
-            "name" : "紬の日",
-            "region_wref" : "JPN"
-         },
-         {
             "name" : "魚河岸初競り",
             "region_wref" : "JPN"
          }
@@ -9999,11 +9941,6 @@
          {
             "desc" : "本来は1月6日の固定祝日だが、地域や宗派によっては1月の第一日曜日に祝うところもある。",
             "name" : "公現節/公現祭/主顕節/顕現節(キリスト教)"
-         },
-         {
-            "desc" : "色に関係する職業の人の記念日。「い（1）ろ（6）」の語呂合せから。",
-            "name" : "色の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -11439,21 +11376,7 @@
             "wref" : "七草粥"
          },
          {
-            "desc" : "五節句のひとつ。古来中国では、この日に7種類の野菜（七草）を入れた羹（あつもの）を食べる習慣があり、これが日本に伝わって七種粥となった。日本では平安時代から始められ、江戸時代より一般に定着した。",
-            "name" : "人日の節句"
-         },
-         {
-            "desc" : "新年になって初めて爪を切る日。七草を浸した水に爪をつけ、柔かくして切ると、その年は風邪をひかないと言われている。",
-            "name" : "爪切りの日",
-            "region_wref" : "JPN"
-         },
-         {
             "name" : "クリスマス(東方正教会など。ロシアでは祝日)"
-         },
-         {
-            "desc" : "1979年のこの日、カンボジア救国民族統一戦線がカンボジアの首都プノンペンに侵攻し、ポル・ポト政権（民主カンボジア）が崩壊した。",
-            "name" : "虐殺政権からの解放の日",
-            "region_wref" : "KHM"
          }
       ]
    },
@@ -11967,11 +11890,6 @@
          }
       ],
       "memorials" : [
-         {
-            "desc" : "1875年のこの日、横浜郵便局（現・横浜港郵便局）で外国郵便の開業式が行われた。横浜の外国人居留地のアメリカの郵便局が外国郵便の業務を行っていたが、これ以降日本政府が業務を行うこととした。",
-            "name" : "外国郵便の日",
-            "region_wref" : "JPN"
-         },
          {
             "desc" : "イヤホンナビが制定。いつでも気軽に音楽を聴ける道具として、「イ(1)ヤ(8)ホン」の語呂合せでこの日を記念日とした。",
             "name" : "イヤホンの日",
@@ -13133,29 +13051,6 @@
          {
             "desc" : "大阪市立桜宮高等学校で体罰自殺事件が発覚。この事件以降、他校でも次々と体罰が明らかとなる。",
             "year" : "2013"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1946年のこの日、アメリカ統治下のパナマ運河地帯の高校でアメリカ国旗だけを掲揚したことから住民が暴動を起こし、米軍の発砲で両国民に死者が出た。",
-            "name" : "殉教者の日 (パナマ)",
-            "region_wref" : "PAN",
-            "wref" : "殉教者の日 (パナマ)"
-         },
-         {
-            "desc" : "十日戎の前日。",
-            "name" : "宵戎",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "とんちで有名な一休さん（一休宗純）から、「いっ（1）きゅう（9）」の語呂合せ。",
-            "name" : "クイズの日、とんちの日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "寛政7年旧暦1月9日、横綱谷風梶之助が風邪（インフルエンザ）で亡くなったことにちなむ。",
-            "name" : "風邪の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -14407,30 +14302,8 @@
       ],
       "memorials" : [
          {
-            "desc" : "大阪の今宮戎神社、兵庫県の西宮神社などのえびす神社で正月の10日に行われるお祭りで、地元の人には「えべっさん」と呼ばれ親しまれている。前日1月9日を「宵戎」、翌日1月11日を「残り福」と言う。縁起物を沢山つけた笹が「商売繁盛、笹持ってこい!」という賑やかな掛け声とともに売られ、商売繁盛を願ってお賽銭に1万円札が乱れ飛ぶ。",
-            "name" : "十日戎",
-            "region_wref" : "JPN",
-            "wref" : "十日戎"
-         },
-         {
             "name" : "ブードゥー祭の日",
             "region_wref" : "BEN"
-         },
-         {
-            "desc" : "警察庁が1985年12月に制定し、翌1986年から実施。全国の警察で、ダイヤル110番の有効・適切な利用を呼びかけるキャンペーンが行われる。",
-            "name" : "110番の日",
-            "region_wref" : "JPN",
-            "wref" : "110番の日"
-         },
-         {
-            "desc" : "福岡の食品会社ふくやが制定。1949年のこの日に販売を開始したのを記念としている。",
-            "name" : "明太子の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "三重県熊野市のさんま寿司保存会が2004年に制定。熊野市の産田神社でこの日に行われる例祭の後の直会で、熊野灘沿岸の郷土食「さんま寿司」の原形とされる寿司が出されることから。",
-            "name" : "さんま寿司の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -15744,24 +15617,6 @@
             "desc" : "セルヴァル作戦(フランスによるマリ共和国への軍事介入)開始。",
             "year" : "2013"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "正月に年神様に供えた鏡餅を雑煮や汁粉にして食べ、一家の円満を願う行事。地方によって日が違い、京都では4日に、ほかに20日に行う地方もある。",
-            "name" : "鏡開き",
-            "region_wref" : "JPN",
-            "wref" : "鏡開き"
-         },
-         {
-            "desc" : "商家などで、新年初めて蔵を開き、商売繁盛を祈る行事。江戸時代、大名が行った米蔵を開く儀式がその起源とされる。",
-            "name" : "蔵開き",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "「敵に塩を送る」という言葉の語源となった戦国時代の武将、上杉謙信と武田信玄の故事に由来する。1569年1月11日（旧暦）、上杉謙信の助けにより武田信玄のもとに塩が届いたという。",
-            "name" : "塩の日",
-            "region_wref" : "JPN"
-         }
       ]
    },
    "01-12" : {
@@ -16651,29 +16506,6 @@
          {
             "desc" : "ハイチの首都ポルトープランス近くでマグニチュード7.0の地震が発生。(ハイチ地震)",
             "year" : "2010"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1964年のこの日のザンジバル革命を記念。",
-            "name" : "ザンジバル革命記念日",
-            "region_wref" : "TZA"
-         },
-         {
-            "desc" : "インドの宗教家・ヴィヴェーカーナンダの1863年の誕生日。1984年にインド政府が制定し、翌1985年から実施。",
-            "name" : "青年の日 (インド)",
-            "region_wref" : "IND",
-            "wref" : "青年の日 (インド)"
-         },
-         {
-            "desc" : "1911年1月12日にオーストリア陸軍のレルヒ少佐が、新潟県高田（現在の上越市）の陸軍高田歩兵第58連隊の青年将校に、日本で初めてスキーの指導を行なったことから。スポーツ用品メーカー・ミズノの直営店・エスポートミズノが1994年に制定。",
-            "name" : "スキー記念日/スキーの日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1914年（大正3年）に鹿児島県の桜島で大正大噴火が始まったことにちなむ。鹿児島市では毎年この日に噴火を想定した防災訓練が行われる。",
-            "name" : "桜島の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -17794,13 +17626,6 @@
             "desc" : "コスタ・コンコルディアの座礁事故",
             "year" : "2012"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1946年1月13日に高級たばこの「ピース」が10本入り7円で初めて発売されたことに由来。",
-            "name" : "ピース記念日/たばこの日",
-            "region_wref" : "JPN"
-         }
       ]
    },
    "01-14" : {
@@ -18591,29 +18416,8 @@
             "region_wref" : "JPN"
          },
          {
-            "desc" : "1月15日の小正月の前日にあたるため、昔は年越しの日として祝っていた。",
-            "name" : "十四日年越し",
-            "region_wref" : "JPN"
-         },
-         {
             "desc" : "正月飾りや門松を取り外す日。",
             "name" : "飾納・松納",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "正教会の祭（修正ユリウス暦を使用する正教会では1月1日）",
-            "name" : "主の割礼祭",
-            "wref" : "主の割礼祭"
-         },
-         {
-            "desc" : "沖縄県石垣市が2010年12月に制定。1895年のこの日に日本政府が尖閣諸島を日本領に編入する閣議決定を行ったことにちなむ。",
-            "name" : "尖閣諸島開拓の日",
-            "region_wref" : "JPN",
-            "wref" : "尖閣諸島開拓の日"
-         },
-         {
-            "desc" : "1959年のこの日、南極大陸で1年間置き去りにされたカラフト犬タロとジロの生存が確認された。",
-            "name" : "愛と希望と勇気の日",
             "region_wref" : "JPN"
          }
       ]
@@ -19760,17 +19564,6 @@
             "name" : "山焼き(奈良県若草山)"
          },
          {
-            "desc" : "マラウイの最初の独立活動家ジョン・チレンブウェを記念する日。",
-            "name" : "ジョン・チレンブウェの日",
-            "region_wref" : "MWI"
-         },
-         {
-            "desc" : "世宗25年12月（ユリウス暦1444年1月）に世宗が「訓民正音」を作成したことから、1月の中間の日を記念日とした。",
-            "name" : "チョソングルの日",
-            "region_wref" : "PRK",
-            "wref" : "ハングルの日"
-         },
-         {
             "items" : [
                {
                   "name" : "1874年1月15日に東京警視庁(現在の警視庁)が創設されたことに由来。"
@@ -20385,20 +20178,6 @@
          }
       ],
       "memorials" : [
-         {
-            "desc" : "1920年1月16日にアメリカで禁酒法が施行されたことに由来。",
-            "name" : "禁酒の日"
-         },
-         {
-            "desc" : "嫁に出た人や奉公人が一時的に暇を許され、生家に帰ることができた日。宿下がりとも言う。この日と7月16日。",
-            "name" : "籔入り",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1年で最初の閻魔の縁日。閻魔賽日・十王詣はこの日と7月16日。",
-            "name" : "初閻魔/閻魔賽日/十王詣",
-            "region_wref" : "JPN"
-         },
          {
             "name" : "教師の日",
             "region_wref" : "THA",
@@ -21611,19 +21390,6 @@
             "desc" : "タイ反政府デモで爆発物がデモ隊に投げ込まれ男性1人が死亡し40人が死傷する。13日に「バンコク封鎖」が始まって以来、デモ関係で初の死者となった。",
             "year" : "2014"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1995年に発生した阪神・淡路大震災（兵庫県南部地震）では、国や地方自治体の危機管理体制の不備をはじめとするさまざまな問題が浮き彫りにされた一方で、ボランティア活動が活発化し「ボランティア元年」とも言われた。俳句の世界では季語「阪神忌」が存在する。",
-            "name" : "防災とボランティアの日",
-            "region_wref" : "JPN",
-            "wref" : "防災とボランティアの日"
-         },
-         {
-            "desc" : "JA等でつくる「ごはんを食べよう国民運動推進協議会」が2000年11月に制定。阪神大震災ではボランティアの炊き出しで被災者が励まされたことから。",
-            "name" : "おむすびの日",
-            "region_wref" : "JPN"
-         }
       ]
    },
    "01-18" : {
@@ -22810,17 +22576,6 @@
          {
             "name" : "タイ王国軍の日",
             "region_wref" : "THA"
-         },
-         {
-            "desc" : "1924年1月18日に東京市営乗合バスが営業を開始したことに由来し、東京都交通局が制定。",
-            "name" : "都バスの日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "緊急通報用電話番号118番の知名度向上のため、2011年1月18日より海上保安庁が制定。",
-            "name" : "118番の日",
-            "region_wref" : "JPN",
-            "wref" : "118番の日"
          }
       ]
    },
@@ -23360,23 +23115,6 @@
          {
             "desc" : "日本航空と子会社2社が戦後最大の経営破綻で会社更生法を申請。",
             "year" : "2010"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "日本電機工業会が2006年に制定。「い(1)い(1)く(9)うき」の語呂合せ。",
-            "name" : "空気清浄機の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1946年1月19日にNHKラジオで『のど自慢素人音楽会』（現在の『NHKのど自慢』）が放送開始されたことに由来。",
-            "name" : "カラオケの日/のど自慢の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "全国消防機器販売業協会が1991年に制定。1と19で「119」となることから。11月9日が消防庁が定めた「119の日」であるため、1月19日を記念日とした。",
-            "name" : "家庭消火器点検の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -24600,11 +24338,6 @@
             "name" : "二十日正月",
             "region_wref" : "JPN",
             "wref" : "二十日正月"
-         },
-         {
-            "desc" : "1990年のこの日、独立運動中のアゼルバイジャンの首都バクーにソ連軍が侵攻し、約130人の市民が殺害された。",
-            "name" : "殉教者の日",
-            "region_wref" : "AZE"
          }
       ]
    },
@@ -25256,23 +24989,9 @@
       ],
       "memorials" : [
          {
-            "desc" : "聖アグネスの聖名祝日。聖アグネス殉教の日。",
-            "name" : "聖アグネスの祝日(キリスト教)"
-         },
-         {
             "name" : "アルタグラシアの聖母の日",
             "region_wref" : "DOM",
             "wref" : "アルタグラシアの聖母の日"
-         },
-         {
-            "desc" : "慶応2年1月21日（旧暦。新暦では1866年3月7日）、坂本龍馬らの仲介により長州藩と薩摩藩が薩長同盟を結んだ。",
-            "name" : "ライバルが手を結ぶ日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1937年のこの日、BBCが世界初の料理番組『夕べの料理』を開始したことにちなむ。",
-            "name" : "料理番組の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -26573,29 +26292,6 @@
          {
             "desc" : "2007年1月11日に破壊された中国の気象衛星風雲1号Cの破片が、ロシアの小型衛星BLITSに衝突。BLITSは衛星としての機能を喪失。",
             "year" : "2013"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1919年のこの日、ウクライナ人民共和国と西ウクライナ人民共和国がウクライナ統一条約に調印した。",
-            "name" : "統一の日",
-            "region_wref" : "UKR"
-         },
-         {
-            "desc" : "1916年1月22日に、初の国産飛行船である陸軍の「雄飛号」が所沢～大阪間で実験飛行を行ったことに由来。",
-            "name" : "飛行船の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "東京都内の老舗ジャズクラブのオーナーらによる「JAZZ DAY実行委員会」が2001年から実施。JAZZの\u0022JA\u0022がJanuary（1月）の先頭2文字であり、\u0022ZZ\u0022が\u002222\u0022に似ていることから。",
-            "name" : "ジャズの日",
-            "region_wref" : "JPN",
-            "wref" : "ジャズの日"
-         },
-         {
-            "desc" : "1982年、全国学校栄養士協議会が学校給食開始35周年を記念して1月22日の給食のメニューをカレーにすることに決められ、この日、全国の小中学校で一斉にカレー給食が出された。",
-            "name" : "カレーの日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -27930,13 +27626,6 @@
             "desc" : "大相撲1月場所13日目、横綱白鵬翔が史上最多の33回目の優勝を達成した。",
             "year" : "2015"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "電子メッセージング協議会（現 Eジャパン協議会）が1994年に制定。「1（いい）23（ふみ）」（いい文・E文）の語呂合わせ。",
-            "name" : "電子メールの日",
-            "region_wref" : "JPN"
-         }
       ]
    },
    "01-24" : {
@@ -29137,19 +28826,6 @@
             "desc" : "法律扶助制度を行っている法律扶助協会が1952年1月24日に設立されたことに由来し、同会が1993年に制定。",
             "name" : "法律扶助の日",
             "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1848年のこの日、アメリカのカリフォルニア州で金の粒が発見された。この噂が広まり、一攫千金を求めて沢山の人たちが集まるカリフォルニア・ゴールドラッシュとなった。",
-            "name" : "金の日/ゴールドラッシュデー"
-         },
-         {
-            "desc" : "1908年のこの日、ロバート・ベーデン・パウエルがボーイスカウト英国本部を設立した。",
-            "name" : "ボーイスカウト創立記念日"
-         },
-         {
-            "desc" : "ボリビアのラパスで行なわれるミニチュア品の市場。",
-            "name" : "アラシタの祭",
-            "wref" : "エケコ"
          }
       ]
    },
@@ -30749,21 +30425,6 @@
             "desc" : "ISILがラジオ部門を通じて湯川遥菜を殺害したことを伝えた。(ISILによる日本人拘束事件)",
             "year" : "2015"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1年で最初の天神の縁日。",
-            "name" : "初天神",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "スコットランドの詩人ロバート・バーンズの1759年の誕生日。スコットランド地方ではこの日、生誕を祝ってこの日の夜にバーンズの作品を朗読し、肉料理を食べる。",
-            "name" : "バーンズ・サッパー(スコットランド)"
-         },
-         {
-            "desc" : "明治・大正・昭和・平成の4つの時代を通して、見かけだけではなく心も体も美しくなることが美容の本来の意味であると、日本で最初に提唱した美容家メイ牛山の誕生日にちなむ。健康食という概念をつくり、健康と美容の両立の概念を広めた。女性が楽しく美しくいられる社会は平和な社会であるとの美容哲学と平和理論に基づく。",
-            "name" : "美容記念日"
-         }
       ]
    },
    "01-26" : {
@@ -32118,32 +31779,9 @@
       ],
       "memorials" : [
          {
-            "desc" : "1788年のこの日、オーストラリアの最初の移民団がポート・ジャクソン湾に上陸した。",
-            "name" : "オーストラリアの日",
-            "region_wref" : "AUS",
-            "wref" : "オーストラリアの日"
-         },
-         {
-            "desc" : "1950年のこの日、に憲法が施行されたことを記念した日。",
-            "name" : "共和国記念日",
-            "region_wref" : "IND",
-            "wref" : "共和国記念日 (インド)"
-         },
-         {
             "name" : "解放記念日",
             "region_wref" : "UGA",
             "wref" : "解放記念日"
-         },
-         {
-            "desc" : "1949年1月26日に法隆寺金堂壁画が焼損したことをきっかけに、文化財を火災や震災から守るとともに、文化財愛護思想の普及高揚を図る目的で、1955年に文化財保護委員会（現文化庁）と国家消防本部（現消防庁）が制定。",
-            "name" : "文化財防火デー",
-            "region_wref" : "JPN",
-            "wref" : "文化財防火デー"
-         },
-         {
-            "desc" : "東京都が1959年に公共駐車場として日本初のパーキングメーターを日比谷と丸の内に設置したことに由来する。",
-            "name" : "有料駐車場の日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -32758,12 +32396,6 @@
             "desc" : "ブラジルのサンタマリアのナイトクラブで火災が発生し、245人が死亡。",
             "year" : "2013"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "2005年に国連総会本会議で決議。アウシュヴィッツ＝ビルケナウ強制収容所の解放にちなむ。特定の民族や宗教への差別・攻撃を非難する。",
-            "name" : "ホロコースト犠牲者を想起する国際デー (International Holocaust Remembrance Day)"
-         }
       ]
    },
    "01-28" : {
@@ -33328,32 +32960,7 @@
       ],
       "memorials" : [
          {
-            "desc" : "アメリカ・カナダと欧州27か国の公的機関や企業が2008年から実施。",
-            "name" : "データ・プライバシーの日",
-            "wref" : "データ・プライバシーの日"
-         },
-         {
-            "desc" : "毎月28日は不動明王の縁日で、一年で最初の縁日が「初不動」。",
-            "name" : "初不動",
-            "region_wref" : "JPN"
-         },
-         {
             "name" : "初荒神",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "日本電機工業会が1994年に制定。「いるい(1)ふん(2)わり(8)」の語呂合せ。",
-            "name" : "衣類乾燥機の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1956年のこの日に日本で公布された万国著作権条約で(C)マークが制定されたことにちなみ、コピーライト(copyright)をコピーライター(copywriter)にかけたもの。",
-            "name" : "コピーライターの日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1986年のスペースシャトル・チャレンジャー号爆発事故にちなむ。作家・大江健三郎は『治療塔』の中でこの事故を「宇宙意志からの警告」と表現した。",
-            "name" : "宇宙からの警告の日",
             "region_wref" : "JPN"
          }
       ]
@@ -34214,18 +33821,6 @@
          {
             "desc" : "日本の理化学研究所など日米共同研究チームは、新たな万能細胞である刺激惹起性多能性獲得細胞(STAP細胞)の生成に成功したと発表。",
             "year" : "2014"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1973年のこの日に日本初の地域情報誌『ながの情報』が発行されたことにちなみ、タウン情報全国ネットワークが制定。",
-            "name" : "タウン情報の日",
-            "region_wref" : "JPN"
-         },
-         {
-            "desc" : "1872年のこの日に日本初の全国戸籍調査が実施されたことにちなむ。",
-            "name" : "人口調査記念日",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -35240,19 +34835,6 @@
          {
             "desc" : "東京ドームシティアトラクションズの「スピニングコースター舞姫」で男性が転落死する事故が発生。",
             "year" : "2011"
-         }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1948年のこの日、マハトマ・ガンディーが暗殺された。",
-            "name" : "殉教者の日 (インド)",
-            "region_wref" : "IND",
-            "wref" : "殉教者の日 (インド)"
-         },
-         {
-            "desc" : "宮中祭祀の一つ。孝明天皇が崩御した日で、皇居内の皇霊殿と孝明天皇の陵所である京都の月輪東山陵で祭典が行われる。孝明天皇が崩御したのは慶応2年12月25日（旧暦）で、当初は仏式で行われ、明治3年から神式で行われるようになった。明治5年の太陽暦採用に伴い、新暦に換算した1月30日に行われるようになった。",
-            "name" : "孝明天皇祭",
-            "region_wref" : "JPN"
          }
       ]
    },
@@ -36553,19 +36135,6 @@
             "desc" : "東北地方太平洋沖地震を原因とする福島第一原子力発電所事故に伴い全発電設備が停止されていた福島第一原子力発電所が、この日限りで廃止。",
             "year" : "2014"
          }
-      ],
-      "memorials" : [
-         {
-            "desc" : "1968年のこの日、ナウルがイギリス・オーストラリア・ニュージーランドの信託統治から独立した。",
-            "name" : "独立記念日",
-            "region_wref" : "NRU",
-            "wref" : "独立記念日"
-         },
-         {
-            "desc" : "正月最後の日。この日に、松の内に年始回りをしなかった家を訪ねる地方もある。",
-            "name" : "晦日正月・晦日節",
-            "region_wref" : "JPN"
-         }
       ]
    },
    "_errors" : [
@@ -36607,12 +36176,74 @@
          [
             "with-indent",
             {
+               "name" : "十日戎",
+               "region_wref" : "JPN",
+               "wref" : "十日戎"
+            },
+            [
+               "unparsed",
+               "大阪の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>今宮戎神社\u003C/mw:l>、兵庫県の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西宮神社\u003C/mw:l>などのえびす神社で正月の10日に行われるお祭りで、地元の人には「えべっさん」と呼ばれ親しまれている。前日\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1月9日\u003C/mw:l>を「宵戎」、翌日\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1月11日\u003C/mw:l>を「残り福」と言う。縁起物を沢山つけた笹が「商売繁盛、笹持ってこい!」という賑やかな掛け声とともに売られ、商売繁盛を願ってお賽銭に1万円札が乱れ飛ぶ。"
+            ]
+         ]
+      ],
+      [
+         "1月10日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "110番の日",
+               "region_wref" : "JPN",
+               "wref" : "110番の日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>警察庁\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1985年\u003C/mw:l>12月に制定し、翌\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1986年\u003C/mw:l>から実施。全国の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>警察\u003C/mw:l>で、ダイヤル\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>110番\u003C/mw:l>の有効・適切な利用を呼びかけるキャンペーンが行われる。"
+            ]
+         ]
+      ],
+      [
+         "1月10日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "明太子の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "福岡の食品会社\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ふくや\u003C/mw:l>が制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1949年\u003C/mw:l>のこの日に販売を開始したのを記念としている。"
+            ]
+         ]
+      ],
+      [
+         "1月10日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
                "name" : "かんぴょうの日",
                "region_wref" : "JPN"
             },
             [
                "unparsed",
                "かんぴょう（干瓢）の「干」が「一」と「十」の組み合わせから成ることに由来\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022Cite web\u0022>\u003Cmw:iparam name=\u0022date\u0022>2007年 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022url\u0022>http\u003C/mw:iparam>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.kanpyo.jp/knowledge.html \u003C/dd>\u003Cmw:iparam name=\u0022title\u0022>干瓢の基礎知識：栃木のかんぴょう祭り \u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>栃木県干瓢商業協同組合 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2010-01-09\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。"
+            ]
+         ]
+      ],
+      [
+         "1月10日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "さんま寿司の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>三重県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>熊野市\u003C/mw:l>のさんま寿司保存会が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2004年\u003C/mw:l>に制定。熊野市の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>産田神社\u003C/mw:l>でこの日に行われる\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>例祭\u003C/mw:l>の後の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>直会\u003C/mw:l>で、熊野灘沿岸の郷土食「さんま寿司」の原形とされる寿司が出されることから。"
             ]
          ]
       ],
@@ -36640,6 +36271,52 @@
       ],
       [
          "1月11日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "鏡開き",
+               "region_wref" : "JPN",
+               "wref" : "鏡開き"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>正月\u003C/mw:l>に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>年神様\u003C/mw:l>に供えた\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>鏡餅\u003C/mw:l>を\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>雑煮\u003C/mw:l>や\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>汁粉\u003C/mw:l>にして食べ、一家の円満を願う行事。地方によって日が違い、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都\u003C/mw:l>では4日に、ほかに20日に行う地方もある。"
+            ]
+         ]
+      ],
+      [
+         "1月11日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "蔵開き",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "商家などで、新年初めて\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>蔵\u003C/mw:l>を開き、商売繁盛を祈る行事。江戸時代、大名が行った米蔵を開く儀式がその起源とされる。"
+            ]
+         ]
+      ],
+      [
+         "1月11日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "塩の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "「敵に塩を送る」という言葉の語源となった戦国時代の武将、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>上杉謙信\u003C/mw:l>と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>武田信玄\u003C/mw:l>の故事に由来する。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1569年\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00221月11日 (旧暦)\u0022>1月11日\u003C/mw:l>（旧暦）、上杉謙信の助けにより武田信玄のもとに塩が届いたという。"
+            ]
+         ]
+      ],
+      [
+         "1月11日",
          "誕生日",
          [
             "string",
@@ -36652,6 +36329,67 @@
          [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>成人の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）※1月第2\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>月曜日\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2004年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2015年\u003C/mw:l>など）"
+         ]
+      ],
+      [
+         "1月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ザンジバル革命記念日",
+               "region_wref" : "TZA"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1964年\u003C/mw:l>のこの日の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ザンジバル革命\u003C/mw:l>を記念。"
+            ]
+         ]
+      ],
+      [
+         "1月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "青年の日 (インド)",
+               "region_wref" : "IND",
+               "wref" : "青年の日 (インド)"
+            },
+            [
+               "unparsed",
+               "インドの宗教家・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ヴィヴェーカーナンダ\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1863年\u003C/mw:l>の誕生日。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1984年\u003C/mw:l>にインド政府が制定し、翌\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1985年\u003C/mw:l>から実施。"
+            ]
+         ]
+      ],
+      [
+         "1月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "スキー記念日/スキーの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1911年\u003C/mw:l>1月12日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>オーストリア\u003C/mw:l>陸軍の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022テオドール・エードラー・フォン・レルヒ\u0022>レルヒ少佐\u003C/mw:l>が、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>新潟県\u003C/mw:l>高田（現在の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>上越市\u003C/mw:l>）の陸軍高田歩兵第58連隊の青年将校に、日本で初めて\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>スキー\u003C/mw:l>の指導を行なったことから。スポーツ用品メーカー・ミズノの直営店・エスポートミズノが1994年に制定。"
+            ]
+         ]
+      ],
+      [
+         "1月12日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "桜島の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1914年\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大正\u003C/mw:l>3年）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>鹿児島県\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>桜島\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022桜島#大正大噴火\u0022>大正大噴火\u003C/mw:l>が始まったことにちなむ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>鹿児島市\u003C/mw:l>では毎年この日に噴火を想定した防災訓練が行われる。"
+            ]
          ]
       ],
       [
@@ -36671,11 +36409,87 @@
          ]
       ],
       [
+         "1月13日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ピース記念日/たばこの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1946年\u003C/mw:l>1月13日に高級たばこの「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ピース (たばこ)\u0022>ピース\u003C/mw:l>」が10本入り7円で初めて発売されたことに由来。"
+            ]
+         ]
+      ],
+      [
          "1月14日",
          "記念日・年中行事",
          [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>成人の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）※1月第2\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>月曜日\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2002年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2013年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2019年\u003C/mw:l>など）"
+         ]
+      ],
+      [
+         "1月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "十四日年越し",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "1月15日の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>小正月\u003C/mw:l>の前日にあたるため、昔は年越しの日として祝っていた。"
+            ]
+         ]
+      ],
+      [
+         "1月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "主の割礼祭",
+               "wref" : "主の割礼祭"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>正教会\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祭\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>修正ユリウス暦\u003C/mw:l>を使用する正教会では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1月1日\u003C/mw:l>）"
+            ]
+         ]
+      ],
+      [
+         "1月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "尖閣諸島開拓の日",
+               "region_wref" : "JPN",
+               "wref" : "尖閣諸島開拓の日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>沖縄県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>石垣市\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2010年\u003C/mw:l>12月に制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1895年\u003C/mw:l>のこの日に日本政府が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>尖閣諸島\u003C/mw:l>を日本領に編入する閣議決定を行ったことにちなむ。"
+            ]
+         ]
+      ],
+      [
+         "1月14日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "愛と希望と勇気の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1959年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>南極大陸\u003C/mw:l>で1年間置き去りにされたカラフト犬\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タロとジロ\u003C/mw:l>の生存が確認された。"
+            ]
          ]
       ],
       [
@@ -36740,6 +36554,37 @@
       ],
       [
          "1月15日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ジョン・チレンブウェの日",
+               "region_wref" : "MWI"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>マラウイ\u003C/mw:l>の最初の独立活動家\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ジョン・チレンブウェ\u003C/mw:l>を記念する日。"
+            ]
+         ]
+      ],
+      [
+         "1月15日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "チョソングルの日",
+               "region_wref" : "PRK",
+               "wref" : "ハングルの日"
+            },
+            [
+               "unparsed",
+               "世宗25年12月（ユリウス暦\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1444年\u003C/mw:l>1月）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022世宗 (朝鮮王)\u0022>世宗\u003C/mw:l>が「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>訓民正音\u003C/mw:l>」を作成したことから、1月の中間の日を記念日とした。"
+            ]
+         ]
+      ],
+      [
+         "1月15日",
          "誕生日(フィクション)",
          [
             "string",
@@ -36755,11 +36600,86 @@
          ]
       ],
       [
+         "1月16日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "禁酒の日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1920年\u003C/mw:l>1月16日にアメリカで\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国憲法修正第十八条\u0022>禁酒法\u003C/mw:l>が施行されたことに由来。"
+            ]
+         ]
+      ],
+      [
+         "1月16日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "籔入り",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "嫁に出た人や奉公人が一時的に暇を許され、生家に帰ることができた\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日\u003C/mw:l>。宿下がりとも言う。この日と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>7月16日\u003C/mw:l>。"
+            ]
+         ]
+      ],
+      [
+         "1月16日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "初閻魔/閻魔賽日/十王詣",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "1年で最初の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>閻魔\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>縁日\u003C/mw:l>。閻魔賽日・十王詣はこの日と7月16日。"
+            ]
+         ]
+      ],
+      [
          "1月17日",
          "フィクションのできごと",
          [
             "string",
             "U.C.0089年 - エゥーゴがネオ・ジオンを制圧し、第一次ネオ・ジオン抗争が終結。（アニメ『機動戦士ガンダムΖΖ』）"
+         ]
+      ],
+      [
+         "1月17日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "防災とボランティアの日",
+               "region_wref" : "JPN",
+               "wref" : "防災とボランティアの日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1995年\u003C/mw:l>に発生した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>阪神・淡路大震災\u003C/mw:l>（兵庫県南部地震）では、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国\u003C/mw:l>や\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>地方自治体\u003C/mw:l>の危機管理体制の不備をはじめとするさまざまな問題が浮き彫りにされた一方で、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ボランティア\u003C/mw:l>活動が活発化し「ボランティア元年」とも言われた。俳句の世界では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>季語\u003C/mw:l>「阪神忌」が存在する。"
+            ]
+         ]
+      ],
+      [
+         "1月17日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "おむすびの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022農業協同組合\u0022>JA\u003C/mw:l>等でつくる「ごはんを食べよう国民運動推進協議会」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2000年\u003C/mw:l>11月に制定。阪神大震災ではボランティアの炊き出しで被災者が励まされたことから。"
+            ]
          ]
       ],
       [
@@ -36785,8 +36705,8 @@
                ]
             ],
             [
-               "string",
-               "兵庫県が2006年に制定。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>兵庫県\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>に制定。"
             ]
          ]
       ],
@@ -36814,8 +36734,8 @@
                ]
             ],
             [
-               "string",
-               "尾崎紅葉の『金色夜叉』の中で、この日に熱海の海岸で主人公の貫一が恋人のお宮と別れる記述があることから。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>尾崎紅葉\u003C/mw:l>の『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>金色夜叉\u003C/mw:l>』の中で、この日に熱海の海岸で主人公の貫一が恋人のお宮と別れる記述があることから。"
             ]
          ]
       ],
@@ -36841,6 +36761,82 @@
          [
             "string",
             "紀元前52年 - プブリウス・クロディウス・プルケル、古代ローマの政治家（* 紀元前92年）"
+         ]
+      ],
+      [
+         "1月18日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "都バスの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1924年\u003C/mw:l>1月18日に東京市営乗合バスが営業を開始したことに由来し、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東京都交通局\u003C/mw:l>が制定。"
+            ]
+         ]
+      ],
+      [
+         "1月18日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "118番の日",
+               "region_wref" : "JPN",
+               "wref" : "118番の日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>緊急通報用電話番号\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>118番\u003C/mw:l>の知名度向上のため、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>1月18日より\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>海上保安庁\u003C/mw:l>が制定。"
+            ]
+         ]
+      ],
+      [
+         "1月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "空気清浄機の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本電機工業会\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>に制定。「い(1)い(1)く(9)うき」の語呂合せ。"
+            ]
+         ]
+      ],
+      [
+         "1月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "カラオケの日/のど自慢の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1946年\u003C/mw:l>1月19日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022日本放送協会\u0022>NHK\u003C/mw:l>ラジオで『のど自慢素人音楽会』（現在の『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>NHKのど自慢\u003C/mw:l>』）が放送開始されたことに由来。"
+            ]
+         ]
+      ],
+      [
+         "1月19日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "家庭消火器点検の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "全国消防機器販売業協会が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1991年\u003C/mw:l>に制定。1と19で「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022119番\u0022>119\u003C/mw:l>」となることから。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>11月9日\u003C/mw:l>が消防庁が定めた「119の日」であるため、1月19日を記念日とした。"
+            ]
          ]
       ],
       [
@@ -36901,6 +36897,112 @@
       ],
       [
          "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "元日",
+               "wref" : "元日"
+            },
+            [
+               "unparsed",
+               "1年の始めの日。日本では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>7月施行の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祝日法\u003C/mw:l>により\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>国民の祝日\u003C/mw:l>となっている。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "元旦競歩大会",
+               "wref" : "元旦競歩"
+            },
+            [
+               "unparsed",
+               "日本競歩の登竜門的存在、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東京都\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>渋谷区\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神宮外苑\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖徳記念絵画館\u003C/mw:l>周辺の周回コースで行われる。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "世界平和の日"
+            },
+            [
+               "unparsed",
+               "ローマ教皇\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022パウロ6世 (ローマ教皇)\u0022>パウロ6世\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ベトナム戦争\u003C/mw:l>中の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1968年\u003C/mw:l>、平和のために特別な祈りを捧げるよう世界のカトリック教会に呼びかけたことにちなむ。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "解放記念日",
+               "region_wref" : "CUB",
+               "wref" : "解放記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1959年\u003C/mw:l>1月1日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>キューバ革命\u003C/mw:l>が達成されたことに由来。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "独立記念日",
+               "region_wref" : "SDN",
+               "wref" : "独立記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1956年\u003C/mw:l>1月1日にスーダンが\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イギリス\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>エジプト\u003C/mw:l>両国の統治下から独立した。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "独立記念日",
+               "region_wref" : "HTI"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1804年\u003C/mw:l>のこの日、ハイチが\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>フランス\u003C/mw:l>から独立した。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "独立記念日",
+               "region_wref" : "BRN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1956年\u003C/mw:l>のこの日、ブルネイがイギリスから独立した。"
+            ]
+         ]
+      ],
+      [
+         "1月1日",
          "誕生日(フィクション)",
          [
             "string",
@@ -36942,8 +37044,23 @@
                ]
             ],
             [
-               "string",
-               "二十四節気の1つ。太陽の黄経が300度の時で、寒さが最も厳しくなるころ。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二十四節気\u003C/mw:l>の1つ。太陽の黄経が300度の時で、寒さが最も厳しくなるころ。"
+            ]
+         ]
+      ],
+      [
+         "1月20日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "殉教者の日",
+               "region_wref" : "AZE"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1990年\u003C/mw:l>のこの日、独立運動中のアゼルバイジャンの首都\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>バクー\u003C/mw:l>にソ連軍が侵攻し、約130人の市民が殺害された。"
             ]
          ]
       ],
@@ -36966,8 +37083,8 @@
                ]
             ],
             [
-               "string",
-               "アメリカ合衆国憲法修正第20条で、大統領の任期は1月20日の正午に終了することとされており、その瞬間から次の大統領の任期が始まる。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>アメリカ合衆国憲法修正第20条\u003C/mw:l>で、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国大統領\u0022>大統領\u003C/mw:l>の任期は1月20日の正午に終了することとされており、その瞬間から次の大統領の任期が始まる。"
             ]
          ]
       ],
@@ -36990,8 +37107,8 @@
                "\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022cite web\u0022>\u003Cmw:iparam name=\u0022url\u0022>\u003Cmw:xl bare=\u0022\u0022>http://www.stat.go.jp/naruhodo/c3d0120.htm\u003C/mw:xl>\u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>1月20日  玉の輿の日\u003C/mw:iparam>\u003Cmw:iparam name=\u0022work\u0022>なるほど統計学園\u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>総務省統計局\u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2015-4-1\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>"
             ],
             [
-               "string",
-               "1905年のこの日、アメリカの実業家J・P・モルガンの甥のジョージ・モルガンが祇園の芸妓・お雪と結婚した。お雪は「日本のシンデレラ」と呼ばれた。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1905年\u003C/mw:l>のこの日、アメリカの実業家\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>J・P・モルガン\u003C/mw:l>の甥のジョージ・モルガンが祇園の芸妓・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022モルガンお雪\u0022>お雪\u003C/mw:l>と結婚した。お雪は「日本のシンデレラ」と呼ばれた。"
             ]
          ]
       ],
@@ -37014,8 +37131,128 @@
                ]
             ],
             [
-               "string",
-               "二十四節気の1つ。太陽の黄経が300度の時で、寒さが最も厳しくなるころ。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二十四節気\u003C/mw:l>の1つ。太陽の黄経が300度の時で、寒さが最も厳しくなるころ。"
+            ]
+         ]
+      ],
+      [
+         "1月21日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "聖アグネスの祝日(キリスト教)"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖アグネス\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>聖名祝日\u003C/mw:l>。聖アグネス殉教の日。"
+            ]
+         ]
+      ],
+      [
+         "1月21日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ライバルが手を結ぶ日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>慶応\u003C/mw:l>2年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00221月21日 (旧暦)\u0022>1月21日\u003C/mw:l>（旧暦。新暦では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1866年\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>3月7日\u003C/mw:l>）、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>坂本龍馬\u003C/mw:l>らの仲介により長州藩と薩摩藩が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>薩長同盟\u003C/mw:l>を結んだ。"
+            ]
+         ]
+      ],
+      [
+         "1月21日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "料理番組の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1937年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022英国放送協会\u0022>BBC\u003C/mw:l>が世界初の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>料理番組\u003C/mw:l>『夕べの料理』を開始したことにちなむ。"
+            ]
+         ]
+      ],
+      [
+         "1月22日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "統一の日",
+               "region_wref" : "UKR"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1919年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ウクライナ人民共和国\u003C/mw:l>と\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>西ウクライナ人民共和国\u003C/mw:l>が\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>ウクライナ統一条約\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>Act Zluky\u003C/mw:iparam>\u003Cmw:iparam name=\u0022label\u0022>統一条約\u003C/mw:iparam>\u003C/mw:include>に調印した。"
+            ]
+         ]
+      ],
+      [
+         "1月22日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "飛行船の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1916年\u003C/mw:l>1月22日に、初の国産\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>飛行船\u003C/mw:l>である陸軍の「雄飛号」が所沢～大阪間で実験飛行を行ったことに由来。"
+            ]
+         ]
+      ],
+      [
+         "1月22日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ジャズの日",
+               "region_wref" : "JPN",
+               "wref" : "ジャズの日"
+            },
+            [
+               "unparsed",
+               "東京都内の老舗ジャズクラブのオーナーらによる「JAZZ DAY実行委員会」が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2001年\u003C/mw:l>から実施。JAZZの\u0022JA\u0022がJanuary（1月）の先頭2文字であり、\u0022ZZ\u0022が\u002222\u0022に似ていることから。"
+            ]
+         ]
+      ],
+      [
+         "1月22日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "カレーの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1982年\u003C/mw:l>、全国学校栄養士協議会が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>学校給食\u003C/mw:l>開始35周年を記念して1月22日の給食のメニューをカレーにすることに決められ、この日、全国の小中学校で一斉にカレー給食が出された。"
+            ]
+         ]
+      ],
+      [
+         "1月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "電子メールの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "電子メッセージング協議会（現 \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>Eジャパン協議会\u003C/mw:l>）が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1994年\u003C/mw:l>に制定。「1（いい）23（ふみ）」（いい文・E文）の語呂合わせ。"
             ]
          ]
       ],
@@ -37047,8 +37284,51 @@
                ]
             ],
             [
-               "string",
-               "学校給食が東京都・神奈川県・千葉県で1946年12月24日に再開されたことを記念して制定。12月24日が冬休みのため、1か月ずらした1月24日からとした。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>学校給食\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>東京都\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>神奈川県\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>千葉県\u003C/mw:l>で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1946年\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>12月24日\u003C/mw:l>に再開されたことを記念して制定。12月24日が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>冬休み\u003C/mw:l>のため、1か月ずらした1月24日からとした。"
+            ]
+         ]
+      ],
+      [
+         "1月24日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "金の日/ゴールドラッシュデー"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1848年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国\u0022>アメリカ\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カリフォルニア州\u003C/mw:l>で金の粒が発見された。この噂が広まり、一攫千金を求めて沢山の人たちが集まる\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カリフォルニア・ゴールドラッシュ\u003C/mw:l>となった。"
+            ]
+         ]
+      ],
+      [
+         "1月24日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ボーイスカウト創立記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1908年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ロバート・ベーデン・パウエル\u003C/mw:l>がボーイスカウト英国本部を設立した。"
+            ]
+         ]
+      ],
+      [
+         "1月24日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "アラシタの祭",
+               "wref" : "エケコ"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ボリビア\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ラパス\u003C/mw:l>で行なわれるミニチュア品の市場。"
             ]
          ]
       ],
@@ -37077,6 +37357,49 @@
          ]
       ],
       [
+         "1月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "初天神",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "1年で最初の天神の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>縁日\u003C/mw:l>。"
+            ]
+         ]
+      ],
+      [
+         "1月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "バーンズ・サッパー(スコットランド)"
+            },
+            [
+               "unparsed",
+               "スコットランドの詩人\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ロバート・バーンズ\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1759年\u003C/mw:l>の誕生日。スコットランド地方ではこの日、生誕を祝ってこの日の夜にバーンズの作品を朗読し、肉料理を食べる。"
+            ]
+         ]
+      ],
+      [
+         "1月25日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "美容記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>明治\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大正\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>昭和\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>平成\u003C/mw:l>の4つの時代を通して、見かけだけではなく心も体も美しくなることが美容の本来の意味であると、日本で最初に提唱した美容家\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>メイ牛山\u003C/mw:l>の誕生日にちなむ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>健康食\u003C/mw:l>という概念をつくり、健康と美容の両立の概念を広めた。女性が楽しく美しくいられる社会は平和な社会であるとの美容哲学と平和理論に基づく。"
+            ]
+         ]
+      ],
+      [
          "1月26日",
          "忌日",
          [
@@ -37101,6 +37424,69 @@
          ]
       ],
       [
+         "1月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "オーストラリアの日",
+               "region_wref" : "AUS",
+               "wref" : "オーストラリアの日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1788年\u003C/mw:l>のこの日、オーストラリアの最初の移民団が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ポート・ジャクソン湾\u003C/mw:l>に上陸した。"
+            ]
+         ]
+      ],
+      [
+         "1月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "共和国記念日",
+               "region_wref" : "IND",
+               "wref" : "共和国記念日 (インド)"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1950年\u003C/mw:l>のこの日、に憲法が施行されたことを記念した日。"
+            ]
+         ]
+      ],
+      [
+         "1月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "文化財防火デー",
+               "region_wref" : "JPN",
+               "wref" : "文化財防火デー"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1949年\u003C/mw:l>1月26日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>法隆寺金堂壁画\u003C/mw:l>が焼損したことをきっかけに、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>文化財\u003C/mw:l>を火災や震災から守るとともに、文化財愛護思想の普及高揚を図る目的で、1955年に文化財保護委員会（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>文化庁\u003C/mw:l>）と国家消防本部（現\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>消防庁\u003C/mw:l>）が制定。"
+            ]
+         ]
+      ],
+      [
+         "1月26日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "有料駐車場の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "東京都が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1959年\u003C/mw:l>に公共駐車場として日本初のパーキングメーターを日比谷と丸の内に設置したことに由来する。"
+            ]
+         ]
+      ],
+      [
          "1月27日",
          "記念日・年中行事",
          [
@@ -37110,8 +37496,22 @@
                "\u003Cspan xmlns=\u0022http://www.w3.org/1999/xhtml\u0022 id=\u0022国旗制定記念日\u0022>国旗制定記念日（日本・民間団体）\u003C/span>"
             ],
             [
-               "string",
-               "1870年の旧暦1月27日（新暦2月27日）に商船規則（太政官布告第57号）が定められ、日本の国旗（日章旗）のデザインの原型が決まったことにちなむ。国旗協会が制定。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1870年\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00221月27日 (旧暦)\u0022>旧暦1月27日\u003C/mw:l>（新暦2月27日）に商船規則（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>太政官\u003C/mw:l>布告第57号）が定められ、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本の国旗\u003C/mw:l>（日章旗）のデザインの原型が決まったことにちなむ。国旗協会が制定。"
+            ]
+         ]
+      ],
+      [
+         "1月27日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "ホロコースト犠牲者を想起する国際デー (International Holocaust Remembrance Day)"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2005年\u003C/mw:l>に国連総会本会議で決議。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>アウシュヴィッツ＝ビルケナウ強制収容所\u003C/mw:l>の解放にちなむ。特定の民族や宗教への差別・攻撃を非難する。"
             ]
          ]
       ],
@@ -37141,6 +37541,81 @@
          "1月28日",
          "記念日・年中行事",
          [
+            "with-indent",
+            {
+               "name" : "データ・プライバシーの日",
+               "wref" : "データ・プライバシーの日"
+            },
+            [
+               "unparsed",
+               "アメリカ・カナダと欧州27か国の公的機関や企業が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2008年\u003C/mw:l>から実施。"
+            ]
+         ]
+      ],
+      [
+         "1月28日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "初不動",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "毎月28日は\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>不動明王\u003C/mw:l>の縁日で、一年で最初の縁日が「初不動」。"
+            ]
+         ]
+      ],
+      [
+         "1月28日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "衣類乾燥機の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "日本電機工業会が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1994年\u003C/mw:l>に制定。「いるい(1)ふん(2)わり(8)」の語呂合せ。"
+            ]
+         ]
+      ],
+      [
+         "1月28日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "コピーライターの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1956年\u003C/mw:l>のこの日に日本で公布された\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>万国著作権条約\u003C/mw:l>で(C)マークが制定されたことにちなみ、コピーライト(copyright)をコピーライター(copywriter)にかけたもの。"
+            ]
+         ]
+      ],
+      [
+         "1月28日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "宇宙からの警告の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1986年\u003C/mw:l>のスペースシャトル・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>チャレンジャー号爆発事故\u003C/mw:l>にちなむ。作家・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>大江健三郎\u003C/mw:l>は『治療塔』の中でこの事故を「宇宙意志からの警告」と表現した。"
+            ]
+         ]
+      ],
+      [
+         "1月28日",
+         "記念日・年中行事",
+         [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>セレンディピティ\u003C/mw:l>の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1754年\u003C/mw:l>のこの日、ホリス・ウォールポールが初めてこの単語を使った事から、[http\u003C/dd>\u003Cdd>//serendipity.or.jp/ 一般社団法人日本セレンディピティ協会]が制定した。\u003C/dd>\u003C/dl>"
          ]
@@ -37154,11 +37629,103 @@
          ]
       ],
       [
+         "1月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "タウン情報の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1973年\u003C/mw:l>のこの日に日本初の地域情報誌『ながの情報』が発行されたことにちなみ、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>タウン情報全国ネットワーク\u003C/mw:l>が制定。"
+            ]
+         ]
+      ],
+      [
+         "1月29日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "人口調査記念日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1872年\u003C/mw:l>のこの日に日本初の全国戸籍調査が実施されたことにちなむ。"
+            ]
+         ]
+      ],
+      [
          "1月2日",
          "誕生日(フィクション)",
          [
             "string",
             "ギルガメス暦2294年 - ブールーズ・ゴウト、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
+         ]
+      ],
+      [
+         "1月30日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "殉教者の日 (インド)",
+               "region_wref" : "IND",
+               "wref" : "殉教者の日 (インド)"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>マハトマ・ガンディー\u003C/mw:l>が暗殺された。"
+            ]
+         ]
+      ],
+      [
+         "1月30日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "孝明天皇祭",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮中祭祀\u003C/mw:l>の一つ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>孝明天皇\u003C/mw:l>が崩御した日で、皇居内の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>皇霊殿\u003C/mw:l>と孝明天皇の陵所である京都の月輪東山陵で祭典が行われる。孝明天皇が崩御したのは\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>慶応\u003C/mw:l>2年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u002212月25日 (旧暦)\u0022>12月25日\u003C/mw:l>（旧暦）で、当初は仏式で行われ、明治3年から神式で行われるようになった。明治5年の太陽暦採用に伴い、新暦に換算した1月30日に行われるようになった。"
+            ]
+         ]
+      ],
+      [
+         "1月31日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "独立記念日",
+               "region_wref" : "NRU",
+               "wref" : "独立記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1968年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ナウル\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イギリス\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>オーストラリア\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニュージーランド\u003C/mw:l>の信託統治から独立した。"
+            ]
+         ]
+      ],
+      [
+         "1月31日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "晦日正月・晦日節",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>正月\u003C/mw:l>最後の日。この日に、松の内に年始回りをしなかった家を訪ねる地方もある。"
+            ]
          ]
       ],
       [
@@ -37201,6 +37768,22 @@
       ],
       [
          "1月3日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "元始祭",
+               "region_wref" : "JPN",
+               "wref" : "元始祭"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>宮中祭祀\u003C/mw:l>のひとつ。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1874年\u003C/mw:l>から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>までは\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祝祭日\u003C/mw:l>であった。"
+            ]
+         ]
+      ],
+      [
+         "1月3日",
          "誕生日",
          [
             "string",
@@ -37213,6 +37796,38 @@
          [
             "string",
             "宇宙世紀0079年 - 「ブリティッシュ作戦」開始。スペースコロニー・サイド2のひとつが、軌道を外れて地球へ落下を始める。（アニメ『機動戦士ガンダム』）"
+         ]
+      ],
+      [
+         "1月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "官公庁御用始め",
+               "region_wref" : "JPN",
+               "wref" : "仕事始め"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>官公庁\u003C/mw:l>は\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1873年\u003C/mw:l>より、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>12月29日\u003C/mw:l>から\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1月3日\u003C/mw:l>までを休暇とすることが\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>法律\u003C/mw:l>で定められており、4日が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>仕事始め\u003C/mw:l>となる。民間企業も\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>銀行\u003C/mw:l>等\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ホワイトカラー\u003C/mw:l>系はこの日を仕事始めの日とする所が多い（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ブルーカラー\u003C/mw:l>系など大体の企業は1月5日）。"
+            ]
+         ]
+      ],
+      [
+         "1月4日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "独立記念日",
+               "region_wref" : "MMR",
+               "wref" : "独立記念日"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1948年\u003C/mw:l>1月4日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>イギリス\u003C/mw:l>から独立しビルマ連邦共和国が成立した。"
+            ]
          ]
       ],
       [
@@ -37234,8 +37849,8 @@
                ]
             ],
             [
-               "string",
-               "二十四節気の1つ。太陽の黄経が285度の時で、寒さが最も厳しくなる前の時期。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二十四節気\u003C/mw:l>の1つ。太陽の黄経が285度の時で、寒さが最も厳しくなる前の時期。"
             ]
          ]
       ],
@@ -37270,6 +37885,36 @@
             [
                "string",
                "天皇が皇族・親任官・外国使臣など招待して新年を祝う宴会を行った。"
+            ]
+         ]
+      ],
+      [
+         "1月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "囲碁の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本棋院\u003C/mw:l>が提唱。「い(1)ご(5)」の語呂合せ。"
+            ]
+         ]
+      ],
+      [
+         "1月5日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "紬の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>名瀬市\u003C/mw:l>（現 \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>奄美市\u003C/mw:l>）で\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1978年\u003C/mw:l>から実施。名瀬市ではこの日に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>成人式\u003C/mw:l>を行うことから、市民皆が特産の奄美大島紬の着物を着てその良さを再認識しようと制定された。"
             ]
          ]
       ],
@@ -37310,8 +37955,23 @@
                ]
             ],
             [
-               "string",
-               "二十四節気の一つ。太陽の黄経が285度の時で、寒さが最も厳しくなる前の時期。"
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>二十四節気\u003C/mw:l>の一つ。太陽の黄経が285度の時で、寒さが最も厳しくなる前の時期。"
+            ]
+         ]
+      ],
+      [
+         "1月6日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "色の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>色\u003C/mw:l>に関係する\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>職業\u003C/mw:l>の人の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>記念日\u003C/mw:l>。「い（1）ろ（6）」の語呂合せから。"
             ]
          ]
       ],
@@ -37333,10 +37993,69 @@
       ],
       [
          "1月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "人日の節句"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>五節句\u003C/mw:l>のひとつ。古来\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>中国\u003C/mw:l>では、この日に7種類の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>野菜\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>七草\u003C/mw:l>）を入れた\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>羹\u003C/mw:l>（あつもの）を食べる習慣があり、これが\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本\u003C/mw:l>に伝わって\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>七種粥\u003C/mw:l>となった。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本\u003C/mw:l>では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>平安時代\u003C/mw:l>から始められ、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>江戸時代\u003C/mw:l>より一般に定着した。"
+            ]
+         ]
+      ],
+      [
+         "1月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "爪切りの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "新年になって初めて\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>爪\u003C/mw:l>を切る日。七草を浸した水に爪をつけ、柔かくして切ると、その年は\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>風邪\u003C/mw:l>をひかないと言われている。"
+            ]
+         ]
+      ],
+      [
+         "1月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "虐殺政権からの解放の日",
+               "region_wref" : "KHM"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1979年\u003C/mw:l>のこの日、カンボジア救国民族統一戦線がカンボジアの首都プノンペンに侵攻し、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ポル・ポト\u003C/mw:l>政権（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>民主カンボジア\u003C/mw:l>）が崩壊した。"
+            ]
+         ]
+      ],
+      [
+         "1月7日",
          "誕生日",
          [
             "string",
             "ポリヘドロン暦15282年 - ダノン・シ・アレイ、アニメ『輪廻のラグランジェ』に登場するキャラクター"
+         ]
+      ],
+      [
+         "1月8日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "外国郵便の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1875年\u003C/mw:l>のこの日、横浜郵便局（現・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>横浜港郵便局\u003C/mw:l>）で外国郵便の開業式が行われた。横浜の外国人居留地のアメリカの郵便局が外国郵便の業務を行っていたが、これ以降日本政府が業務を行うこととした。"
+            ]
          ]
       ],
       [
@@ -37353,6 +38072,67 @@
          [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>成人の日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）※1月第2月曜日（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2006年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2012年\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2017年\u003C/mw:l>など）"
+         ]
+      ],
+      [
+         "1月9日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "殉教者の日 (パナマ)",
+               "region_wref" : "PAN",
+               "wref" : "殉教者の日 (パナマ)"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1946年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022アメリカ合衆国\u0022>アメリカ\u003C/mw:l>統治下の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>パナマ運河地帯\u003C/mw:l>の高校でアメリカ国旗だけを掲揚したことから住民が暴動を起こし、米軍の発砲で両国民に死者が出た。"
+            ]
+         ]
+      ],
+      [
+         "1月9日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "宵戎",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>十日戎\u003C/mw:l>の前日。"
+            ]
+         ]
+      ],
+      [
+         "1月9日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "クイズの日、とんちの日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "とんちで有名な\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>一休さん\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>一休宗純\u003C/mw:l>）から、「いっ（1）きゅう（9）」の語呂合せ。"
+            ]
+         ]
+      ],
+      [
+         "1月9日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "風邪の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>寛政\u003C/mw:l>7年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u00221月9日 (旧暦)\u0022>旧暦1月9日\u003C/mw:l>、横綱\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022谷風梶之助 (2代)\u0022>谷風梶之助\u003C/mw:l>が風邪（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>インフルエンザ\u003C/mw:l>）で亡くなったことにちなむ。"
+            ]
          ]
       ]
    ]
