@@ -23030,7 +23030,7 @@
          {
             "desc" : "ミュージシャン(SPLAY)",
             "name" : "東俊介",
-            "wref" : "東俊介",
+            "wref" : "SPLAY#メンバー",
             "year" : "1980"
          },
          {
@@ -37622,6 +37622,11 @@
                   "、"
                ],
                "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2009年\u003C/mw:l>",
+               [
+                  "string",
+                  "、"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2015年\u003C/mw:l>",
                [
                   "string",
                   "）"
