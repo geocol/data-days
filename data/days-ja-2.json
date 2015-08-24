@@ -15938,6 +15938,12 @@
             "year" : "1990"
          },
          {
+            "desc" : "メジャーリーガー",
+            "name" : "ネイサン・イオバルディ",
+            "wref" : "ネイサン・イオバルディ",
+            "year" : "1990"
+         },
+         {
             "desc" : "グラビアアイドル",
             "name" : "伊勢みはと",
             "wref" : "伊勢みはと",
@@ -15948,6 +15954,12 @@
             "name" : "有村架純",
             "wref" : "有村架純",
             "year" : "1993"
+         },
+         {
+            "desc" : "サッカー選手",
+            "name" : "メンフィス・デパイ",
+            "wref" : "メンフィス・デパイ",
+            "year" : "1994"
          },
          {
             "desc" : "女優",
@@ -16995,6 +17007,10 @@
          {
             "desc" : "第二次世界大戦・蘭印作戦: 大日本帝国陸軍挺進第2連隊(落下傘部隊)がスマトラ島パレンバンに奇襲攻撃を敢行。(パレンバン空挺作戦)",
             "year" : "1942"
+         },
+         {
+            "desc" : "第二次世界大戦、ブーゲンビル島における航空戦にて連合軍が大損害を受ける(セントバレンタインデーの虐殺)",
+            "year" : "1943"
          },
          {
             "desc" : "第二次世界大戦: 近衛文麿が昭和天皇に米英との講和を唱える上奏を行う。(近衛上奏文)",
@@ -20341,23 +20357,6 @@
       ]
    },
    "02-18" : {
-      "birthdays" : [
-         {
-            "desc" : "漫画・アニメ『バクマン。』に登場するキャラクター",
-            "name" : "真城最高",
-            "year" : "1994"
-         },
-         {
-            "desc" : "アニメ・漫画『新世紀エヴァンゲリオン』に登場するキャラクター",
-            "name" : "洞木ヒカリ",
-            "wref" : "新世紀エヴァンゲリオンの登場人物#第壱中学校の生徒たち",
-            "year" : "2002"
-         },
-         {
-            "desc" : "アニメ・漫画『夏色キセキ』に登場するキャラクター",
-            "name" : "環凛子"
-         }
-      ],
       "deathdays" : [
          {
             "desc" : "天文学者、数学者",
@@ -20820,6 +20819,27 @@
             "name" : "ネルソン・フレイジャー・ジュニア",
             "wref" : "ネルソン・フレイジャー・ジュニア",
             "year" : "2014"
+         }
+      ],
+      "fictional_birthdays" : [
+         {
+            "desc" : "漫画・アニメ『バクマン。』に登場するキャラクター",
+            "name" : "真城最高",
+            "year" : "1994"
+         },
+         {
+            "desc" : "アニメ・漫画『新世紀エヴァンゲリオン』に登場するキャラクター",
+            "name" : "洞木ヒカリ",
+            "wref" : "新世紀エヴァンゲリオンの登場人物#第壱中学校の生徒たち",
+            "year" : "2002"
+         },
+         {
+            "desc" : "アニメ・漫画『夏色キセキ』に登場するキャラクター",
+            "name" : "環凛子"
+         },
+         {
+            "desc" : "漫画『アホガール』に登場するキャラクター",
+            "name" : "押枝あつこ"
          }
       ],
       "historicals" : [
@@ -24152,6 +24172,12 @@
             "name" : "服部義",
             "wref" : "服部義",
             "year" : "1977"
+         },
+         {
+            "desc" : "元プロ野球選手",
+            "name" : "マーチン・バルガス",
+            "wref" : "マーチン・バルガス",
+            "year" : "1978"
          },
          {
             "desc" : "サッカー選手",
@@ -30359,7 +30385,7 @@
       ],
       [
          "2月18日",
-         "誕生日",
+         "誕生日(フィクション)",
          [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1980年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022DEATH NOTEの登場人物#SPK\u0022>ハル・リドナー\u003C/mw:l>、漫画・アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>DEATH NOTE\u003C/mw:l>』に登場するキャラクター\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022Cite book\u0022>\u003Cmw:iparam>和書 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022author\u0022>\u003Cmw:l>大場つぐみ\u003C/mw:l> \u003C/mw:iparam>\u003Cmw:iparam name=\u0022coauthors\u0022>\u003Cmw:l>小畑健\u003C/mw:l> \u003C/mw:iparam>\u003Cmw:iparam name=\u0022year\u0022>2006 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>DEATH NOTE \u003C/mw:iparam>\u003Cmw:iparam name=\u0022volume\u0022>第13巻 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022page\u0022>32 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>\u003Cmw:l>集英社\u003C/mw:l> \u003C/mw:iparam>\u003Cmw:iparam name=\u0022series\u0022>\u003Cmw:l>ジャンプ・コミックス\u003C/mw:l> \u003C/mw:iparam>\u003Cmw:iparam name=\u0022isbn\u0022>978-4-08-874095-9 \u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022Refnest\u0022>\u003Cmw:iparam name=\u0022group\u0022>注釈\u003C/mw:iparam>\u003Cmw:iparam>アニメ版では\u003Cmw:l>1983年\u003C/mw:l>\u003Cmw:ref>\u003Cmw:include wref=\u0022Cite book\u0022>\u003Cmw:iparam>和書 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022author\u0022>大場つぐみ \u003C/mw:iparam>\u003Cmw:iparam name=\u0022coauthors\u0022>小畑健 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022year\u0022>2007 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>DEATH NOTE/A アニメーション公式解析ガイド \u003C/mw:iparam>\u003Cmw:iparam name=\u0022page\u0022>73 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>集英社 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022isbn\u0022>978-4-08-874197-0 \u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。\u003C/mw:iparam>\u003C/mw:include>"
