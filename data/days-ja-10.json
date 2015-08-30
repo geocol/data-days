@@ -8370,6 +8370,11 @@
             "year" : "1987"
          },
          {
+            "desc" : "ゲスの極み乙女。およびCrimson(インディーズバンド)のキーボーディスト",
+            "name" : "ちゃんMARI(福重まり)",
+            "year" : "1987"
+         },
+         {
             "desc" : "サッカー選手",
             "name" : "玉置慎也",
             "wref" : "玉置慎也",
@@ -14039,7 +14044,8 @@
          },
          {
             "desc" : "SEKAI NO OWARI",
-            "name" : "Fukase",
+            "name" : "深瀬慧(Fukase)",
+            "wref" : "SEKAI NO OWARI#Fukase",
             "year" : "1985"
          },
          {
@@ -24876,7 +24882,8 @@
          },
          {
             "desc" : "SEKAI NO OWARI",
-            "name" : "Nakajin",
+            "name" : "中島真一(Nakajin)",
+            "wref" : "SEKAI NO OWARI#Nakajin",
             "year" : "1985"
          },
          {
