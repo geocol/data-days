@@ -1804,7 +1804,7 @@
             "desc" : "女優",
             "name" : "杉咲花",
             "wref" : "杉咲花",
-            "year" : "2002"
+            "year" : "1997"
          }
       ],
       "deathdays" : [
@@ -18258,6 +18258,12 @@
             "year" : "1969"
          },
          {
+            "desc" : "プロレスラー",
+            "name" : "大森隆男",
+            "wref" : "大森隆男",
+            "year" : "1969"
+         },
+         {
             "desc" : "プロレスラー、総合格闘家",
             "name" : "藤田和之",
             "wref" : "藤田和之",
@@ -18881,6 +18887,12 @@
             "desc" : "俳優",
             "name" : "モンゴメリー・クリフト",
             "wref" : "モンゴメリー・クリフト",
+            "year" : "1920"
+         },
+         {
+            "desc" : "女優",
+            "name" : "メリナ・メルクーリ",
+            "wref" : "メリナ・メルクーリ",
             "year" : "1920"
          },
          {
@@ -22849,6 +22861,12 @@
             "name" : "ムアンマル・アル=カッザーフィー",
             "wref" : "ムアンマル・アル＝カッザーフィー",
             "year" : "2011"
+         },
+         {
+            "desc" : "医学者",
+            "name" : "エドワード・ドナル・トーマス",
+            "wref" : "エドワード・ドナル・トーマス",
+            "year" : "2012"
          },
          {
             "desc" : "経済学者",
@@ -34869,14 +34887,6 @@
          [
             "unparsed",
             "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>カラオケ\u003C/mw:l>文化の日（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）\u003Cdl xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cdd>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>全国カラオケ事業者協会\u003C/mw:l>が、同協会の設立記念日である10月17日を記念日として制定。\u003C/dd>\u003Cdd>ちなみに\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1月19日\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022日本放送協会\u0022>NHK\u003C/mw:l>の制定した「カラオケの日」に、毎年9月の第2土曜日が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>文部省\u003C/mw:l>が提唱した「ファミリーカラオケの日」になっている。\u003C/dd>\u003C/dl>"
-         ]
-      ],
-      [
-         "10月17日",
-         "誕生日",
-         [
-            "string",
-            "[920年 - メリナ・メルクーリ、女優（\u002B 1994年）"
          ]
       ],
       [
