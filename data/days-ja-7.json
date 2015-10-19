@@ -29371,6 +29371,11 @@
             "name" : "地蔵盆",
             "region_wref" : "JPN",
             "wref" : "地蔵盆"
+         },
+         {
+            "desc" : "1965年以前と2014年より後祭をこの日に行っている（7月17日に前祭（さきまつり））。",
+            "name" : "祇園祭 山鉾巡行 後祭(あとまつり)",
+            "region_wref" : "JPN"
          }
       ]
    },
@@ -37778,8 +37783,29 @@
          "7月17日",
          "記念日・年中行事",
          [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祇園祭\u003C/mw:l> 山鉾巡行（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include> \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>）"
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>祇園祭\u003C/mw:l>",
+               [
+                  "string",
+                  " 山鉾巡行（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " "
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>京都市\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "string",
+               "1966年から2013年はこの日にまとめて行われていたが、2014年より、前祭（さきまつり）をこの日に行っている（後祭（あとまつり）は7月24日）。"
+            ]
          ]
       ],
       [
