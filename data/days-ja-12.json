@@ -12465,6 +12465,11 @@
             "region_wref" : "JPN"
          },
          {
+            "name" : "十二日まち",
+            "region_wref" : "JPN",
+            "wref" : "十二日まち"
+         },
+         {
             "name" : "アグリー・クリスマス・セーター・デイ",
             "region_wref" : "USA",
             "wref" : "アグリー・クリスマス・セーター"
@@ -15249,6 +15254,12 @@
             "desc" : "モデル",
             "name" : "スネジャナ・オノプカ",
             "wref" : "スネジャナ・オノプカ",
+            "year" : "1986"
+         },
+         {
+            "desc" : "サッカー選手",
+            "name" : "カシム・ブルハン",
+            "wref" : "カシム・ブルハン",
             "year" : "1986"
          },
          {
@@ -35582,14 +35593,6 @@
          [
             "string",
             "1856年（ユリウス暦11月29日）- ゲオルギー・プレハーノフ、ロシアの社会主義者（\u002B 1918年）"
-         ]
-      ],
-      [
-         "12月12日",
-         "記念日・年中行事",
-         [
-            "unparsed",
-            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>十二日まち\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>） - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>埼玉県\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>さいたま市\u003C/mw:l>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>浦和区\u003C/mw:l>の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>調神社\u003C/mw:l>及びその西側を通る\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>埼玉県道213号曲本さいたま線\u003C/mw:l>（旧\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>中山道\u003C/mw:l>）などをで行われる祭。"
          ]
       ],
       [
