@@ -17855,12 +17855,6 @@
             "name" : "荒川太朗",
             "wref" : "荒川太朗",
             "year" : "2012"
-         },
-         {
-            "desc" : "俳優、タレント",
-            "name" : "阿藤快",
-            "wref" : "阿藤快",
-            "year" : "2015"
          }
       ],
       "fictional_birthdays" : [
@@ -20068,12 +20062,6 @@
             "year" : "1860"
          },
          {
-            "desc" : "画家",
-            "name" : "パーシー・ウインダム・ルイス",
-            "wref" : "パーシー・ウインダム・ルイス",
-            "year" : "1882"
-         },
-         {
             "desc" : "法学者",
             "name" : "中川善之助",
             "wref" : "中川善之助",
@@ -20132,12 +20120,6 @@
             "name" : "シャーロット・モーマン",
             "wref" : "シャーロット・モーマン",
             "year" : "1933"
-         },
-         {
-            "desc" : "小説家",
-            "name" : "マーガレット・アトウッド",
-            "wref" : "マーガレット・アトウッド",
-            "year" : "1939"
          },
          {
             "desc" : "オマーン国王(スルタン)",
@@ -20443,6 +20425,12 @@
             "desc" : "メジャーリーガー",
             "name" : "C.J.ウィルソン",
             "wref" : "C.J.ウィルソン (野球)",
+            "year" : "1980"
+         },
+         {
+            "desc" : "声優",
+            "name" : "茅原実里",
+            "wref" : "茅原実里",
             "year" : "1980"
          },
          {
@@ -20884,6 +20872,12 @@
             "name" : "羽仁未央",
             "wref" : "羽仁未央",
             "year" : "2014"
+         },
+         {
+            "desc" : "ラグビー選手",
+            "name" : "ジョナ・ロムー",
+            "wref" : "ジョナ・ロムー",
+            "year" : "2015"
          }
       ],
       "fictionals" : [
@@ -21250,6 +21244,12 @@
             "name" : "安藤優子",
             "wref" : "安藤優子",
             "year" : "1958"
+         },
+         {
+            "desc" : "声優、ナレーター",
+            "name" : "中博史",
+            "wref" : "中博史",
+            "year" : "1960"
          },
          {
             "desc" : "女優",
@@ -25134,8 +25134,8 @@
          },
          {
             "desc" : "メジャーリーガー",
-            "name" : "ドリュー・ポメランツズ",
-            "wref" : "ドリュー・ポメランツズ",
+            "name" : "ドリュー・ポメランツ",
+            "wref" : "ドリュー・ポメランツ",
             "year" : "1988"
          },
          {
@@ -34150,6 +34150,22 @@
          [
             "string",
             "ギルガメス暦2301年 - ジャン・ポール・ロッチナ、アニメ『装甲騎兵ボトムズ』に登場するキャラクター"
+         ]
+      ],
+      [
+         "11月18日",
+         "誕生日",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1882年\u003C/mw:l> - \u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>パーシー・ウインダム・ルイス\u003C/mw:l>、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>画家\u003C/mw:l>（\u002B \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1957年\u003C/mw:l>）\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ジャック・マリタン\u003C/mw:l>、哲学者 (\u002B \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1973年\u003C/mw:l>)\u003C/li>\u003C/ul>"
+         ]
+      ],
+      [
+         "11月18日",
+         "誕生日",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1939年\u003C/mw:l> - \u003Cul xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>マーガレット・アトウッド\u003C/mw:l>、小説家\u003C/li>\u003Cli>\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ジョン・オキーフ\u003C/mw:l>、物理学者\u003C/li>\u003C/ul>"
          ]
       ],
       [
