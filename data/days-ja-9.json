@@ -3288,8 +3288,9 @@
             "year" : "1986"
          },
          {
-            "desc" : "歌手、ダンサー(Dream、E-girlsメンバー)",
-            "name" : "Eire(阿部絵里恵)",
+            "desc" : "ボーカル、パフォーマー、DJ(Dream、E-girlsメンバー)",
+            "name" : "Eire",
+            "wref" : "阿部絵里恵",
             "year" : "1987"
          },
          {
