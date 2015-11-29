@@ -4722,6 +4722,10 @@
          {
             "desc" : "紀伊半島豪雨発生に際して災害対策本部が設置される。",
             "year" : "2011"
+         },
+         {
+            "desc" : "浦和警察署巡査部長男性殺人事件発生。",
+            "year" : "2015"
          }
       ],
       "memorials" : [
@@ -4898,7 +4902,7 @@
          {
             "desc" : "絵本作家、漫画家",
             "name" : "前川かずお",
-            "wref" : "前川かずお",
+            "wref" : "前川かずお (絵本作家、漫画家)",
             "year" : "1937"
          },
          {
@@ -20136,6 +20140,10 @@
          {
             "desc" : "平成25年台風第18号が上陸、京都府・福井県・滋賀県に特別警報が初めて発令される。",
             "year" : "2013"
+         },
+         {
+            "desc" : "熊谷連続殺人事件。",
+            "year" : "2015"
          }
       ],
       "memorials" : [
@@ -31466,6 +31474,11 @@
             "name" : "軍隊記念日",
             "region_wref" : "MOZ",
             "wref" : "軍隊記念日"
+         },
+         {
+            "desc" : "アメリカ連邦議会が2007年に制定。",
+            "name" : "殺人事件被害者を思い起こす日",
+            "region_wref" : "USA"
          }
       ]
    },
@@ -38594,7 +38607,7 @@
          "記念日・年中行事",
          [
             "unparsed",
-            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）（このころ、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日）"
+            "秋の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>社日\u003C/mw:l>（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>秋分\u003C/mw:l>に最も近い\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>戊\u003C/mw:l>の日）"
          ]
       ],
       [
