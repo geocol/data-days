@@ -26746,6 +26746,12 @@
             "year" : "2014"
          },
          {
+            "desc" : "教育者",
+            "name" : "真板益夫",
+            "wref" : "真板益夫",
+            "year" : "2015"
+         },
+         {
             "desc" : "アーティスト",
             "name" : "今井洋介",
             "wref" : "今井洋介",
@@ -26911,6 +26917,10 @@
          {
             "desc" : "北朝鮮が韓国・延坪島を砲撃、韓国側も対抗射撃。(延坪島砲撃事件)",
             "year" : "2010"
+         },
+         {
+            "desc" : "新潟日報報道部長ツイッター中傷投稿事件",
+            "year" : "2015"
          }
       ],
       "memorials" : [
@@ -32939,7 +32949,7 @@
             "year" : "1929"
          },
          {
-            "desc" : "宗教法人顕正会会長",
+            "desc" : "宗教法人顕正会(公安調査庁調査対象)会長",
             "name" : "浅井昭衛",
             "wref" : "浅井昭衛",
             "year" : "1931"
@@ -33871,6 +33881,18 @@
             "name" : "呉清源",
             "wref" : "呉清源",
             "year" : "2014"
+         },
+         {
+            "desc" : "漫画家",
+            "name" : "水木しげる",
+            "wref" : "水木しげる",
+            "year" : "2015"
+         },
+         {
+            "desc" : "文芸評論家",
+            "name" : "佐藤泰正",
+            "wref" : "佐藤泰正",
+            "year" : "2015"
          }
       ],
       "fictionals" : [
@@ -34039,6 +34061,10 @@
          {
             "desc" : "朝鮮民主主義人民共和国でデノミネーションを実施。",
             "year" : "2009"
+         },
+         {
+            "desc" : "JR東日本E235系電車営業運転開始(山手線)。",
+            "year" : "2015"
          }
       ],
       "memorials" : [
@@ -34629,6 +34655,21 @@
          [
             "string",
             "U.C.0079年 - ジオン軍、ジャブロー降下作戦（第2次ジャブロー侵攻作戦）に失敗。（アニメ『機動戦士ガンダム』）"
+         ]
+      ],
+      [
+         "11月30日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            {
+               "name" : "年金の日",
+               "region_wref" : "JPN"
+            },
+            [
+               "unparsed",
+               "「いい(11)みらい(30)」の語呂合わせ\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022Cite web\u0022>\u003Cmw:iparam name=\u0022url\u0022>http\u003C/mw:iparam>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000052617.html \u003C/dd>\u003Cmw:iparam name=\u0022title\u0022>１１月３０日は「年金の日」です！ \u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>厚生労働省 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2015-11-30\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。"
+            ]
          ]
       ],
       [
