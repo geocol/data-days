@@ -4360,6 +4360,12 @@
             "name" : "原一平",
             "wref" : "原一平",
             "year" : "2014"
+         },
+         {
+            "desc" : "小説家",
+            "name" : "杉本章子",
+            "wref" : "杉本章子",
+            "year" : "2015"
          }
       ],
       "fictionals" : [
@@ -6086,6 +6092,12 @@
             "name" : "ラルフ・ベア",
             "wref" : "ラルフ・ベア",
             "year" : "2014"
+         },
+         {
+            "desc" : "女優",
+            "name" : "平良とみ",
+            "wref" : "平良とみ",
+            "year" : "2015"
          }
       ],
       "fictional_birthdays" : [
@@ -6237,6 +6249,11 @@
          {
             "desc" : "仙台市地下鉄東西線(八木山動物公園〜荒井)が開業。",
             "year" : "2015"
+         }
+      ],
+      "memorials" : [
+         {
+            "name" : "ミラの聖ニコラウスの祝日: 子供・結婚前の若い女性・商人・質屋・薬剤師・ロシアの守護聖人である聖ニコラウスの聖名祝日。いくつかの国では前日の12月5日が重要な祭日となる(たとえばオランダのシンタクラースの日)。"
          }
       ]
    },
@@ -9927,12 +9944,6 @@
             "year" : "1983"
          },
          {
-            "desc" : "フィギュアスケート選手",
-            "name" : "チェ・ヨンウン",
-            "wref" : "チェ・ヨンウン",
-            "year" : "1983"
-         },
-         {
             "desc" : "タレント",
             "name" : "セイラ",
             "wref" : "セイラ (タレント)",
@@ -10057,12 +10068,6 @@
             "name" : "天童なこ",
             "wref" : "天童なこ",
             "year" : "1992"
-         },
-         {
-            "desc" : "歌手",
-            "name" : "ケイティ・キム",
-            "wref" : "ケイティ・キム",
-            "year" : "1993"
          },
          {
             "desc" : "アイドル",
@@ -19133,6 +19138,11 @@
             "desc" : "女優",
             "name" : "佃井皆美",
             "wref" : "佃井皆美",
+            "year" : "1987"
+         },
+         {
+            "desc" : "俳優",
+            "name" : "古川雄輝 ",
             "year" : "1987"
          },
          {
@@ -36067,6 +36077,14 @@
          ]
       ],
       [
+         "12月5日",
+         "誕生日(フィクション)",
+         [
+            "string",
+            "ヴァニイ-『クイズマジックアカデミー 暁の鐘』の実況レポーター。"
+         ]
+      ],
+      [
          "12月6日",
          "フィクションのできごと",
          [
@@ -36080,6 +36098,38 @@
          [
             "string",
             "350年ごろ - ミラのニコラオス（聖ニコラウス）、キリスト教の聖人、サンタクロースのモデル（* 270年ごろ）"
+         ]
+      ],
+      [
+         "12月6日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>独立記念日\u003C/mw:l>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022weight\u0022>\u003Cmw:iparam>normal\u003C/mw:iparam>\u003Cmw:iparam>（\u003Cmw:include wref=\u0022FIN\u0022>\u003C/mw:include>）\u003C/mw:iparam>\u003C/mw:include>: \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1917年\u003C/mw:l>のこの日、フィンランドが\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ロシア帝国\u003C/mw:l>から独立した。"
+         ]
+      ],
+      [
+         "12月6日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>憲法記念日\u003C/mw:l>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022weight\u0022>\u003Cmw:iparam>normal\u003C/mw:iparam>\u003Cmw:iparam>（\u003Cmw:include wref=\u0022ESP\u0022>\u003C/mw:include>）\u003C/mw:iparam>\u003C/mw:include>: \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1978年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>スペイン\u003C/mw:l>で現行の\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>スペイン1978年憲法\u003C/mw:l>が成立した。"
+         ]
+      ],
+      [
+         "12月6日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>姉\u003C/mw:l>の日\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022weight\u0022>\u003Cmw:iparam>normal\u003C/mw:iparam>\u003Cmw:iparam>（\u003Cmw:include wref=\u0022JPN\u0022>\u003C/mw:include>）\u003C/mw:iparam>\u003C/mw:include>: 姉妹型・兄弟型研究の第一人者、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>畑田国男\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>6月6日\u003C/mw:l>の「兄の日」、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>9月6日\u003C/mw:l>の「妹の日」に次いで提唱した日。この日が祝日である聖ニコラウスにまつわる三姉妹伝説がその日付の由来になっている。"
+         ]
+      ],
+      [
+         "12月6日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>音の日\u003C/mw:l>\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022weight\u0022>\u003Cmw:iparam>normal\u003C/mw:iparam>\u003Cmw:iparam>（\u003Cmw:include wref=\u0022JPN\u0022>\u003C/mw:include>）\u003C/mw:iparam>\u003C/mw:include>: \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>日本オーディオ協会\u003C/mw:l>が\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1994年\u003C/mw:l>に制定。\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1877年\u003C/mw:l>のこの日、\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>トーマス・エジソン\u003C/mw:l>が自身が発明した\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>蓄音機\u003C/mw:l>で音を録音・再生することに成功したことを記念。"
          ]
       ],
       [
