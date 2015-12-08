@@ -7356,6 +7356,11 @@
             "year" : "1851"
          },
          {
+            "desc" : "ジャーナリスト",
+            "name" : "ウラジーミル・ギリャロフスキー 作家",
+            "year" : "1855"
+         },
+         {
             "desc" : "彫刻家",
             "name" : "アリスティード・マイヨール",
             "wref" : "アリスティード・マイヨール",
@@ -7782,12 +7787,6 @@
             "year" : "1975"
          },
          {
-            "desc" : "歌手",
-            "name" : "MINMI",
-            "wref" : "MINMI",
-            "year" : "1975"
-         },
-         {
             "desc" : "シンガーソングライター",
             "name" : "桂宏美",
             "wref" : "桂宏美",
@@ -8081,6 +8080,12 @@
             "name" : "カール",
             "wref" : "カール (バーデン大公)",
             "year" : "1818"
+         },
+         {
+            "desc" : " 小説家、思想家",
+            "name" : "バンジャマン・コンスタン",
+            "wref" : "バンジャマン・コンスタン",
+            "year" : "1830"
          },
          {
             "desc" : "評論家",
@@ -10000,13 +10005,19 @@
          {
             "desc" : "プロ野球選手",
             "name" : "マット・クラーク",
-            "wref" : "マット・クラーク",
+            "wref" : "マット・クラーク (内野手)",
             "year" : "1986"
          },
          {
             "desc" : "お笑い芸人(トンファー)",
             "name" : "りゅーじ",
             "wref" : "りゅーじ",
+            "year" : "1986"
+         },
+         {
+            "desc" : "歌手、タレント(A.B.C-Z)",
+            "name" : "塚田僚一",
+            "wref" : "塚田僚一",
             "year" : "1986"
          },
          {
@@ -35673,14 +35684,6 @@
          ]
       ],
       [
-         "12月10日",
-         "誕生日",
-         [
-            "string",
-            "1986年‐塚田僚一、歌手、タレント（A.B.C-Z）"
-         ]
-      ],
-      [
          "12月11日",
          "誕生日",
          [
@@ -36181,6 +36184,30 @@
             [
                "string",
                "二十四節気の1つ。太陽の黄経が255度の時で、雪が激しく降り始めるころ。"
+            ]
+         ]
+      ],
+      [
+         "12月7日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022仮リンク\u0022>\u003Cmw:iparam>National Pearl Harbor Remembrance Day\u003C/mw:iparam>\u003Cmw:iparam>en\u003C/mw:iparam>\u003Cmw:iparam>National_Pearl_Harbor_Remembrance_Day\u003C/mw:iparam>\u003C/mw:include>",
+               [
+                  "string",
+                  "（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022USA\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  " ）"
+               ]
+            ],
+            [
+               "string",
+               "太平洋戦争開戦の日（日本における12月8日に相当）。合衆国連邦議会が1994年に指定。"
             ]
          ]
       ],
