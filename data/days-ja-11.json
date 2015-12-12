@@ -17867,6 +17867,12 @@
             "name" : "荒川太朗",
             "wref" : "荒川太朗",
             "year" : "2012"
+         },
+         {
+            "desc" : " 実業家",
+            "name" : "下妻博",
+            "wref" : "下妻博",
+            "year" : "2015"
          }
       ],
       "fictional_birthdays" : [
@@ -34795,12 +34801,17 @@
                "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>",
                [
                   "string",
-                  "）、世界津波の日（国連）"
+                  "）、世界津波の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022UN\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "）"
                ]
             ],
             [
-               "unparsed",
-               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>2011年\u003C/mw:l>に制定。1854年\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u002211月5日 (旧暦)\u0022>11月5日\u003C/mw:l>（旧暦、グレゴリオ暦では\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>12月24日\u003C/mw:l>）に\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>安政南海地震\u003C/mw:l>が発生した日から\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>[http\u003C/mw:ref>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.data.jma.go.jp/svd/eew/data/nc/kunren/2014/tsunamibosai.html １１月５日は「津波防災の日」]&lt;/ref&gt;\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:xl href=\u0022http://www.sankei.com/world/news/151205/wor1512050036-n1.html\u0022>日本提案で「世界津波の日」制定へ　国連委で決議　「稲むらの火」ちなみ１１月５日\u003C/mw:xl>\u003C/mw:ref>\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:xl href=\u0022http://www.asahi.com/articles/ASHD5045ZHD4UTFK01K.html\u0022>１１月５日が世界津波の日に　日本提案、国連が決議採択\u003C/mw:xl>\u003C/mw:ref>\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:xl href=\u0022http://www.iza.ne.jp/kiji/politics/news/151205/plt15120509460003-n1.html\u0022>岸田外相「世界中で津波対策が進むことを希望」　世界津波の日採択\u003C/mw:xl>\u003C/mw:ref>\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:xl href=\u0022http://www3.nhk.or.jp/news/html/20151205/k10010330551000.html\u0022>１１月５日を「世界津波の日」に 決議採択\u003C/mw:xl>\u003C/mw:ref>。\u003C/dd>"
+               "string",
+               "津波防災の日は2011年に制定。世界津波の日は2015年に制定。1854年11月5日（旧暦、グレゴリオ暦では12月24日）に安政南海地震が発生した日から。"
             ]
          ]
       ],
