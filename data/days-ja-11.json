@@ -26949,16 +26949,6 @@
             "wref" : "勤労感謝の日"
          },
          {
-            "name" : "ルドルフ・マイスターの日",
-            "region_wref" : "SVN"
-         },
-         {
-            "desc" : "聖ゲオルギウスのグルジアにおける聖名祝日。グルジアの国名はゲオルギウスにちなむもので、同国のナショナルデーとなっている。",
-            "name" : "聖ゲオルギウスの日",
-            "region_wref" : "GEO",
-            "wref" : "サン・ジョルディの日"
-         },
-         {
             "desc" : "日本フードサービス協会が創立10周年を記念して1984年に制定。いつも家事で忙しい母のために、勤労感謝の日と同じ日に設定した形になっている。",
             "name" : "外食の日",
             "region_wref" : "JPN"
@@ -26993,6 +26983,16 @@
             "name" : "国際千葉駅伝",
             "region_wref" : "JPN",
             "wref" : "国際千葉駅伝"
+         },
+         {
+            "name" : "ルドルフ・マイスターの日",
+            "region_wref" : "SVN"
+         },
+         {
+            "desc" : "聖ゲオルギウスのグルジアにおける聖名祝日。グルジアの国名はゲオルギウスにちなむもので、同国のナショナルデーとなっている。",
+            "name" : "聖ゲオルギウスの日",
+            "region_wref" : "GEO",
+            "wref" : "サン・ジョルディの日"
          }
       ]
    },
@@ -34557,6 +34557,34 @@
             [
                "string",
                "二十四節気の1つ。太陽の黄経が240度の時で、わずかながら雪が降り始めるころ。"
+            ]
+         ]
+      ],
+      [
+         "11月23日",
+         "記念日・年中行事",
+         [
+            "with-indent",
+            [
+               "unparsed",
+               [
+                  "string",
+                  "日本の日（"
+               ],
+               "\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022ROC-TW\u0022>\u003C/mw:include>",
+               [
+                  "string",
+                  "・"
+               ],
+               "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>台南市\u003C/mw:l>",
+               [
+                  "string",
+                  "）"
+               ]
+            ],
+            [
+               "unparsed",
+               "台南市に拠点を置く日本企業へ感謝を示し、交流の強化を図る日として、台南市政府が制定\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022cite news\u0022>\u000A \u003Cmw:iparam name=\u0022url\u0022>\u003Cmw:xl bare=\u0022\u0022>http://japan.cna.com.tw/news/asoc/201511230011.aspx\u003C/mw:xl>\u000A \u003C/mw:iparam>\u003Cmw:iparam name=\u0022title\u0022>台湾・台南市、11月23日を「日本の日」に 日本企業の投資に感謝\u000A \u003C/mw:iparam>\u003Cmw:iparam name=\u0022newspaper\u0022>フォーカス台湾\u000A \u003C/mw:iparam>\u003Cmw:iparam name=\u0022date\u0022>2015-11-23\u000A \u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2015-12-20\u000A \u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。"
             ]
          ]
       ],
