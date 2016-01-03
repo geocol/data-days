@@ -14903,14 +14903,6 @@
             "desc" : "ドラマー(己龍)",
             "name" : "遠海准司",
             "wref" : "己龍"
-         },
-         {
-            "desc" : "漫画『D.Gray-man』に登場するキャラクター",
-            "name" : "キエ"
-         },
-         {
-            "desc" : "漫画『EREMENTAR GERAD』に登場するキャラクター",
-            "name" : "ラサティ=ティグレス"
          }
       ],
       "deathdays" : [
@@ -22290,14 +22282,6 @@
             "desc" : "アイドル(GEM)",
             "name" : "平野沙羅",
             "year" : "1999"
-         },
-         {
-            "desc" : "漫画・アニメ『SLAM DUNK』に登場するキャラクター",
-            "name" : "石井健太郎"
-         },
-         {
-            "desc" : "ゲーム『アイドルマスター ミリオンライブ!』に登場するキャラクター",
-            "name" : "北沢志保"
          }
       ],
       "deathdays" : [
@@ -22769,17 +22753,6 @@
       ]
    },
    "01-19" : {
-      "birthdays" : [
-         {
-            "desc" : "漫画・アニメ『NARUTO -ナルト-』に登場するキャラクター",
-            "name" : "我愛羅",
-            "wref" : "我愛羅"
-         },
-         {
-            "desc" : "ゲーム・アニメ『フォトカノ』に登場するキャラクター",
-            "name" : "室戸亜岐"
-         }
-      ],
       "deathdays" : [
          {
             "desc" : "フランク王",
@@ -24559,29 +24532,6 @@
       ]
    },
    "01-21" : {
-      "birthdays" : [
-         {
-            "desc" : "漫画『ゆるゆり』に登場するキャラクター",
-            "name" : "大室撫子"
-         },
-         {
-            "desc" : "ゲーム・アニメ『D.C. 〜ダ・カーポ〜』に登場するキャラクター",
-            "name" : "胡ノ宮環"
-         },
-         {
-            "desc" : "ゲーム『THE IDOLM@STER SP』に登場するキャラクター",
-            "name" : "四条貴音",
-            "wref" : "THE IDOLM@STERの登場人物#四条 貴音（しじょう たかね）"
-         },
-         {
-            "desc" : "漫画・アニメ『BLEACH』に登場するキャラクター",
-            "name" : "山本元柳斎重國"
-         },
-         {
-            "desc" : "漫画『東京★イノセント』に登場するキャラクター",
-            "name" : "雪代千歳"
-         }
-      ],
       "deathdays" : [
          {
             "desc" : "キリスト教の聖人",
@@ -25948,10 +25898,6 @@
             "desc" : "シンガーソングライター",
             "name" : "IKU",
             "wref" : "IKU"
-         },
-         {
-            "desc" : "漫画『D.Gray-man』に登場するキャラクター",
-            "name" : "マルコム=C=ルベリエ"
          }
       ],
       "deathdays" : [
@@ -36682,20 +36628,6 @@
             [
                "unparsed",
                "かんぴょう（干瓢）の「干」が「一」と「十」の組み合わせから成ることに由来\u003Cmw:ref xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>\u003Cmw:include wref=\u0022Cite web\u0022>\u003Cmw:iparam name=\u0022date\u0022>2007年 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022url\u0022>http\u003C/mw:iparam>\u003Cdd xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>//www.kanpyo.jp/knowledge.html \u003C/dd>\u003Cmw:iparam name=\u0022title\u0022>干瓢の基礎知識：栃木のかんぴょう祭り \u003C/mw:iparam>\u003Cmw:iparam name=\u0022publisher\u0022>栃木県干瓢商業協同組合 \u003C/mw:iparam>\u003Cmw:iparam name=\u0022accessdate\u0022>2010-01-09\u003C/mw:iparam>\u003C/mw:include>\u003C/mw:ref>。"
-            ]
-         ]
-      ],
-      [
-         "1月10日",
-         "記念日・年中行事",
-         [
-            "with-indent",
-            {
-               "name" : "大王感謝の日(漫画『星のカービィ デデデでプププなものがたり』)"
-            },
-            [
-               "unparsed",
-               "1月10日を別の読みにすると\u003Cb xmlns=\u0022http://www.w3.org/1999/xhtml\u0022>いいおう\u003C/b>になることから由来。記念日の名前のとおり、国王（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>デデデ大王\u003C/mw:l>）に感謝する日。"
             ]
          ]
       ],
