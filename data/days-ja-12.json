@@ -28597,15 +28597,8 @@
       ],
       "fictional_birthdays" : [
          {
-            "desc" : "漫画、アニメ『ベルサイユのばら』の主人公",
-            "name" : "オスカル・フランソワ・ド・ジャルジェ",
-            "wref" : "オスカル・フランソワ・ド・ジャルジェ",
-            "year" : "1755"
-         },
-         {
-            "desc" : "漫画、アニメ『絶対衝激』の主人公",
-            "name" : "伊勢島 綾",
-            "year" : "1991"
+            "desc" : "漫画・アニメ『サイボーグ009』に登場するキャラクター",
+            "name" : "サイボーグ005 / ジェロニモ・ジュニア"
          },
          {
             "desc" : "漫画・アニメ『D.Gray-man』の主人公(正確には拾われた日)",
@@ -28619,18 +28612,6 @@
          {
             "desc" : "漫画『EREMENTAR GERAD』に登場するキャラクター",
             "name" : "シスカ"
-         },
-         {
-            "desc" : "漫画・アニメ『進撃の巨人』に登場するキャラクター",
-            "name" : "リヴァイ・アッカーマン"
-         },
-         {
-            "desc" : "漫画・アニメ『ダイヤのA』に登場するキャラクター",
-            "name" : "片岡鉄心"
-         },
-         {
-            "desc" : "漫画・アニメ『パタリロ!』に登場するキャラクター",
-            "name" : "ジャック・バルバロッサ・バンコラン"
          }
       ],
       "fictionals" : [
@@ -35987,6 +35968,14 @@
          ]
       ],
       [
+         "12月20日",
+         "誕生日(フィクション)",
+         [
+            "unparsed",
+            "生年不明 - 一条楽、漫画・アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ニセコイ\u003C/mw:l>』の主人公\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>。"
+         ]
+      ],
+      [
          "12月21日",
          "フィクションのできごと",
          [
@@ -36165,8 +36154,48 @@
          "12月25日",
          "誕生日(フィクション)",
          [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1755年\u003C/mw:l> - \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>オスカル・フランソワ・ド・ジャルジェ\u003C/mw:l>、漫画、アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ベルサイユのばら\u003C/mw:l>』の主人公（\u002B \u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1789年\u003C/mw:l>）\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "12月25日",
+         "誕生日(フィクション)",
+         [
             "string",
             "1984年（アニメでは1987年） - 弥海砂、漫画・アニメ『DEATH NOTE』に登場するキャラクター（\u002B 2011年〈原作〉、アニメでは不明）"
+         ]
+      ],
+      [
+         "12月25日",
+         "誕生日(フィクション)",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>1991年\u003C/mw:l> - 伊勢島 綾、漫画、アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>絶対衝激\u003C/mw:l>』の主人公\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "12月25日",
+         "誕生日(フィクション)",
+         [
+            "unparsed",
+            "生年不明 - リヴァイ・アッカーマン、漫画・アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>進撃の巨人\u003C/mw:l>』に登場するキャラクター\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "12月25日",
+         "誕生日(フィクション)",
+         [
+            "unparsed",
+            "生年不明 - 片岡鉄心、漫画・アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>ダイヤのA\u003C/mw:l>』に登場するキャラクター\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>"
+         ]
+      ],
+      [
+         "12月25日",
+         "誕生日(フィクション)",
+         [
+            "unparsed",
+            "生年不明 - ジャック・バルバロッサ・バンコラン、漫画・アニメ『\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>パタリロ！\u003C/mw:l>』に登場するキャラクター\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022要出典\u0022>\u003Cmw:iparam name=\u0022date\u0022>2016年1月\u003C/mw:iparam>\u003C/mw:include>"
          ]
       ],
       [
