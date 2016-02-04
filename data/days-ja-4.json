@@ -1286,10 +1286,8 @@
       "memorials" : [
          {
             "name" : "エイプリルフール",
+            "region_wref" : "World",
             "wref" : "エイプリルフール"
-         },
-         {
-            "name" : "日本で会計年度・学校年度(年度)が始まる日である。 日本では法律上、この日生まれの人は「早生まれ」として扱われる。"
          },
          {
             "desc" : "かつては、冬の間に防寒として着物に詰めた綿を旧暦4月1日に抜いていた。ここから、 「四月一日（四月朔日）」と書いて「わたぬき」と読む姓も存在する。",
@@ -18614,6 +18612,14 @@
          [
             "string",
             "C.E.70年 - エイプリルフール・クライシス発動。（アニメ『機動戦士ガンダムSEED』）"
+         ]
+      ],
+      [
+         "4月1日",
+         "記念日・年中行事",
+         [
+            "unparsed",
+            "\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>会計年度\u003C/mw:l>・\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>学校年度\u003C/mw:l>（\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022>年度\u003C/mw:l>）が始まる日である（\u003Cmw:include xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022JPN\u0022>\u003C/mw:include>）。 日本では法律上、この日生まれの人は「\u003Cmw:l xmlns:mw=\u0022http://suikawiki.org/n/mw\u0022 wref=\u0022学齢\u0022>早生まれ\u003C/mw:l>」として扱われる。"
          ]
       ],
       [
