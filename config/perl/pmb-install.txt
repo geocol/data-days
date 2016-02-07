@@ -1,3 +1,2 @@
-File::Spec~3.62
 Carp~1.38
 Path::Tiny~0.076
