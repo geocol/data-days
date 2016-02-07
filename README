@@ -1,0 +1,102 @@
+data-days/data/days-ja.json
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The file contains JSON data which describe events of days, extracted
+from Japanese version of Wikipedia.
+
+* Data structure
+
+The file contains a JSON object, which contains name/value pair whose
+names are month and day numbers of days in a year in the "MM-DD"
+format and values are corresponding descriptions.  The Gregorian
+calendar
+<https://manakai.github.io/spec-datetime/#gregorian-calendar-0> is
+used to identify days whenever possible.
+
+Days are described as JSON objects whose names represent sections in
+Wikipedia articles:
+
+  Name                Wikipedia section
+  ------------------- ---------------------
+  birthdays           誕生日
+  deathdays           忌日
+  fictional_birthdays 誕生日(フィクション)
+  historicals         できごと
+  jp_towns            日本の自治体改編
+  memorials           記念日・年中行事
+
+Their values are JSON arrays containing event descriptions.
+
+An event description is a JSON object with following name/value pairs:
+
+  date_gregorian
+
+    The Gregorian date string
+    <https://manakai.github.io/spec-datetime/#gregorian-date-string>
+    of the day of the event, if known.
+
+  date_julian
+
+    The Julian date string
+    <https://manakai.github.io/spec-datetime/#julian-date-string> of
+    the day of the event, if known.
+
+  date_kyuureki
+
+    The kyuureki date string
+    <https://manakai.github.io/spec-datetime/#kyuureki-date-string> of
+    the day of the event, if known.
+
+  date_wikipedia
+
+    The YMD date string
+    <https://manakai.github.io/spec-datetime/#ymd-string> of the day
+    of the event, extracted from the source Wikipedia article.
+
+  date_wikipedia_local
+
+    The local date of the event, extracted from the source Wikipedia
+    article, if any.
+
+  desc
+
+    A short human-readable Japanese description text of the event,
+    extracted from the source Wikipedia article, if available.
+
+  name
+
+    The name of the event, or the person of the event, in modern
+    Japanese form, if applicable.
+
+  region_wref
+
+    A Wikipedia reference
+    <https://github.com/geocol/data-jp-transport/blob/master/doc/datatypes.txt>
+    for the Japanese Wikipedia article on the region of the event, if
+    known.
+
+  wref
+
+    A Wikipedia reference
+    <https://github.com/geocol/data-jp-transport/blob/master/doc/datatypes.txt>
+    for the Japanese Wikipedia article on the event or the person of
+    the event, if known.
+
+* Source
+
+365日 - Wikipedia <https://ja.wikipedia.org/wiki/365%E6%97%A5>.
+
+* License
+
+You are granted a license to use, reproduce and create derivative
+works of the JSON file.  See the following document for the full
+license terms:
+
+  Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0
+  Unported License
+  <https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License>.
+
+Per CC0 <https://creativecommons.org/publicdomain/zero/1.0/>, to the
+extent possible under law, the author of the scripts and the documents
+in this repository has waived all copyright and related or neighboring
+rights to them.
