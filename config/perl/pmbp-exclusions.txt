@@ -1,0 +1,2 @@
+- "../../modules/kyuureki" tests build
+- "../../modules/web-datetime" tests build

@@ -51,7 +51,7 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Build ------
 
-data: data/days-ja
+data: data/days-ja.json
 
 clean-data:
 	rm -fr local/input-*
@@ -84,14 +84,20 @@ local/input-11.json:
 local/input-12.json:
 	perl -e 'print "12月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
 
-data/days-ja-%.json: local/input-%.json
+local/days-ja-%.json: local/input-%.json
 	$(PERL) bin/generate.pl $< > $@
 
-data/days-ja: \
-  data/days-ja-1.json data/days-ja-2.json data/days-ja-3.json \
-  data/days-ja-4.json data/days-ja-5.json data/days-ja-6.json \
-  data/days-ja-7.json data/days-ja-8.json data/days-ja-9.json \
-  data/days-ja-10.json data/days-ja-11.json data/days-ja-12.json
+local/days-ja: \
+  local/days-ja-1.json local/days-ja-2.json local/days-ja-3.json \
+  local/days-ja-4.json local/days-ja-5.json local/days-ja-6.json \
+  local/days-ja-7.json local/days-ja-8.json local/days-ja-9.json \
+  local/days-ja-10.json local/days-ja-11.json local/days-ja-12.json
+
+local/era-defs.json:
+	$(WGET) -O $@ https://raw.githubusercontent.com/manakai/data-locale/master/data/calendar/era-defs.json
+
+data/days-ja.json: bin/date-fixup.pl #local/days-ja
+	$(PERL) $< > $@
 
 ## ------ Tests ------
 
