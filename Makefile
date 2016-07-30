@@ -15,7 +15,8 @@ update-deps: local/bin/pmbp.pl
 	perl local/bin/pmbp.pl --update
 	$(GIT) add config
 
-dataautoupdate: clean
+dataautoupdate:
+	$(MAKE) clean
 	$(MAKE) deps all
 	$(GIT) add data/*.json
 
@@ -97,7 +98,7 @@ local/days-ja: \
 local/era-defs.json:
 	$(WGET) -O $@ https://raw.githubusercontent.com/manakai/data-locale/master/data/calendar/era-defs.json
 
-data/days-ja.json: bin/date-fixup.pl #local/days-ja
+data/days-ja.json: bin/date-fixup.pl local/days-ja
 	$(PERL) $< > $@
 
 ## ------ Tests ------
