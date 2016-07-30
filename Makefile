@@ -15,7 +15,8 @@ update-deps: local/bin/pmbp.pl
 	perl local/bin/pmbp.pl --update
 	$(GIT) add config
 
-dataautoupdate: clean deps all
+dataautoupdate: clean
+	$(MAKE) deps all
 	$(GIT) add data/*.json
 
 ## ------ Setup ------
