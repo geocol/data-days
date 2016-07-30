@@ -1,4 +1,4 @@
-all: data
+all: generate-data
 
 clean: clean-json-ps clean-data
 
@@ -51,7 +51,7 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Build ------
 
-data: data/days-ja.json
+generate-data: data/days-ja.json
 
 clean-data:
 	rm -fr local/input-*
