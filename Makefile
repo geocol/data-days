@@ -98,7 +98,7 @@ local/days-ja: \
 local/era-defs.json:
 	$(WGET) -O $@ https://raw.githubusercontent.com/manakai/data-locale/master/data/calendar/era-defs.json
 
-data/days-ja.json: bin/date-fixup.pl local/days-ja
+data/days-ja.json: bin/date-fixup.pl local/days-ja local/era-defs.json
 	$(PERL) $< > $@
 
 ## ------ Tests ------
