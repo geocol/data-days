@@ -58,8 +58,8 @@ generate-data: data/days-ja.json
 clean-data:
 	rm -fr local/input-*
 
-EXTRACTOR = local/mwx/perl local/mwx/bin/extract-from-pages.pl
-EXTRACTOR_OPTS = --rules-file-name src/days.txt
+EXTRACTOR = local/mwx/perl local/mwx/bin/extract-from-pages-remote.pl
+EXTRACTOR_OPTS = --rules-file-name src/days.txt --url-prefix "$$JA_WPSERVER_URL_PREFIX"
 
 local/input-1.json:
 	perl -e 'print "1月$$_日\n" for 1..31' | xargs -- $(EXTRACTOR) $(EXTRACTOR_OPTS) > $@
